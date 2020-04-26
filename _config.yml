@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Culshaw-Maurer"
+title                    : "Scott Coffin"
 title_separator          : "|"
-name                     : "Michael Culshaw-Maurer"
+name                     : "Scott Coffin"
 description              : ""
-url                      : "https://mcmaurer.github.io"
+url                      : "https://scottcoffin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -62,7 +62,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "MCulshawMaurer"
+  username               : "DrScoffin"
 facebook:
   username               :
   app_id                 :
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael Culshaw-Maurer"
+  name             : "Scott Coffin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a PhD candidate in ecology and I like to pet dogs."
-  location         : "Somewhere"
+  bio              : "Ecotoxicologist, research scientist, regulator, surfer."
+  location         : "California"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -97,21 +97,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MCMaurer"
+  github           : "ScottCoffin"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        : 
-    username: "mc_maurer"
+    username: "surfclimbscott"
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : # "scottcoffin" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter:
-    username: "MCulshawMaurer"
+    username: "DrScoffin"
   vine             :
   weibo            :
   xing             :
