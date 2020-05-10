@@ -5,4 +5,4 @@ header:
   image: /assets/images/scottrubidoux.jpeg
 ---
 
-My name is Scott Coffin, Ph.D. I intend to update this section soon.
+Hi! I'm Scott Coffin, Ph.D. I intend to update this section soon.

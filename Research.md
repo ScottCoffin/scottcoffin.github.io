@@ -2,11 +2,9 @@
 title: Research
 permalink: /Research/
 layout: splash
-author_profile: true
+author_profile: false
 header:
-  overlay_color: "#000"
-  overlay_filter: 0.05
-  overlay_image: /assets/images/switz.jpeg
+  image: /assets/images/switz.jpeg
 ---
 
 ## Ecotoxicology: Plastic as a vector for contaminants
