@@ -1,4 +1,6 @@
 ---
+title: "Photography"
+permalink: /Photography/
 layout: splash
 author_profile: false
 header:
