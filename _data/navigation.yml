@@ -4,10 +4,6 @@ main:
     url: /About_Me
   - title: "Research"
     url: /Research
-  - #title: "Photography"
-    #url: /Photography
-  - #title: "Blog"
-    #url: /Blog
   - title: "CV"
     url: /CV.pdf
 
