@@ -4,7 +4,8 @@ permalink: /Research/
 layout: single
 author_profile: false
 header:
-  image: /assets/images/switz.jpeg
+  overlay_image: /assets/images/switz.jpeg
+  overlay_filter: 0.8 #opacity
 ---
 
 ## Microplastics in Drinking Water

@@ -4,7 +4,8 @@ permalink: /Data_Science/
 layout: splash
 author_profile: false
 header:
-  image: /assets/images/shelterindome.jpg
+  overlay_image: /assets/images/shelterindome.jpg
+  overlay_filter: 0.8 #opacity
 ---
 
 ## NASA Space Apps Challenge Winner

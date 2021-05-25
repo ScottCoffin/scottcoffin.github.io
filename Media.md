@@ -4,8 +4,8 @@ permalink: /Media/
 layout: splash
 author_profile: false
 header:
-  image: /assets/images/calepa.jpg
-  overlay_filter: 0.7 #opacity
+  overlay_image: /assets/images/calepa_short.jpg
+  overlay_filter: 0.8 #opacity
 ---
 
 ## Scott Coffin in the Media
