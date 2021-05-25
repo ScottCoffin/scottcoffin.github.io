@@ -1,7 +1,7 @@
 ---
 title: Media
 permalink: /Media/
-layout: compress
+layout: single
 author_profile: false
 header:
   overlay_image: /assets/images/calepa.jpg
