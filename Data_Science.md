@@ -4,7 +4,7 @@ permalink: /Data_Science/
 layout: splash
 author_profile: false
 header:
-  image: /assets/images/TomexLogo.png
+  image: /assets/images/shelterindome.jpg
 ---
 
 ## NASA Space Apps Challenge Winner
