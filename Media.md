@@ -5,7 +5,7 @@ layout: splash
 author_profile: false
 header:
   overlay_image: /assets/images/calepa_short.jpg
-  overlay_filter: 0.8 #opacity
+  overlay_filter: 0.5 #opacity
 ---
 
 ## Scott Coffin in the Media

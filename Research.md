@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 header:
   overlay_image: /assets/images/switz.jpeg
-  overlay_filter: 0.8 #opacity
+  overlay_filter: 0.5 #opacity
 ---
 
 ## Microplastics in Drinking Water
