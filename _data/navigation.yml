@@ -4,6 +4,10 @@ main:
     url: /About_Me
   - title: "Research"
     url: /Research
+  - title: "Data Science"
+    url: /Data_Science
+  - title: "Media"
+    url: /Media
   - title: "CV"
     url: /CV.pdf
 

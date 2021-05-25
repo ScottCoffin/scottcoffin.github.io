@@ -88,7 +88,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ecotoxicologist, rock climber, research scientist, surfer, regulator, yogi."
   location         : "California"
-  email            :
+  email            : "scott.l.coffin@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
