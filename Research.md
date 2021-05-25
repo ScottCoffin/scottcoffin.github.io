@@ -1,7 +1,7 @@
 ---
 title: Research
 permalink: /Research/
-layout: splash
+layout: single
 author_profile: false
 header:
   image: /assets/images/switz.jpeg

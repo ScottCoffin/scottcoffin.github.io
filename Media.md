@@ -1,7 +1,10 @@
 ---
 title: Media
 permalink: /Media/
-layout: splash
+layout: single
+classes:
+  - landing
+  - dark-theme
 author_profile: false
 header:
   image: /assets/images/calepa.jpg
