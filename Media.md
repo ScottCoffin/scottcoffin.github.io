@@ -4,7 +4,7 @@ permalink: /Media/
 layout: compress
 author_profile: false
 header:
-  image: /assets/images/calepa.jpg
+  overlay_image: /assets/images/calepa.jpg
 ---
 
 ## Scott Coffin in the Media
