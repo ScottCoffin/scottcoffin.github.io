@@ -11,6 +11,14 @@ header:
 ## Scott Coffin in the Media
 The following is a **non-exhaustive** list of recent media highlighting my work.
 
+* [Key Ingredients to Effective Science Communication: Focus on Microplastics Science and Policy](https://www.youtube.com/watch?v=tPtPzL4PQvk)
+
+* [North Carolina Coastal Microplastics Forum](https://www.youtube.com/watch?v=75OEJnqfaEw)
+
+* [Report of RNRF Round Table: Meeting the Challenge of Microplastic Management to Protect Human Health and the Environment](https://rnrf.org/news/)
+
+* [Opinion: Microplastics are getting into our bodies. We need to understand what that means](https://www.latimes.com/opinion/story/2021-07-13/opinion-microplastics-are-getting-into-our-bodies-we-need-to-understand-what-that-means)
+
 * [Premature or precautionary? California is first to tackle microplastics in drinking water](https://calmatters.org/environment/2021/03/california-microplastics-drinking-water/)
 
 * [What you Don’t Know Can Hurt You: Taking the Precautionary Approach to Microplastics and Nanoplastics](https://medium.com/living-in-the-plastocene/what-you-dont-know-can-hurt-you-taking-the-precautionary-approach-to-microplastics-and-cf8242d25dab)
