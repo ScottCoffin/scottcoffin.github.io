@@ -1,0 +1,64 @@
+---
+title: "data_cv"
+author: "Scott Coffin"
+date: "11/19/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(skimr)
+library(lubridate)
+```
+
+```{r}
+#read in data
+cv <- readxl::read_xlsx("assets/data/presentation tracking spreadsheet.xlsx")
+
+#convert dates
+date <- cv %>% 
+  mutate(day = 1) %>% 
+  mutate(month_number = match(Month, month.name)) %>% 
+  mutate(date = make_date(year = Year, month = month_number, day = day))
+
+#plot
+engagements <- date %>% 
+  ggplot() +
+  geom_histogram(aes(x = date, color = Category, fill = Category),
+                 binwidth = 91, position = "stack") + #quarterly
+  geom_vline(xintercept = as.numeric(as.Date("2016-09-01")), linetype = 2) +
+  geom_text(x = as.numeric(as.Date("2016-09-01")), y = 9,
+            label = "Passed qualifying exam", angle = 90,
+            vjust = -1) +
+  geom_vline(xintercept = as.numeric(as.Date("2019-01-01")), linetype = 2) +
+   geom_text(x = as.numeric(as.Date("2019-01-01")), y = 9,
+            label = "Started career at CalEPA", angle = 90,
+            vjust = -1) +
+  scale_x_date(limits = as.Date(c("2014-01-01", "2021-12-01"))) +
+  ylab("Number per Quarter") +
+  labs(title = "Speaking Engagements Over Time",
+       subtitle = "Scott Coffin, Ph.D.") +
+  theme_minimal(base_size = 18) +
+  theme(legend.title = element_blank(),
+        plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5, face = "italic"),
+        legend.position = c(0.15,0.95)
+        )
+
+engagements
+```
+ 
+```{r}
+ggsave(engagements,
+       file = "assets/engagements.jpeg",
+       bg = "white",
+       width = 8, height = 6,
+       units = "in",
+       scale = 0.8)
+```
+ 
+ 
