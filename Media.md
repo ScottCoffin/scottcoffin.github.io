@@ -9,7 +9,17 @@ header:
 ---
 
 ## Scott Coffin in the Media
-The following is a **non-exhaustive** list of recent media highlighting my work.
+The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles.
+
+### 2021
+
+* [KQED Newsroom Special: California’s Plastic Problem](https://www.youtube.com/watch?v=-bTCCB6wbks&feature=emb_imp_woyt)
+
+* [National Academies of Sciences, Engineering, and Medicine Food Forum: Microplastics from Food and Water: State of the Science and Potential Impacts on Human Health](https://www.youtube.com/watch?v=S56nsUvTR2I&list=PLGTMA6Qkejfj4AzYBMq1cFtlkLvXbFexi&index=4)
+
+* [KQED Newsroom Special: California’s Plastic Problem](https://www.youtube.com/watch?v=-bTCCB6wbks&feature=emb_imp_woyt)
+
+* [WaterWorld.com: World’s first standardized testing for microplastics in drinking water](https://www.waterworld.com/drinking-water/potable-water-quality/press-release/14215238/worlds-first-standardized-testing-for-microplastics-in-drinking-water)
 
 * [Key Ingredients to Effective Science Communication: Focus on Microplastics Science and Policy](https://www.youtube.com/watch?v=tPtPzL4PQvk)
 
@@ -17,11 +27,11 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [Report of RNRF Round Table: Meeting the Challenge of Microplastic Management to Protect Human Health and the Environment](https://rnrf.org/news/)
 
-* [Opinion: Microplastics are getting into our bodies. We need to understand what that means](https://www.latimes.com/opinion/story/2021-07-13/opinion-microplastics-are-getting-into-our-bodies-we-need-to-understand-what-that-means)
+* [Los Angeles Times Opinion: Microplastics are getting into our bodies. We need to understand what that means](https://www.latimes.com/opinion/story/2021-07-13/opinion-microplastics-are-getting-into-our-bodies-we-need-to-understand-what-that-means)
 
-* [Premature or precautionary? California is first to tackle microplastics in drinking water](https://calmatters.org/environment/2021/03/california-microplastics-drinking-water/)
+* [CalMatters: Premature or precautionary? California is first to tackle microplastics in drinking water](https://calmatters.org/environment/2021/03/california-microplastics-drinking-water/)
 
-* [What you Don’t Know Can Hurt You: Taking the Precautionary Approach to Microplastics and Nanoplastics](https://medium.com/living-in-the-plastocene/what-you-dont-know-can-hurt-you-taking-the-precautionary-approach-to-microplastics-and-cf8242d25dab)
+* [Medium.com: What you Don’t Know Can Hurt You: Taking the Precautionary Approach to Microplastics and Nanoplastics](https://medium.com/living-in-the-plastocene/what-you-dont-know-can-hurt-you-taking-the-precautionary-approach-to-microplastics-and-cf8242d25dab)
 
 * [Small Particles, Big Problems? Scientists Grapple with Many Unknowns about Microplastics and Their Impact on the Chesapeake Bay](https://www.chesapeakequarterly.net/V19N2/main1/)
 
@@ -30,6 +40,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 * [The Zero Waste Countdown Podcast: Endocrin Disruptors and Plastics](https://zerowastecountdown.podbean.com/e/114-estrogen-epigenetics-and-plastic/)
 
 * [SCCWRP 2021 Winter Newsletter Spotlight](https://ftp.sccwrp.org/pub/download/DOCUMENTS/DirectorsReports/2102DirRep.pdf)
+
+### 2020
 
 * [SCCWRP Microplastics Health Effects Meeting Day One](https://vimeo.com/469902307)
 
@@ -48,6 +60,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 * [A story about Microplastics (Trash Datathon 2020)](https://www.youtube.com/watch?v=7oxy8KrAv2A)
 
 * [Plasticast Episode3 - Dr. Scott Coffin](https://www.youtube.com/watch?v=MTbqrfewuKY)
+
+### 2019
 
 * [Getting to Know H2O - the Water Cycle](https://www.youtube.com/watch?v=Eu6Jhit4TAA)
 
