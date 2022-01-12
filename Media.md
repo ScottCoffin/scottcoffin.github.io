@@ -21,6 +21,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [WaterWorld.com: World’s first standardized testing for microplastics in drinking water](https://www.waterworld.com/drinking-water/potable-water-quality/press-release/14215238/worlds-first-standardized-testing-for-microplastics-in-drinking-water)
 
+* [Spectrum News 1: As need to test water for microplastics increases, California finds a way](https://spectrumnews1.com/ca/la-east/environment/2021/10/26/our-water-will-need-to-be-tested-for-microplastics--california-finds-a-way#)
+
 * [Key Ingredients to Effective Science Communication: Focus on Microplastics Science and Policy](https://www.youtube.com/watch?v=tPtPzL4PQvk)
 
 * [North Carolina Coastal Microplastics Forum](https://www.youtube.com/watch?v=75OEJnqfaEw)
