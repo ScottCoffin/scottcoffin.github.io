@@ -11,6 +11,9 @@ header:
 ## Scott Coffin in the Media
 The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles.
 
+### 2022
+* [KQED: 'You Can't Recycle Your Way Out': California's Plastic Problem and What We Can Do About It](https://www.kqed.org/news/11901288/you-cant-recycle-your-way-out-californias-plastic-problem-and-what-to-do-about-it)
+
 ### 2021
 
 * [KQED Newsroom Special: California’s Plastic Problem](https://www.youtube.com/watch?v=-bTCCB6wbks&feature=emb_imp_woyt)
