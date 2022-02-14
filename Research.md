@@ -12,7 +12,7 @@ header:
 
 I am currently the lead scientist in California's implementation of [SB 1422- Microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html). Notable reports and publications related to this project are listed below:
 
-* Coffin, S. (March/April 2022). "Accounting for Plastic’s True Costs." **The Environmental Forum**. [Full Text](/assets/publications/PlasticDebate.pdf)
+* Coffin, S. (March/April 2022). "Accounting for Plastic’s True Costs." *The Environmental Forum*. [Full Text](/assets/publications/PlasticDebate.pdf)
 
 * Coffin, S., Wyer, H., & Leapman, J. C. (2021). Addressing the environmental and health impacts of microplastics requires open collaboration between diverse sectors. PLOS BIOLOGY, 15. https://doi.org/10.1371/journal.pbio.3000932
 
