@@ -12,6 +12,8 @@ header:
 The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles.
 
 ### 2022
+* [Environmental Law Institute: "The Debate: Can We Make Plastic Sustainable?"](https://www.eli.org/sites/default/files/files-pdf/tef-march-april-2022-debate.pdf)
+
 * [Environmental Health News: Scientists: US needs to support a strong global agreement tocurb plastic pollution](https://www.ehn.org/us-plastics-2656802114.html)
 
 * [KQED: 'You Can't Recycle Your Way Out': California's Plastic Problem and What We Can Do About It](https://www.kqed.org/news/11901288/you-cant-recycle-your-way-out-californias-plastic-problem-and-what-to-do-about-it)
