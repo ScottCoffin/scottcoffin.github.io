@@ -12,6 +12,9 @@ header:
 The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles.
 
 ### 2022
+
+* [California Ocean Day 2022. Microplastics:m Califorrnia's BIG little plastic problem with CSU COAST, Senator Ben Allen, Dr. Scott Coffin, and Dr. Eunah Hoh](https://fb.watch/c4l4H7QWC9/)
+
 * [Environmental Law Institute: "The Debate: Can We Make Plastic Sustainable?"](https://www.eli.org/sites/default/files/files-pdf/tef-march-april-2022-debate.pdf)
 
 * [Environmental Health News: Scientists: US needs to support a strong global agreement tocurb plastic pollution](https://www.ehn.org/us-plastics-2656802114.html)
