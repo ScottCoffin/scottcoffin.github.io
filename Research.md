@@ -12,11 +12,11 @@ header:
 
 I am currently the lead scientist in California's implementation of [SB 1422- Microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html). Notable reports and publications related to this project are listed below:
 
-* Coffin, S. (March/April 2022). "Accounting for Plastic’s True Costs." *The Environmental Forum*. [Full Text](assets/publications/PlasticDebate.pdf)
+* Coffin, S. (March/April 2022). "Accounting for Plastic’s True Costs." *The Environmental Forum*. [Full Text](https://www.eli.org/sites/default/files/files-pdf/tef-march-april-2022-debate.pdf)
 
 * Coffin, S., Wyer, H., & Leapman, J. C. (2021). Addressing the environmental and health impacts of microplastics requires open collaboration between diverse sectors. PLOS BIOLOGY, 15. https://doi.org/10.1371/journal.pbio.3000932
 
-* Wyer, H., Polhemus, D., Moore, S., Weisberg, S. B., Coffin, S., & Rochman, C. M. (2020). Steps Scientists Can Take to Inform Aquatic Microplastics Management: A Perspective Informed by the California Experience. Applied Spectroscopy, 74(9), 971–975. https://doi.org/10.1177/0003702820946033
+* Wyer, H., Polhemus, D., Moore, S., Weisberg, S. B., Coffin, S., & Rochman, C. M. (2020). Steps Scientists Can Take to Inform Aquatic Microplastics Management: A Perspective Informed by the California Experience. Applied Spectroscopy, 74(9), 971–975. [Full Text](https://doi.org/10.1177/0003702820946033)
 
 * Martindale, S., Weisberg, S. B., & Coffin, S. (2020). Status of Legislation and Regulatory Drivers for Microplastics in California. HORBIA Readout. [Full text](https://www.researchgate.net/profile/Scott-Coffin-2/publication/343084004_Guest_Forum_Status_of_Legislation_and_Regulatory_Drivers_for_Microplastics_in_California/links/5f15f36292851c1eff21c98c/Guest-Forum-Status-of-Legislation-and-Regulatory-Drivers-for-Microplastics-in-California.pdf?_sg%5B0%5D=yc--jD0Voz2RNCGAulSG1XzCiS29XefwwBSOuHX4f0rFxxQX_3oHQ4_pmJPoKcxEWIwuLgWeMlxSgk5TUxisHA.q6k8zFlW_i0b3tffmK-KCwgViN0CIk1vX3uZPKbQ7Uvymr4yQC-_9rbSb8VxfUIOu5LxbZh-xYTgoJ789YbLjA&_sg%5B1%5D=0keB4Ra_czYC2PzXGuQeEUlhaItGJhxuc6KBJEfE91Eejh0OJ95x3DG2f76BIFE0e9q-PaqTgoa8gQ0zRY3_0pn8P9J-OfAxLvHekRfFN0pw.q6k8zFlW_i0b3tffmK-KCwgViN0CIk1vX3uZPKbQ7Uvymr4yQC-_9rbSb8VxfUIOu5LxbZh-xYTgoJ789YbLjA&_iepl=)
 
@@ -26,17 +26,17 @@ I am currently the lead scientist in California's implementation of [SB 1422- Mi
 ## Ecotoxicology
 My primary area of study for my PhD was in determining the ability for [plastic to transfer contaminants to biota](https://pqdtopen.proquest.com/pubnum/10982838.html?FMT=AI) using bioanalytical screening tools, analytical chemistry, biomimetic models, Japanese medaka and White seabass fish, and computer simulations. Some notable publications related to this work are listed below:
 
-*Elko, N., Foster, D., Kleinheinz, G., Raubenheimer, B., Brander, S., Kinzelman, J., Kritzer, J.P., Munroe, D., Storlazzi, C., Sutula, M., Mercer, A., Coffin, S., Fraioli, C., Ginger, L., Morrison, E., Parent-Doliner, G., Akan, C., Canestrelli, A., DiBenedetto, M., Lang, J., and Simm, J., 2021. "Human and Ecosystem Health in Coastal Systems", Shore & Beach, 90(1), pg 64-91. http://doi.org/10.34237/1009018
+*Elko, N., Foster, D., Kleinheinz, G., Raubenheimer, B., Brander, S., Kinzelman, J., Kritzer, J.P., Munroe, D., Storlazzi, C., Sutula, M., Mercer, A., Coffin, S., Fraioli, C., Ginger, L., Morrison, E., Parent-Doliner, G., Akan, C., Canestrelli, A., DiBenedetto, M., Lang, J., and Simm, J., 2021. "Human and Ecosystem Health in Coastal Systems", Shore & Beach, 90(1), pg 64-91. [Full Text](http://doi.org/10.34237/1009018)
 
-* Coffin, S., Magnuson, J. T., Vliet, S. M. F., Volz, D. C., & Schlenk, D. (2020). Effects of short-term exposure to environmentally-relevant concentrations of benzo(a)pyrene-sorbed polystyrene to White seabass (Atractoscion nobilis)☆. Environmental Pollution, 263, 114617. https://doi.org/10.1016/j.envpol.2020.114617
+* Coffin, S., Magnuson, J. T., Vliet, S. M. F., Volz, D. C., & Schlenk, D. (2020). Effects of short-term exposure to environmentally-relevant concentrations of benzo(a)pyrene-sorbed polystyrene to White seabass (Atractoscion nobilis)☆. Environmental Pollution, 263, 114617. [Full Text](https://doi.org/10.1016/j.envpol.2020.114617)
 
-* Coffin, S. (2018). Plastic as a Vector for Pollutants in Estuarine and Marine Environments [University of California, Riverside]. https://escholarship.org/uc/item/2g3670bz
+* Coffin, S. (2018). Plastic as a Vector for Pollutants in Estuarine and Marine Environments [University of California, Riverside]. [Full Text](https://escholarship.org/uc/item/2g3670bz)
 
-* Moreira, L. B., Diamante, G., Giroux, M., Coffin, S., Xu, E. G., Moledo de Souza Abessa, D., & Schlenk, D. (2018). Impacts of salinity and temperature on the thyroidogenic effects of the biocide diuron in Menidia beryllina. Environmental Science & Technology, 52(5), 3146–3155. https://pubs.acs.org/doi/10.1021/acs.est.7b04970
+* Moreira, L. B., Diamante, G., Giroux, M., Coffin, S., Xu, E. G., Moledo de Souza Abessa, D., & Schlenk, D. (2018). Impacts of salinity and temperature on the thyroidogenic effects of the biocide diuron in Menidia beryllina. Environmental Science & Technology, 52(5), 3146–3155. [Full Text](https://pubs.acs.org/doi/10.1021/acs.est.7b04970)
 
-* Wang, J., Coffin, S., Schlenk, D., & Gan, J. (2020). Accumulation of HOCs via Precontaminated Microplastics by Earthworm Eisenia fetida in Soil. Environmental Science & Technology, acs.est.0c02922. https://doi.org/10.1021/acs.est.0c02922
+* Wang, J., Coffin, S., Schlenk, D., & Gan, J. (2020). Accumulation of HOCs via Precontaminated Microplastics by Earthworm Eisenia fetida in Soil. Environmental Science & Technology, acs.est.0c02922. [Full Text](https://doi.org/10.1021/acs.est.0c02922)
 
-* Wang, J., Coffin, S., Sun, C., Schlenk, D., & Gan, J. (2019). Negligible effects of microplastics on animal fitness and HOC bioaccumulation in earthworm Eisenia fetida in soil. Environmental Pollution, 249, 776–784. https://doi.org/10.1016/j.envpol.2019.03.102
+* Wang, J., Coffin, S., Sun, C., Schlenk, D., & Gan, J. (2019). Negligible effects of microplastics on animal fitness and HOC bioaccumulation in earthworm Eisenia fetida in soil. Environmental Pollution, 249, 776–784. [Full Text](https://doi.org/10.1016/j.envpol.2019.03.102)
 
 
 ## Bioanalytical screening tools
