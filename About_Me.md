@@ -4,7 +4,7 @@ permalink: /About_Me/
 layout: splash
 author_profile: true
 header:
-  overlay_image: /assets/images/scottrubidoux.jpeg
+  overlay_image: /assets/images/scottrubidoux_crop.jpeg
   overlay_filter: 0.5 #opacity
 ---
 
