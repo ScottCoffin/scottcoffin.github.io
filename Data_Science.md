@@ -17,7 +17,7 @@ Along with some close friends, I created the Plastiverse - which is a live, crow
 * [Project Website](https://www.plastiverse.org/)
 
 ## ToMEx
-[<img src="assets/images/TomexLogo.png" alt = "ToMEx logo" style="height: 100px; width:100px;"/>](https://microplastics.sccwrp.org/)
+[<img src="assets/images/TomexLogo.png" alt = "ToMEx logo" height="100" width="100"/>](https://microplastics.sccwrp.org/)
 
 I developed an RShiny application that allows users to manipulate and visualize toxicity data for microplastics on humans and ecosystems. The app contains data from over 200 peer-reviewed studies. The [Toxicity of Microplastics Explorer (ToMEx) app](https://microplastics.sccwrp.org/) is an *open-source* and *open-data* web-based application that is scheduled to launch in Summer, 2021. While the tool was originally designed for regulatory purposes, it’s accessibility and interactive nature allows use by diverse audiences, including researchers, educators, policy makers, and advocacy groups.
 
