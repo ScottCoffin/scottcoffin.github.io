@@ -9,8 +9,7 @@ header:
 ---
 
 ## Plastiverse
-![Plastiverse](assets/images/sticker.png)
-[<img src="assets/images/sticker.png" alt = "Plastiverse logo" style="height: 100px; width:100px;"/>](https://www.plastiverse.org/)
+![Plastiverse](assets/images/sticker.png){:width="25%"}
 
 Along with some close friends, I created the Plastiverse - which is a live, crowd-sourced repository for tools, databases, protocols, and information related to micro- and macro-plastics research as well as a web-based forum to exchange knowledge between practitioners related to best-practices, events, jobs and funding opportunities, and guidance for conducting research. This site is a rapidly developing work-in-progress.
 * [Follow Plastiverse on Twitter](https://twitter.com/ThePlastiverse)
