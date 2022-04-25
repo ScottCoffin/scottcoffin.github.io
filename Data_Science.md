@@ -2,7 +2,7 @@
 title: Data Science
 permalink: /Data_Science/
 layout: splash
-author_profile: false
+author_profile: true
 header:
   overlay_image: /assets/images/shelterindome.jpg
   overlay_filter: 0.5 #opacity
