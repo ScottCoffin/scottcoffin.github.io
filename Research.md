@@ -1,8 +1,8 @@
 ---
 title: Research
 permalink: /Research/
-layout: single
-author_profile: false
+layout: splash
+author_profile: true
 header:
   overlay_image: /assets/images/switz.jpeg
   overlay_filter: 0.5 #opacity
