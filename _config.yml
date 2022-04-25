@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Scott Coffin, Ph.D."
+title                    : "Scott Coffin, PhD"
 title_separator          : "|"
-name                     : "Scott Coffin, Ph.D."
+name                     : "Scott Coffin, PhD"
 description              : ""
 url                      : "https://scottcoffin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name e.g. "ScottCoffin/scottcoffin.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Scott Coffin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Ecotoxicologist, rock climber, research scientist, surfer, regulator, yogi."
   location         : "California"
   email            : "scott.l.coffin@gmail.com"
@@ -116,7 +116,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UC9fbP-RcP2wltS6_qP4zkng"
 
 
 # Reading Files
