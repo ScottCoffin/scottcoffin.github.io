@@ -4,7 +4,7 @@ permalink: /Research/
 layout: splash
 author_profile: true
 header:
-  overlay_image: /assets/images/switz.jpeg
+  overlay_image: /assets/images/switz_small.jpg
   overlay_filter: 0.5 #opacity
 ---
 
