@@ -9,14 +9,14 @@ header:
 ---
 
 ## Plastiverse
-![Plastiverse](assets/images/sticker.png){:height="100px" width="100px"}
+![Plastiverse](assets/images/sticker.png){:height="200px" width="200px"}
 
 Along with some close friends, I created the Plastiverse - which is a live, crowd-sourced repository for tools, databases, protocols, and information related to micro- and macro-plastics research as well as a web-based forum to exchange knowledge between practitioners related to best-practices, events, jobs and funding opportunities, and guidance for conducting research. This site is a rapidly developing work-in-progress.
 * [Follow Plastiverse on Twitter](https://twitter.com/ThePlastiverse)
 * [Project Website](https://www.plastiverse.org/)
 
 ## ToMEx
-![ToMEx](assets/images/TomexLogo.png){height="100px" width="100px"}
+![ToMEx](assets/images/TomexLogo.png){:height="200px" width="200px"}
 
 I developed an RShiny application that allows users to manipulate and visualize toxicity data for microplastics on humans and ecosystems. The app contains data from over 200 peer-reviewed studies. The [Toxicity of Microplastics Explorer (ToMEx) app](https://microplastics.sccwrp.org/) is an *open-source* and *open-data* web-based application that is scheduled to launch in Summer, 2021. While the tool was originally designed for regulatory purposes, it’s accessibility and interactive nature allows use by diverse audiences, including researchers, educators, policy makers, and advocacy groups.
 
@@ -24,7 +24,7 @@ I developed an RShiny application that allows users to manipulate and visualize 
 * [Source code](https://github.com/SCCWRP/aq_mp_tox_shiny)
 
 ## NASA Space Apps Challenge Winner
-![Shelter in Space](assets/images/shelterindome.jpg){height="100px" width="200px"}
+![Shelter in Space](assets/images/shelterindome.jpg){:height="200px" width="400px"}
 
 My project [Shelter in Space](https://shelterinspace.app/) won *Best Mission Concept* at the [Space Apps COVID-19 Challenge](https://covid19.spaceappschallenge.org/awards) hosted by space agencies (NASA, CSA, CNES, ESA and JAXA) in 2020. The Space Apps Challenge is an annual hackathon that has hosted over 26,000 participants from nearly 150 countries.
 
@@ -33,7 +33,7 @@ My project [Shelter in Space](https://shelterinspace.app/) won *Best Mission Con
 
 ## PFAS Datathon
 
-![PFAS Datathon](assets/images/PFAS.jpg){height="100px" width="150px"}
+![PFAS Datathon](assets/images/PFAS.jpg){:height="200px" width="300px"}
 
 In 2019, I lead the California State Water Board's two-day dathon on per- and polyfluoroalkyl substances (PFAS). The [PFAS Datathon 2019](https://www.waterboards.ca.gov/pfas/pfas_datathon.html) garnered data scientists and subject matter experts from academia, public sectors, and industry alike to collaboratively develop innovative solutions to answer scientific and management questions utilizing open data. Ther results from this project prompted a [peer-reviewed publication](https://eartharxiv.org/repository/view/1740/) and an [RShiny application useful for water agencies](https://meldataaa.shinyapps.io/PFAS_Analysis_and_Intervention/), among other products.
 
