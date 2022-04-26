@@ -13,6 +13,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2022
 
+* [National Geographic: Microplastics are in our bodies. How much do they harm us?](https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us)
+
 * [KCRA: Forecasting Our Future: Our world is full of microplastics. California is leading efforts to change that](https://www.kcra.com/article/our-world-is-full-of-microplastics-california-is-leading-efforts-to-change-that/39799569)
 
 * [California Ocean Day 2022. Microplastics:m Califorrnia's BIG little plastic problem with CSU COAST, Senator Ben Allen, Dr. Scott Coffin, and Dr. Eunah Hoh](https://www.calstate.edu/impact-of-the-csu/research/coast/about/Pages/Briefings-Panels.aspx)
