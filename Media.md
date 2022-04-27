@@ -8,6 +8,12 @@ header:
   overlay_filter: 0.5 #opacity
 ---
 
+## Overview
+
+The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 157 as of April 27, 2022.
+
+![Speaking Engagements](assets/engagements.jpeg){:height="300px" width="300px"}
+
 ## Scott Coffin in the Media
 The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles.
 
