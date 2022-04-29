@@ -10,7 +10,7 @@ header:
 
 ## Overview
 
-The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 157 as of April 27, 2022.
+The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 166 as of April 29, 2022.
 
 ![Speaking Engagements](assets/engagements.jpeg){:height=700px" width="700px"}
 
