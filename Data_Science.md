@@ -1,11 +1,18 @@
 ---
-title: Data Science
+title: "Data Science"
+output:
+  md_document:
+    variant: gfm
+    preserve_yaml: TRUE
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../_posts") })
+toc: true
 permalink: /Data_Science/
 layout: splash
-author_profile: true
+author_profile: yes
 header:
   overlay_image: /assets/images/shelterindome.jpg
-  overlay_filter: 0.5 #opacity
+  overlay_filter: 0.5
 ---
 
 ## Plastiverse
@@ -46,3 +53,10 @@ At the end of 2020, I, along with other State Water Board staff were tasked with
 
 * [Source Code](https://github.com/ScottCoffin/EconImpact)
 * [Presentation](https://www.researchgate.net/publication/351103438_Designing_and_Administrating_the_COVID-19_Financial_Impacts_Survey)
+
+## Miscellanious Fun Stuff
+
+
+<iframe src="/assets/collapsibleTree_widget.html" height="600px" width="100%" style="border:none;">
+</iframe>
+
