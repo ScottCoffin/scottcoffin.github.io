@@ -60,7 +60,10 @@ The following are interesting excerpts from miscellanious projects.
 
 ### Drinking Water Treatment
 
-Drinking water treatment plants use an astounding diversity of treatment techniques to accomplish a number of goals. I generated an interactive collapsible tree diagram to help visualize these hierarchical relationships, using data from the State Water Board's division of drinking water data portal.
+Drinking water treatment plants use an astounding diversity of treatment techniques to accomplish a number of goals. I generated an interactive collapsible tree diagram to help visualize these hierarchical relationships, using data from the State Water Board's division of drinking water data portal. I further annotated these treatment processes to indicate their approximate removal likelihood of microplastics, based on several recent literature reviews ([Xue et al. 2022](https://link.springer.com/content/pdf/10.1007/s11783-021-1492-5.pdf );[Tang and Hadibarata 2021](https://www.sciencedirect.com/science/article/pii/S2667010021002432)). Removal percentages are coded as follows:
+* High = >90%
+* Medium = 30 to 90%
+* Low = 0 to 30%
 
 <iframe src="/assets/widgets/collapsibleTree_widget.html" height="600px" width="100%" style="border:none;"></iframe>
 
