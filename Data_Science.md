@@ -56,6 +56,19 @@ At the end of 2020, I, along with other State Water Board staff were tasked with
 
 ## Miscellanious Fun Stuff
 
+The following are interesting excerpts from miscellanious projects.
+
+### Drinking Water Treatment
+
+Drinking water treatment plants use an astounding diversity of treatment techniques to accomplish a number of goals. I generated an interactive collapsible tree diagram to help visualize these hierarchical relationships, using data from the State Water Board's division of drinking water data portal.
 
 <iframe src="/assets/widgets/collapsibleTree_widget.html" height="600px" width="100%" style="border:none;"></iframe>
 
+The code to generate this widget is from the [collapsibleTree R package](https://cran.r-project.org/web/packages/collapsibleTree/index.html). Data and code for this tree are available in [this github repo](https://github.com/ScottCoffin/SamplingAndAnalysisPlan).
+
+### Risks of microplastics in San Francisco Bay, California
+
+I performed a risk assessment of microplastics in San Francisco Bay, California which is published in the journal [**Microplastics and Nanoplastics**](https://www.researchgate.net/publication/359833352_Risk_Characterization_of_Microplastics_in_San_Francisco_Bay_California). Below is an interactive map showing the corrected manta trawl samples and their corresponding risk levels.
+
+
+<iframe src="/assets/widgets/map.html" height="600px" width="100%" style="border:none;"></iframe>
