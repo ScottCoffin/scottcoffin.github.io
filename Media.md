@@ -26,25 +26,31 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [California Ocean Day 2022. Microplastics:m Califorrnia's BIG little plastic problem with CSU COAST, Senator Ben Allen, Dr. Scott Coffin, and Dr. Eunah Hoh](https://www.calstate.edu/impact-of-the-csu/research/coast/about/Pages/Briefings-Panels.aspx)
 
+<iframe width="280" height="158" src="https://www.youtube.com/embed/m-_mCRA2sO4?start=280" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * [Environmental Law Institute: "The Debate: Can We Make Plastic Sustainable?"](https://www.eli.org/sites/default/files/files-pdf/tef-march-april-2022-debate.pdf)
 
 * [Environmental Health News: Scientists: US needs to support a strong global agreement tocurb plastic pollution](https://www.ehn.org/us-plastics-2656802114.html)
 
 * [KQED: 'You Can't Recycle Your Way Out': California's Plastic Problem and What We Can Do About It](https://www.kqed.org/news/11901288/you-cant-recycle-your-way-out-californias-plastic-problem-and-what-to-do-about-it)
 
+
 ### 2021
 
 * [KQED Newsroom Special: California’s Plastic Problem](https://www.youtube.com/watch?v=-bTCCB6wbks&feature=emb_imp_woyt)
+<iframe width="280" height="158" src="https://www.youtube.com/embed/-bTCCB6wbks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 * [National Academies of Sciences, Engineering, and Medicine Food Forum: Microplastics from Food and Water: State of the Science and Potential Impacts on Human Health](https://www.youtube.com/watch?v=S56nsUvTR2I&list=PLGTMA6Qkejfj4AzYBMq1cFtlkLvXbFexi&index=4)
 
-* [KQED Newsroom Special: California’s Plastic Problem](https://www.youtube.com/watch?v=-bTCCB6wbks&feature=emb_imp_woyt)
 
 * [WaterWorld.com: World’s first standardized testing for microplastics in drinking water](https://www.waterworld.com/drinking-water/potable-water-quality/press-release/14215238/worlds-first-standardized-testing-for-microplastics-in-drinking-water)
 
 * [Spectrum News 1: As need to test water for microplastics increases, California finds a way](https://spectrumnews1.com/ca/la-east/environment/2021/10/26/our-water-will-need-to-be-tested-for-microplastics--california-finds-a-way#)
 
 * [Key Ingredients to Effective Science Communication: Focus on Microplastics Science and Policy](https://www.youtube.com/watch?v=tPtPzL4PQvk)
+
+<iframe width="280" height="158" src="https://www.youtube.com/embed/tPtPzL4PQvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [North Carolina Coastal Microplastics Forum](https://www.youtube.com/watch?v=75OEJnqfaEw)
 
@@ -67,6 +73,9 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 ### 2020
 
 * [SCCWRP Microplastics Health Effects Meeting Day One](https://vimeo.com/469902307)
+<iframe src="https://player.vimeo.com/video/469902307?h=9155fda733" 
+width="280" height="158" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/469902307">Microplastics Meeting Day One</a> from <a href="https://vimeo.com/sccwrp">SCCWRP</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 * [Leading Britian's Conversation Radio Interview](https://soundcloud.com/scott-coffin/lbc-radio-interview-w-tom)
 
@@ -75,6 +84,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 * [Wyoming Tribune Eagle: Cheyenne Native Helping Lead Study of Microplastics in Drinking Water](https://media-exp1.licdn.com/dms/document/C562DAQFgdUKJWEqHfQ/profile-treasury-document-pdf-analyzed/0/1598464836947?e=1622073600&v=beta&t=Vyh9L9YT0Jhm2fm47Yj1ataR85J9wa_2n5WQ31NbOTs)
 
 * [Inland Ocean Coalition (Wyoming Chapter)- Microplastics Hit Home: Human Exposure, Health Effects and Inland Impacts](https://www.youtube.com/watch?v=oxM1GOf3zmI)
+
+<iframe width="280" height="158" src="https://www.youtube.com/embed/oxM1GOf3zmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Beyond Plastics- Tiny Pieces, Big Problem: Microplastics in Our, Water & Bodies](https://www.youtube.com/watch?v=-KzT--lJDns)
 
@@ -87,5 +98,7 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 ### 2019
 
 * [Getting to Know H2O - the Water Cycle](https://www.youtube.com/watch?v=Eu6Jhit4TAA)
+
+<iframe width="280" height="158" src="https://www.youtube.com/embed/Eu6Jhit4TAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Toxicology Panel - Microplastics Conference at Rutgers University 2019](https://www.youtube.com/watch?v=WEyNJs5ViMM&list=PLXBdkowE6UzYQ2Ojv0WlOSJ0pNjBhXewT&index=6)
