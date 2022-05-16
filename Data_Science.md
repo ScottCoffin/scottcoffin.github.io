@@ -36,10 +36,11 @@ I developed an RShiny application that allows users to manipulate and visualize 
 My project [Shelter in Space](https://shelterinspace.app/) won *Best Mission Concept* at the [Space Apps COVID-19 Challenge](https://covid19.spaceappschallenge.org/awards) hosted by space agencies (NASA, CSA, CNES, ESA and JAXA) in 2020. The Space Apps Challenge is an annual hackathon that has hosted over 26,000 participants from nearly 150 countries.
 
 <iframe width="280" height="158"
-src="https://youtu.be/ugekHk8Jqjg" 
+src="https://www.youtube.com/embed/ugekHk8Jqjg" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
 
 
 * [NASA Interview](https://www.nasa.gov/feature/nasa-space-apps-covid-19-challenge-winners-share-stories-of-innovation)
@@ -50,6 +51,12 @@ allowfullscreen></iframe>
 ![PFAS Datathon](assets/images/PFAS.jpg){:height="200px" width="300px"}
 
 In 2019, I lead the California State Water Board's two-day dathon on per- and polyfluoroalkyl substances (PFAS). The [PFAS Datathon 2019](https://www.waterboards.ca.gov/pfas/pfas_datathon.html) garnered data scientists and subject matter experts from academia, public sectors, and industry alike to collaboratively develop innovative solutions to answer scientific and management questions utilizing open data. Ther results from this project prompted a [peer-reviewed publication](https://eartharxiv.org/repository/view/1740/) and an [RShiny application useful for water agencies](https://meldataaa.shinyapps.io/PFAS_Analysis_and_Intervention/), among other products.
+
+<iframe width="280" height="158"
+src="https://youtube.com/embed/6G0hm_US5k4?t=14455" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 * [Presentation recordings](https://youtube.com/embed/6G0hm_US5k4?t=14455)
 * [Data and source code](https://github.com/CAWaterBoardDataCenter)
