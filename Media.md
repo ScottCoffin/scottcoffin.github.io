@@ -42,10 +42,6 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 * [KQED Newsroom Special: California’s Plastic Problem](https://www.youtube.com/watch?v=-bTCCB6wbks&feature=emb_imp_woyt)
 <iframe width="280" height="158" src="https://www.youtube.com/embed/-bTCCB6wbks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-* [National Academies of Sciences, Engineering, and Medicine Food Forum: Microplastics from Food and Water: State of the Science and Potential Impacts on Human Health](https://www.youtube.com/watch?v=S56nsUvTR2I&list=PLGTMA6Qkejfj4AzYBMq1cFtlkLvXbFexi&index=4)
-
-
 * [WaterWorld.com: World’s first standardized testing for microplastics in drinking water](https://www.waterworld.com/drinking-water/potable-water-quality/press-release/14215238/worlds-first-standardized-testing-for-microplastics-in-drinking-water)
 
 * [Spectrum News 1: As need to test water for microplastics increases, California finds a way](https://spectrumnews1.com/ca/la-east/environment/2021/10/26/our-water-will-need-to-be-tested-for-microplastics--california-finds-a-way#)
@@ -59,6 +55,10 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 * [Report of RNRF Round Table: Meeting the Challenge of Microplastic Management to Protect Human Health and the Environment](https://rnrf.org/news/)
 
 * [Los Angeles Times Opinion: Microplastics are getting into our bodies. We need to understand what that means](https://www.latimes.com/opinion/story/2021-07-13/opinion-microplastics-are-getting-into-our-bodies-we-need-to-understand-what-that-means)
+
+* [National Academies of Sciences, Engineering, and Medicine Food Forum: Microplastics from Food and Water: State of the Science and Potential Impacts on Human Health](https://www.youtube.com/watch?v=S56nsUvTR2I&list=PLGTMA6Qkejfj4AzYBMq1cFtlkLvXbFexi&index=4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S56nsUvTR2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [CalMatters: Premature or precautionary? California is first to tackle microplastics in drinking water](https://calmatters.org/environment/2021/03/california-microplastics-drinking-water/)
 
@@ -76,16 +76,13 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [SCCWRP Microplastics Health Effects Meeting Day One](https://vimeo.com/469902307)
 
-<iframe src="https://player.vimeo.com/video/469902307?h=9155fda733" 
-width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
 * [Leading Britian's Conversation Radio Interview](https://soundcloud.com/scott-coffin/lbc-radio-interview-w-tom)
-
-* [Washington Core: Burgeoning microplastics pollution prompts regulatory action to protect drinking water in California](https://www.wcore.com/burgeoning-microplastics-pollution-prompts-regulatory-action-to-protect-drinking-water-in-california/)
 
 * [Inland Ocean Coalition (Wyoming Chapter)- Microplastics Hit Home: Human Exposure, Health Effects and Inland Impacts](https://www.youtube.com/watch?v=oxM1GOf3zmI)
 
 <iframe width="280" height="158" src="https://www.youtube.com/embed/oxM1GOf3zmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* [Washington Core: Burgeoning microplastics pollution prompts regulatory action to protect drinking water in California](https://www.wcore.com/burgeoning-microplastics-pollution-prompts-regulatory-action-to-protect-drinking-water-in-california/)
 
 * [Wyoming Tribune Eagle: Cheyenne Native Helping Lead Study of Microplastics in Drinking Water](https://media-exp1.licdn.com/dms/document/C562DAQFgdUKJWEqHfQ/profile-treasury-document-pdf-analyzed/0/1598464836947?e=1622073600&v=beta&t=Vyh9L9YT0Jhm2fm47Yj1ataR85J9wa_2n5WQ31NbOTs)
 
