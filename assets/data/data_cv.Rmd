@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(skimr)
 library(lubridate)
+library(plotly)
 ```
 
 ```{r}
@@ -28,17 +29,22 @@ date <- cv %>%
 #plot
 engagements <- date %>% 
   ggplot() +
-  geom_histogram(aes(x = date, color = Category, fill = Category),
+  geom_histogram(aes(x = date,
+                     #color = Category,
+                     fill = Category),
                  binwidth = 91, position = "stack") + #quarterly
-  geom_vline(xintercept = as.numeric(as.Date("2016-09-01")), linetype = 2) +
-  geom_text(x = as.numeric(as.Date("2016-09-01")), y = 15,
-            label = "Passed qualifying exam", angle = 90,
-            vjust = -1) +
-  geom_vline(xintercept = as.numeric(as.Date("2019-01-01")), linetype = 2) +
-   geom_text(x = as.numeric(as.Date("2019-01-01")), y = 15,
-            label = "Started career at CalEPA", angle = 90,
-            vjust = -1) +
-  scale_x_date(limits = as.Date(c("2014-01-01", "2022-6-01"))) +
+  #geom_vline(xintercept = as.numeric(as.Date("2016-09-01")), linetype = 2) +
+  # geom_text(x = as.numeric(as.Date("2016-09-01")), y = 15,
+  #           label = "Passed qualifying exam", angle = 90,
+  #           vjust = -1) +
+  # geom_vline(xintercept = as.numeric(as.Date("2019-01-01")), linetype = 2) +
+  #  geom_text(x = as.numeric(as.Date("2019-01-01")), y = 15,
+  #           label = "Started career at CalEPA", angle = 90,
+  #           vjust = -1) +
+  scale_x_date(limits = as.Date(c("2014-01-01", "2022-5-01")),
+               date_breaks = "5 months",
+               date_labels = "%B (%Y)"
+               ) +
   ylab("Number per Quarter") +
   labs(title = "Speaking Engagements Over Time",
        subtitle = "Scott Coffin, Ph.D.") +
@@ -46,7 +52,8 @@ engagements <- date %>%
   theme(legend.title = element_blank(),
         plot.title = element_text(hjust = 0.5),
         plot.subtitle = element_text(hjust = 0.5, face = "italic"),
-        legend.position = c(0.15,0.55)
+        legend.position = c(0.15,0.55),
+        axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)
         )
 
 engagements
@@ -61,6 +68,19 @@ ggsave(engagements,
        units = "in",
        scale = 0.8)
 ```
+ 
+##plotly
+```{r}
+plotly <- ggplotly(engagements,
+       #  width = 12,
+        # height = 8,
+         tooltip = c("count", "Category"))
+
+htmlwidgets::saveWidget(plotly::as_widget(plotly), "assets/widgets/engagements.html")
+
+plotly
+```
+
  
 ```{r}
 date %>%

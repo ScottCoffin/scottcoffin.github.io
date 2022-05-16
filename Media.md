@@ -12,7 +12,9 @@ header:
 
 The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 166 as of April 29, 2022.
 
-![Speaking Engagements](assets/engagements.jpeg){:height=700px" width="700px"}
+<!--![Speaking Engagements](assets/engagements.jpeg){:height=700px" width="700px"}-->
+
+<iframe src="/assets/widgets/engagements.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
 ## Scott Coffin in the Media
@@ -50,7 +52,7 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [Key Ingredients to Effective Science Communication: Focus on Microplastics Science and Policy](https://www.youtube.com/watch?v=tPtPzL4PQvk)
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/tPtPzL4PQvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="20%" height="20%" src="https://www.youtube.com/embed/tPtPzL4PQvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [North Carolina Coastal Microplastics Forum](https://www.youtube.com/watch?v=75OEJnqfaEw)
 
@@ -74,7 +76,7 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [SCCWRP Microplastics Health Effects Meeting Day One](https://vimeo.com/469902307)
 <iframe src="https://player.vimeo.com/video/469902307?h=9155fda733" 
-width="280" height="158" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+width="20%" height="20%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/469902307">Microplastics Meeting Day One</a> from <a href="https://vimeo.com/sccwrp">SCCWRP</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 * [Leading Britian's Conversation Radio Interview](https://soundcloud.com/scott-coffin/lbc-radio-interview-w-tom)
