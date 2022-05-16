@@ -75,33 +75,39 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 ### 2020
 
 * [SCCWRP Microplastics Health Effects Meeting Day One](https://vimeo.com/469902307)
+
 <iframe src="https://player.vimeo.com/video/469902307?h=9155fda733" 
-width="20%" height="20%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/469902307">Microplastics Meeting Day One</a> from <a href="https://vimeo.com/sccwrp">SCCWRP</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 * [Leading Britian's Conversation Radio Interview](https://soundcloud.com/scott-coffin/lbc-radio-interview-w-tom)
 
 * [Washington Core: Burgeoning microplastics pollution prompts regulatory action to protect drinking water in California](https://www.wcore.com/burgeoning-microplastics-pollution-prompts-regulatory-action-to-protect-drinking-water-in-california/)
 
-* [Wyoming Tribune Eagle: Cheyenne Native Helping Lead Study of Microplastics in Drinking Water](https://media-exp1.licdn.com/dms/document/C562DAQFgdUKJWEqHfQ/profile-treasury-document-pdf-analyzed/0/1598464836947?e=1622073600&v=beta&t=Vyh9L9YT0Jhm2fm47Yj1ataR85J9wa_2n5WQ31NbOTs)
-
 * [Inland Ocean Coalition (Wyoming Chapter)- Microplastics Hit Home: Human Exposure, Health Effects and Inland Impacts](https://www.youtube.com/watch?v=oxM1GOf3zmI)
 
 <iframe width="280" height="158" src="https://www.youtube.com/embed/oxM1GOf3zmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* [Beyond Plastics- Tiny Pieces, Big Problem: Microplastics in Our, Water & Bodies](https://www.youtube.com/watch?v=-KzT--lJDns)
+* [Wyoming Tribune Eagle: Cheyenne Native Helping Lead Study of Microplastics in Drinking Water](https://media-exp1.licdn.com/dms/document/C562DAQFgdUKJWEqHfQ/profile-treasury-document-pdf-analyzed/0/1598464836947?e=1622073600&v=beta&t=Vyh9L9YT0Jhm2fm47Yj1ataR85J9wa_2n5WQ31NbOTs)
 
 * [State Water Board adoption Meeting of Microplastics in Drinking Water Definition](https://www.youtube.com/watch?v=WeSwUinbnks)
+
+* [Beyond Plastics- Tiny Pieces, Big Problem: Microplastics in Our, Water & Bodies](https://www.youtube.com/watch?v=-KzT--lJDns)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-KzT--lJDns?start=1754" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [A story about Microplastics (Trash Datathon 2020)](https://www.youtube.com/watch?v=7oxy8KrAv2A)
 
 * [Plasticast Episode3 - Dr. Scott Coffin](https://www.youtube.com/watch?v=MTbqrfewuKY)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTbqrfewuKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 2019
 
 * [Getting to Know H2O - the Water Cycle](https://www.youtube.com/watch?v=Eu6Jhit4TAA)
 
 <iframe width="280" height="158" src="https://www.youtube.com/embed/Eu6Jhit4TAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*BONUS* This film is designed for students from elementary school to college, and comes with a [study guide](https://gluckprogram.ucr.edu/glucktv-steam-channel) designed by Gluck Fellows Program of the Arts at UC Riverside. Please share with educators. 
+This film won the People' Choice Award at the 2019 American Chemical Society Environmental Film Competition in San Diego, California.
 
 * [Toxicology Panel - Microplastics Conference at Rutgers University 2019](https://www.youtube.com/watch?v=WEyNJs5ViMM&list=PLXBdkowE6UzYQ2Ojv0WlOSJ0pNjBhXewT&index=6)
 
