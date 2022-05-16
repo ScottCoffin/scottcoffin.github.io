@@ -14,11 +14,6 @@ header:
   overlay_image: /assets/images/shelterindome.jpg
   overlay_filter: 0.5
 ---
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 
 ## Plastiverse
 ![Plastiverse](assets/images/sticker.png){:height="200px" width="200px"}
@@ -39,6 +34,13 @@ I developed an RShiny application that allows users to manipulate and visualize 
 ![Shelter in Space](assets/images/shelterindome.jpg){:height="200px" width="400px"}
 
 My project [Shelter in Space](https://shelterinspace.app/) won *Best Mission Concept* at the [Space Apps COVID-19 Challenge](https://covid19.spaceappschallenge.org/awards) hosted by space agencies (NASA, CSA, CNES, ESA and JAXA) in 2020. The Space Apps Challenge is an annual hackathon that has hosted over 26,000 participants from nearly 150 countries.
+
+<iframe width="280" height="158"
+src="https://youtu.be/ugekHk8Jqjg" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 
 * [NASA Interview](https://www.nasa.gov/feature/nasa-space-apps-covid-19-challenge-winners-share-stories-of-innovation)
 * [Project Website](https://shelterinspace.app/)
