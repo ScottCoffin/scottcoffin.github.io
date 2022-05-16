@@ -35,12 +35,19 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 * [Follow ToMExApp on Twitter](https://twitter.com/ToMExApp)
 * [Source code](https://github.com/SCCWRP/aq_mp_tox_shiny)
 
-## NASA Space Apps Challenge Winner
+## Assessing Risks of Microplastics in San Francisco Bay, California
+
+I performed a risk assessment of microplastics in San Francisco Bay, California which is published in the journal [**Microplastics and Nanoplastics**](https://www.researchgate.net/publication/359833352_Risk_Characterization_of_Microplastics_in_San_Francisco_Bay_California). Below is an interactive map showing the corrected manta trawl samples and their corresponding risk levels.
+
+
+<iframe src="/assets/widgets/map.html" height="600px" width="100%" style="border:none;"></iframe>
+
+## NASA COVID-19 Space Apps Challenge Global Datathon Winner
 ![Shelter in Space](assets/images/shelterindome.jpg){:height="200px" width="400px"}
 
 My project [Shelter in Space](https://shelterinspace.app/) won *Best Mission Concept* at the [Space Apps COVID-19 Challenge](https://covid19.spaceappschallenge.org/awards) hosted by space agencies (NASA, CSA, CNES, ESA and JAXA) in 2020. The Space Apps Challenge is an annual hackathon that has hosted over 26,000 participants from nearly 150 countries.
 
-<iframe width="280" height="158"
+<iframe width="280px" height="158px"
 src="https://www.youtube.com/embed/ugekHk8Jqjg" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
@@ -72,11 +79,8 @@ At the end of 2020, I, along with other State Water Board staff were tasked with
 * [Source Code](https://github.com/ScottCoffin/EconImpact)
 * [Presentation](https://www.researchgate.net/publication/351103438_Designing_and_Administrating_the_COVID-19_Financial_Impacts_Survey)
 
-## Miscellanious Fun Stuff
 
-The following are interesting excerpts from miscellanious projects.
-
-### Drinking Water Treatment
+## Drinking Water Treatment
 
 Drinking water treatment plants use an astounding diversity of treatment techniques to accomplish a number of goals. I generated an interactive collapsible tree diagram to help visualize these hierarchical relationships, using data from the State Water Board's division of drinking water data portal. I further annotated these treatment processes to indicate their approximate removal likelihood of microplastics, based on several recent literature reviews ([Xue et al. 2022](https://link.springer.com/content/pdf/10.1007/s11783-021-1492-5.pdf );[Tang and Hadibarata 2021](https://www.sciencedirect.com/science/article/pii/S2667010021002432)). Removal percentages are coded as follows:
 * High = >90%
@@ -87,9 +91,3 @@ Drinking water treatment plants use an astounding diversity of treatment techniq
 
 The code to generate this widget is from the [collapsibleTree R package](https://cran.r-project.org/web/packages/collapsibleTree/index.html). Data and code for this tree are available in [this github repo](https://github.com/ScottCoffin/SamplingAndAnalysisPlan).
 
-### Risks of microplastics in San Francisco Bay, California
-
-I performed a risk assessment of microplastics in San Francisco Bay, California which is published in the journal [**Microplastics and Nanoplastics**](https://www.researchgate.net/publication/359833352_Risk_Characterization_of_Microplastics_in_San_Francisco_Bay_California). Below is an interactive map showing the corrected manta trawl samples and their corresponding risk levels.
-
-
-<iframe src="/assets/widgets/map.html" height="600px" width="100%" style="border:none;"></iframe>
