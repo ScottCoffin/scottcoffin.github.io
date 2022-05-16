@@ -24,7 +24,11 @@ cv <- readxl::read_xlsx("assets/data/presentation tracking spreadsheet.xlsx")
 date <- cv %>% 
   mutate(day = 1) %>% 
   mutate(month_number = match(Month, month.name)) %>% 
-  mutate(date = make_date(year = Year, month = month_number, day = day))
+  mutate(date = make_date(year = Year, month = month_number, day = day)) %>% 
+  mutate(Category = as.factor(Category),
+       Type = as.factor(Type),
+       Face = as.factor(Face))
+
 
 #plot
 engagements <- date %>% 
@@ -79,6 +83,23 @@ plotly <- ggplotly(engagements,
 htmlwidgets::saveWidget(plotly::as_widget(plotly), "assets/widgets/engagements.html")
 
 plotly
+```
+# Data table
+```{r}
+library(DT)
+
+
+table <- date %>% dplyr::select(c(Year, Month, day, month_number))
+                        
+datatable <- datatable(table,
+          options = list(autoWidth = TRUE),
+          filter = list(position = 'top'),
+          rownames = FALSE)
+
+htmlwidgets::saveWidget(datatable, "assets/widgets/datatable.html")
+
+
+datatable
 ```
 
  

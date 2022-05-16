@@ -10,7 +10,7 @@ header:
 
 ## Overview
 
-The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 166 as of April 29, 2022.
+The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 172 as of May 15, 2022.
 
 <!--![Speaking Engagements](assets/engagements.jpeg){:height=700px" width="700px"}-->
 
@@ -18,7 +18,7 @@ The following stacked barplot is a summary of the talks I have given since I sta
 
 
 ## Scott Coffin in the Media
-The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles.
+The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles. If you'd like to find PDFs of my presentations, most can be found for free on [ResearchGate](https://www.researchgate.net/profile/Scott-Coffin-2/research).
 
 ### 2022
 
@@ -52,7 +52,7 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [Key Ingredients to Effective Science Communication: Focus on Microplastics Science and Policy](https://www.youtube.com/watch?v=tPtPzL4PQvk)
 
-<iframe width="20%" height="20%" src="https://www.youtube.com/embed/tPtPzL4PQvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/tPtPzL4PQvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [North Carolina Coastal Microplastics Forum](https://www.youtube.com/watch?v=75OEJnqfaEw)
 
@@ -104,3 +104,9 @@ width="20%" height="20%" frameborder="0" allow="autoplay; fullscreen; picture-in
 <iframe width="280" height="158" src="https://www.youtube.com/embed/Eu6Jhit4TAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Toxicology Panel - Microplastics Conference at Rutgers University 2019](https://www.youtube.com/watch?v=WEyNJs5ViMM&list=PLXBdkowE6UzYQ2Ojv0WlOSJ0pNjBhXewT&index=6)
+
+### Data Table
+
+Above is not a comprehensive list, but below is:
+
+<iframe src="/assets/widgets/datatable.html" height="600px" width="100%" style="border:none;"></iframe>
