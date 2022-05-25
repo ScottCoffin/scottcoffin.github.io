@@ -10,7 +10,7 @@ header:
 
 ## Overview
 
-The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 172 as of May 15, 2022.
+The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 175 as of May 25, 2022.
 
 <!--![Speaking Engagements](assets/engagements.jpeg){:height=700px" width="700px"}-->
 
@@ -24,9 +24,11 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [National Geographic: Microplastics are in our bodies. How much do they harm us?](https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us)
 
+*[Sierra Nevada Aquatic Research Lab Spring Seminar Series 2022: "Microplastics - a Macro Problem?"](https://www.youtube.com/watch?v=AzQX-ddkrGk)
+
 * [KCRA: Forecasting Our Future: Our world is full of microplastics. California is leading efforts to change that](https://www.kcra.com/article/our-world-is-full-of-microplastics-california-is-leading-efforts-to-change-that/39799569)
 
-* [California Ocean Day 2022. Microplastics:m Califorrnia's BIG little plastic problem with CSU COAST, Senator Ben Allen, Dr. Scott Coffin, and Dr. Eunah Hoh](https://www.calstate.edu/impact-of-the-csu/research/coast/about/Pages/Briefings-Panels.aspx)
+* [California Ocean Day 2022. Microplastics: Califorrnia's BIG little plastic problem with CSU COAST, Senator Ben Allen, Dr. Scott Coffin, and Dr. Eunah Hoh](https://www.calstate.edu/impact-of-the-csu/research/coast/about/Pages/Briefings-Panels.aspx)
 
 <iframe width="280" height="158" src="https://www.youtube.com/embed/m-_mCRA2sO4?start=280" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
