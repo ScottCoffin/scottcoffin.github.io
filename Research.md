@@ -10,20 +10,36 @@ header:
 
 ## Microplastics in Drinking Water
 
-I am currently the lead scientist in California's implementation of [SB 1422- Microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html). Notable reports and publications related to this project are listed below:
+I am currently the lead scientist in California's implementation of [SB 1422- Microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html). Notable reports and publications related to this project are listed below. If you are unable to access any of these publications, please email me and I'll send you the full texts.
 
-* Coffin, S. (March/April 2022). "Accounting for Plastic’s True Costs." *The Environmental Forum*. [Full Text](https://www.eli.org/sites/default/files/files-pdf/tef-march-april-2022-debate.pdf)
-
-* Coffin, S., Wyer, H., & Leapman, J. C. (2021). Addressing the environmental and health impacts of microplastics requires open collaboration between diverse sectors. PLOS BIOLOGY, 15. https://doi.org/10.1371/journal.pbio.3000932
-
-* Wyer, H., Polhemus, D., Moore, S., Weisberg, S. B., Coffin, S., & Rochman, C. M. (2020). Steps Scientists Can Take to Inform Aquatic Microplastics Management: A Perspective Informed by the California Experience. Applied Spectroscopy, 74(9), 971–975. [Full Text](https://doi.org/10.1177/0003702820946033)
+* Coffin, S., Bouwmeester, H., Brander, S. et al. Development and application of a health-based framework for informing regulatory action in relation to exposure of microplastic particles in California drinking water. Micropl.&Nanopl. 2, 12 (2022). https://doi.org/10.1186/s43591-022-00030-6
 
 * Martindale, S., Weisberg, S. B., & Coffin, S. (2020). Status of Legislation and Regulatory Drivers for Microplastics in California. HORBIA Readout. [Full text](https://www.researchgate.net/profile/Scott-Coffin-2/publication/343084004_Guest_Forum_Status_of_Legislation_and_Regulatory_Drivers_for_Microplastics_in_California/links/5f15f36292851c1eff21c98c/Guest-Forum-Status-of-Legislation-and-Regulatory-Drivers-for-Microplastics-in-California.pdf?_sg%5B0%5D=yc--jD0Voz2RNCGAulSG1XzCiS29XefwwBSOuHX4f0rFxxQX_3oHQ4_pmJPoKcxEWIwuLgWeMlxSgk5TUxisHA.q6k8zFlW_i0b3tffmK-KCwgViN0CIk1vX3uZPKbQ7Uvymr4yQC-_9rbSb8VxfUIOu5LxbZh-xYTgoJ789YbLjA&_sg%5B1%5D=0keB4Ra_czYC2PzXGuQeEUlhaItGJhxuc6KBJEfE91Eejh0OJ95x3DG2f76BIFE0e9q-PaqTgoa8gQ0zRY3_0pn8P9J-OfAxLvHekRfFN0pw.q6k8zFlW_i0b3tffmK-KCwgViN0CIk1vX3uZPKbQ7Uvymr4yQC-_9rbSb8VxfUIOu5LxbZh-xYTgoJ789YbLjA&_iepl=)
 
 * Coffin, S. (2020). Staff Report - Proposed Definition of 'Microplastics in Drinking Water' (June 3, 2020). [Full text](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/docs/stffrprt_jun3.pdf)
 
+## Policy
 
-## Ecotoxicology
+* Coffin, S. (March/April 2022). "Accounting for Plastic’s True Costs." *The Environmental Forum*. [Full Text](https://www.eli.org/sites/default/files/files-pdf/tef-march-april-2022-debate.pdf)
+
+* Coffin, S., Wyer, H., & Leapman, J. C. (2021). Addressing the environmental and health impacts of microplastics requires open collaboration between diverse sectors. PLOS BIOLOGY, 15. https://doi.org/10.1371/journal.pbio.3000932
+
+* Coffin, S., Weisberg, S.B. Understanding health effects pathways and thresholds: filling a critical need to support microplastics management. Micropl.&Nanopl. 2, 11 (2022). https://doi.org/10.1186/s43591-022-00031-5
+
+* Wyer, H., Polhemus, D., Moore, S., Weisberg, S. B., Coffin, S., & Rochman, C. M. (2020). Steps Scientists Can Take to Inform Aquatic Microplastics Management: A Perspective Informed by the California Experience. Applied Spectroscopy, 74(9), 971–975. [Full Text](https://doi.org/10.1177/0003702820946033)
+
+## Ecotoxicology (Risk Assessment)
+
+* Coffin, S., Weisberg, S.B., Rochman, C., Kooi, M. and Koelmans, A.A., 2022. Risk Characterization of Microplastics in San Francisco Bay, California. https://microplastics.springeropen.com/articles/10.1186/s43591-022-00037-z
+
+* Mehinto, A.C., Coffin, S., Koelmans, A.A. et al. Risk-based management framework for microplastics in aquatic ecosystems. Micropl.&Nanopl. 2, 17 (2022). https://doi.org/10.1186/s43591-022-00033-3
+
+* Thornton Hampton, L.M., Bouwmeester, H., Brander, S.M. et al. Research recommendations to better understand the potential health impacts of microplastics to humans and aquatic ecosystems. Micropl.&Nanopl. 2, 18 (2022). https://doi.org/10.1186/s43591-022-00038-y
+
+* Thornton Hampton, L.M., Lowman, H., Coffin, S. et al. A living tool for the continued exploration of microplastic toxicity. Micropl.&Nanopl. 2, 13 (2022). https://doi.org/10.1186/s43591-022-00032-4
+
+
+## Ecotoxicology (Experimentation)
 My primary area of study for my PhD was in determining the ability for [plastic to transfer contaminants to biota](https://pqdtopen.proquest.com/pubnum/10982838.html?FMT=AI) using bioanalytical screening tools, analytical chemistry, biomimetic models, Japanese medaka and White seabass fish, and computer simulations. Some notable publications related to this work are listed below:
 
 *Elko, N., Foster, D., Kleinheinz, G., Raubenheimer, B., Brander, S., Kinzelman, J., Kritzer, J.P., Munroe, D., Storlazzi, C., Sutula, M., Mercer, A., Coffin, S., Fraioli, C., Ginger, L., Morrison, E., Parent-Doliner, G., Akan, C., Canestrelli, A., DiBenedetto, M., Lang, J., and Simm, J., 2021. "Human and Ecosystem Health in Coastal Systems", Shore & Beach, 90(1), pg 64-91. [Full Text](http://doi.org/10.34237/1009018)
@@ -56,7 +72,7 @@ During graduate school, I collaborated on a number of projects using bioanalytic
 * Huang, Y., Liu, Y., Kong, M., Xu, E. G., Coffin, S., Schlenk, D., & Dionysiou, D. D. (2018). Efficient degradation of cytotoxic contaminants of emerging concern by UV/H 2 O 2. Environmental Science: Water Research & Technology, 4(9), 1272–1281.https://doi.org/10.1039/C8EW00290H
 
 
-## Publications
+## Additional Publications
 
 Coffin, S. (2018). Plastic as a Vector for Pollutants in Estuarine and Marine Environments [University of California, Riverside]. https://escholarship.org/uc/item/2g3670bz
 
