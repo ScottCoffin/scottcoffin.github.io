@@ -22,9 +22,11 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2022
 
+* [Scientific American: Replacing Lead Water Pipes with Plastic Could Raise New Safety Issues](https://www.scientificamerican.com/article/replacing-lead-water-pipes-with-plastic-could-raise-new-safety-issues/?utm_medium=email&utm_source=govdelivery)
+
 * [National Geographic: Microplastics are in our bodies. How much do they harm us?](https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us)
 
-*[Sierra Nevada Aquatic Research Lab Spring Seminar Series 2022: "Microplastics - a Macro Problem?"](https://www.youtube.com/watch?v=AzQX-ddkrGk)
+* [Sierra Nevada Aquatic Research Lab Spring Seminar Series 2022: "Microplastics - a Macro Problem?"](https://www.youtube.com/watch?v=AzQX-ddkrGk)
 
 * [KCRA: Forecasting Our Future: Our world is full of microplastics. California is leading efforts to change that](https://www.kcra.com/article/our-world-is-full-of-microplastics-california-is-leading-efforts-to-change-that/39799569)
 
