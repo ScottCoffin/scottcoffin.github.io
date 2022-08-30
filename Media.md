@@ -78,6 +78,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2020
 
+* [LAMPOON Magazing: Every time you open a water bottle, you release thousand of microplastics](https://www.lampoonmagazine.com/article/2022/03/12/microplastics-scott-coffin/)
+
 * [SCCWRP Microplastics Health Effects Meeting Day One](https://vimeo.com/469902307)
 
 * [Leading Britian's Conversation Radio Interview](https://soundcloud.com/scott-coffin/lbc-radio-interview-w-tom)

@@ -42,7 +42,7 @@ I am currently the lead scientist in California's implementation of [SB 1422- Mi
 ## Ecotoxicology (Experimentation)
 My primary area of study for my PhD was in determining the ability for [plastic to transfer contaminants to biota](https://pqdtopen.proquest.com/pubnum/10982838.html?FMT=AI) using bioanalytical screening tools, analytical chemistry, biomimetic models, Japanese medaka and White seabass fish, and computer simulations. Some notable publications related to this work are listed below:
 
-*Elko, N., Foster, D., Kleinheinz, G., Raubenheimer, B., Brander, S., Kinzelman, J., Kritzer, J.P., Munroe, D., Storlazzi, C., Sutula, M., Mercer, A., Coffin, S., Fraioli, C., Ginger, L., Morrison, E., Parent-Doliner, G., Akan, C., Canestrelli, A., DiBenedetto, M., Lang, J., and Simm, J., 2021. "Human and Ecosystem Health in Coastal Systems", Shore & Beach, 90(1), pg 64-91. [Full Text](http://doi.org/10.34237/1009018)
+* Elko, N., Foster, D., Kleinheinz, G., Raubenheimer, B., Brander, S., Kinzelman, J., Kritzer, J.P., Munroe, D., Storlazzi, C., Sutula, M., Mercer, A., Coffin, S., Fraioli, C., Ginger, L., Morrison, E., Parent-Doliner, G., Akan, C., Canestrelli, A., DiBenedetto, M., Lang, J., and Simm, J., 2021. "Human and Ecosystem Health in Coastal Systems", Shore & Beach, 90(1), pg 64-91. [Full Text](http://doi.org/10.34237/1009018)
 
 * Coffin, S., Magnuson, J. T., Vliet, S. M. F., Volz, D. C., & Schlenk, D. (2020). Effects of short-term exposure to environmentally-relevant concentrations of benzo(a)pyrene-sorbed polystyrene to White seabass (Atractoscion nobilis)☆. Environmental Pollution, 263, 114617. [Full Text](https://doi.org/10.1016/j.envpol.2020.114617)
 
