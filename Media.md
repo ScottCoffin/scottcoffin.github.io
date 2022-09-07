@@ -22,6 +22,10 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2022
 
+* [CalMatters: California approves microplastics testing of drinking water sources](https://calmatters.org/environment/2022/09/california-microplastics-testing-drinking-water-sources/)
+
+* [San Francisco Chronicle: California becomes first state to test drinking water for microplastics](https://www.sfchronicle.com/bayarea/article/California-microplastic-test-17423549.php)
+
 * [Scientific American: Replacing Lead Water Pipes with Plastic Could Raise New Safety Issues](https://www.scientificamerican.com/article/replacing-lead-water-pipes-with-plastic-could-raise-new-safety-issues/?utm_medium=email&utm_source=govdelivery)
 
 * [National Geographic: Microplastics are in our bodies. How much do they harm us?](https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us)
