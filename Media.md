@@ -22,6 +22,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2022
 
+* [Spectrum News: Labs prepare for first-of-its-kind water directive](https://spectrumnews1.com/ca/la-west/health/2022/09/15/labs-prepare-for-first-of-its-kind-water-directive)
+
 * [CalMatters: California approves microplastics testing of drinking water sources](https://calmatters.org/environment/2022/09/california-microplastics-testing-drinking-water-sources/)
 
 * [San Francisco Chronicle: California becomes first state to test drinking water for microplastics](https://www.sfchronicle.com/bayarea/article/California-microplastic-test-17423549.php)
