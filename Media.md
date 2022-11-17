@@ -22,6 +22,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2022
 
+* [EcoJustice Radio: "Microplastics Are Everywhere: What’s The Risk?"](-https://soundcloud.com/socal350/microplastics-are-everywhere-whats-the-risk)
+
 * [Dr. Scott Coffin's Interview with ABC radio: The World Today September 12, 2022)](https://soundcloud.com/scott-coffin/dr-scott-coffins-interview-with-abc-radio-the-world-today-september-12-2022?si=ae2f78304d0e45898a6ec1f2bf257cae&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 * [Spectrum News: Labs prepare for first-of-its-kind water directive](https://spectrumnews1.com/ca/la-west/health/2022/09/15/labs-prepare-for-first-of-its-kind-water-directive)
