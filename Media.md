@@ -22,6 +22,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2022
 
+* [Finding Genius Podcast: First Government in the World to Mandate Regulations for Microplastics in Drinking Water: Ecotoxicologist Scott Coffin Explains](https://www.findinggeniuspodcast.com/podcasts/first-government-in-the-world-to-mandate-regulations-for-microplastics-in-drinking-water-ecotoxicologist-scott-coffin-explains/?preview=true)
+
 * [EcoJustice Radio: "Microplastics Are Everywhere: What’s The Risk?"](-https://soundcloud.com/socal350/microplastics-are-everywhere-whats-the-risk)
 
 * [Dr. Scott Coffin's Interview with ABC radio: The World Today September 12, 2022)](https://soundcloud.com/scott-coffin/dr-scott-coffins-interview-with-abc-radio-the-world-today-september-12-2022?si=ae2f78304d0e45898a6ec1f2bf257cae&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
