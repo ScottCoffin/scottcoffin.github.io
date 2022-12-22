@@ -30,6 +30,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [Spectrum News: Labs prepare for first-of-its-kind water directive](https://spectrumnews1.com/ca/la-west/health/2022/09/15/labs-prepare-for-first-of-its-kind-water-directive)
 
+* [Nautilus: You Eat a Credit Card’s Worth of Plastic Every Week: What is our hidden consumption of microplastics doing to our health?](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-238481/?_sp=7c9821b1-3b8d-42a8-a0f8-5a877c434cf8.1670361835654)
+
 * [CalMatters: California approves microplastics testing of drinking water sources](https://calmatters.org/environment/2022/09/california-microplastics-testing-drinking-water-sources/)
 
 * [San Francisco Chronicle: California becomes first state to test drinking water for microplastics](https://www.sfchronicle.com/bayarea/article/California-microplastic-test-17423549.php)
