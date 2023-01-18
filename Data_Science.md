@@ -16,9 +16,9 @@ header:
 ---
 
 ## Plastiverse
-![Plastiverse](assets/images/sticker.png){:height="200px" width="200px"}
+![Plastiverse](assets/images/NewLogo.png){:height="200px" width="200px"}
 
-Along with some close friends, I created the Plastiverse - which is a live, crowd-sourced repository for tools, databases, protocols, and information related to micro- and macro-plastics research as well as a web-based forum to exchange knowledge between practitioners related to best-practices, events, jobs and funding opportunities, and guidance for conducting research. This site is a rapidly developing work-in-progress.
+Along with some close friends, I created the [Plastiverse](https://www.plastiverse.org/) - which is a live, crowd-sourced repository for tools, databases, protocols, and information related to micro- and macro-plastics research as well as a web-based forum to exchange knowledge between practitioners related to best-practices, events, jobs and funding opportunities, and guidance for conducting research. This site is a rapidly developing work-in-progress.
 * [Follow Plastiverse on Twitter](https://twitter.com/ThePlastiverse)
 * [Project Website](https://www.plastiverse.org/)
 
