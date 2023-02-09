@@ -12,6 +12,9 @@ header:
 
 I am currently the lead scientist in California's implementation of [SB 1422- Microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html). Notable reports and publications related to this project are listed below. If you are unable to access any of these publications, please email me and I'll send you the full texts.
 
+* Coffin, S. The emergence of microplastics: charting the path
+from research to regulations. Environmental Science Advances. (2023). https://pubs.rsc.org/en/content/articlepdf/2023/VA/D2VA00275B
+
 * Coffin, S., Bouwmeester, H., Brander, S. et al. Development and application of a health-based framework for informing regulatory action in relation to exposure of microplastic particles in California drinking water. Micropl.&Nanopl. 2, 12 (2022). https://doi.org/10.1186/s43591-022-00030-6
 
 * Martindale, S., Weisberg, S. B., & Coffin, S. (2020). Status of Legislation and Regulatory Drivers for Microplastics in California. HORBIA Readout. [Full text](https://www.researchgate.net/profile/Scott-Coffin-2/publication/343084004_Guest_Forum_Status_of_Legislation_and_Regulatory_Drivers_for_Microplastics_in_California/links/5f15f36292851c1eff21c98c/Guest-Forum-Status-of-Legislation-and-Regulatory-Drivers-for-Microplastics-in-California.pdf?_sg%5B0%5D=yc--jD0Voz2RNCGAulSG1XzCiS29XefwwBSOuHX4f0rFxxQX_3oHQ4_pmJPoKcxEWIwuLgWeMlxSgk5TUxisHA.q6k8zFlW_i0b3tffmK-KCwgViN0CIk1vX3uZPKbQ7Uvymr4yQC-_9rbSb8VxfUIOu5LxbZh-xYTgoJ789YbLjA&_sg%5B1%5D=0keB4Ra_czYC2PzXGuQeEUlhaItGJhxuc6KBJEfE91Eejh0OJ95x3DG2f76BIFE0e9q-PaqTgoa8gQ0zRY3_0pn8P9J-OfAxLvHekRfFN0pw.q6k8zFlW_i0b3tffmK-KCwgViN0CIk1vX3uZPKbQ7Uvymr4yQC-_9rbSb8VxfUIOu5LxbZh-xYTgoJ789YbLjA&_iepl=)
