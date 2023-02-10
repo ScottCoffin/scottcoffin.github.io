@@ -22,6 +22,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2022
 
+* [Talking PFAS Podcast: Episode 41 Scott Coffin California - Clean-Up Conference 2022 Adelaide](https://omny.fm/shows/talkingpfas/episode-41-scott-coffin-california-clean-up-confer?in_playlist=podcast)
+
 * [Finding Genius Podcast: First Government in the World to Mandate Regulations for Microplastics in Drinking Water: Ecotoxicologist Scott Coffin Explains](https://www.findinggeniuspodcast.com/podcasts/first-government-in-the-world-to-mandate-regulations-for-microplastics-in-drinking-water-ecotoxicologist-scott-coffin-explains/?preview=true)
 
 * [EcoJustice Radio: "Microplastics Are Everywhere: What’s The Risk?"](-https://soundcloud.com/socal350/microplastics-are-everywhere-whats-the-risk)
