@@ -8,21 +8,14 @@ header:
   overlay_filter: 0.5 #opacity
 ---
 
-## Overview
-
-The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 175 as of May 25, 2022.
-
-<!--![Speaking Engagements](assets/engagements.jpeg){:height=700px" width="700px"}-->
-
-<iframe src="/assets/widgets/engagements.html" height="600px" width="100%" style="border:none;"></iframe>
-
-
 ## Scott Coffin in the Media
 The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles. If you'd like to find PDFs of my presentations, most can be found for free on [ResearchGate](https://www.researchgate.net/profile/Scott-Coffin-2/research).
 
-### 2022
+### 2023
 
 * [Talking PFAS Podcast: Episode 41 Scott Coffin California - Clean-Up Conference 2022 Adelaide](https://omny.fm/shows/talkingpfas/episode-41-scott-coffin-california-clean-up-confer?in_playlist=podcast)
+
+### 2022
 
 * [Finding Genius Podcast: First Government in the World to Mandate Regulations for Microplastics in Drinking Water: Ecotoxicologist Scott Coffin Explains](https://www.findinggeniuspodcast.com/podcasts/first-government-in-the-world-to-mandate-regulations-for-microplastics-in-drinking-water-ecotoxicologist-scott-coffin-explains/?preview=true)
 
@@ -129,6 +122,16 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 This film won the People' Choice Award at the 2019 American Chemical Society Environmental Film Competition in San Diego, California.
 
 * [Toxicology Panel - Microplastics Conference at Rutgers University 2019](https://www.youtube.com/watch?v=WEyNJs5ViMM&list=PLXBdkowE6UzYQ2Ojv0WlOSJ0pNjBhXewT&index=6)
+
+
+### Graph
+
+The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 175 as of May 25, 2022.
+
+<!--![Speaking Engagements](assets/engagements.jpeg){:height=700px" width="700px"}-->
+
+<iframe src="/assets/widgets/engagements.html" height="600px" width="100%" style="border:none;"></iframe>
+
 
 ### Data Table
 
