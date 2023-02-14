@@ -19,7 +19,9 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [Finding Genius Podcast: First Government in the World to Mandate Regulations for Microplastics in Drinking Water: Ecotoxicologist Scott Coffin Explains](https://www.findinggeniuspodcast.com/podcasts/first-government-in-the-world-to-mandate-regulations-for-microplastics-in-drinking-water-ecotoxicologist-scott-coffin-explains/?preview=true)
 
-* [EcoJustice Radio: "Microplastics Are Everywhere: What’s The Risk?"](-https://soundcloud.com/socal350/microplastics-are-everywhere-whats-the-risk)
+<iframe src="https://castbox.fm/app/castbox/player/id2652354/id553789844?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
+
+* [EcoJustice Radio: "Microplastics Are Everywhere: What’s The Risk?"](https://soundcloud.com/socal350/microplastics-are-everywhere-whats-the-risk)
 
 * [Dr. Scott Coffin's Interview with ABC radio: The World Today September 12, 2022)](https://soundcloud.com/scott-coffin/dr-scott-coffins-interview-with-abc-radio-the-world-today-september-12-2022?si=ae2f78304d0e45898a6ec1f2bf257cae&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
@@ -33,9 +35,11 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [Scientific American: Replacing Lead Water Pipes with Plastic Could Raise New Safety Issues](https://www.scientificamerican.com/article/replacing-lead-water-pipes-with-plastic-could-raise-new-safety-issues/?utm_medium=email&utm_source=govdelivery)
 
-* [National Geographic: Microplastics are in our bodies. How much do they harm us?](https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us)
-
 * [Sierra Nevada Aquatic Research Lab Spring Seminar Series 2022: "Microplastics - a Macro Problem?"](https://www.youtube.com/watch?v=AzQX-ddkrGk)
+
+<iframe width="280" height="158" src="https://www.youtube.com/watch?v=AzQX-ddkrGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* [National Geographic: Microplastics are in our bodies. How much do they harm us?](https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us)
 
 * [KCRA: Forecasting Our Future: Our world is full of microplastics. California is leading efforts to change that](https://www.kcra.com/article/our-world-is-full-of-microplastics-california-is-leading-efforts-to-change-that/39799569)
 
