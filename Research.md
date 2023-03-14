@@ -12,6 +12,8 @@ header:
 
 I am currently the lead scientist in California's implementation of [SB 1422- Microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html). Notable reports and publications related to this project are listed below. If you are unable to access any of these publications, please email me and I'll send you the full texts.
 
+* Eriksen M, Cowger W, Erdle LM, Coffin S, Villarrubia-Gómez P, et al. (2023) A growing plastic smog, now estimated to be over 170 trillion plastic particles afloat in the world’s oceans—Urgent solutions required. PLOS ONE 18(3): e0281596. [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281596)
+
 * Coffin, S. The emergence of microplastics: charting the path
 from research to regulations. Environmental Science Advances. (2023). [Full text](https://pubs.rsc.org/en/content/articlepdf/2023/VA/D2VA00275B)
 
