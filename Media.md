@@ -13,6 +13,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2023
 
+* [Water Education Foundation: "Testing at the Source; California Readies a Groundbreaking Hunt to Check for Microplastics in Drinking Water"](https://www.watereducation.org/western-water/testing-source-california-readies-groundbreaking-hunt-check-microplastics-drinking)
+
 * The Straits Times: "Hope in the time of microplastics" [web article (paywall)](https://www.straitstimes.com/world/united-states/hope-in-the-time-of-microplastics); [print article(full text)](/assets/publications/Straits2023.jpg)
 
 * [Wired: Microplastics Are Polluting the Ocean at a Shocking Rate](https://www.wired.com/story/microplastics-are-polluting-the-ocean-at-a-shocking-rate/)
