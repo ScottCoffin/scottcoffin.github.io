@@ -13,6 +13,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2023
 
+* [San Francisco Chronicle: "Scientists found microplastics in Sierra snowpacks. Should we worry about Bay Area drinking water?"](https://www.sfchronicle.com/california/article/sierra-snow-microplastics-drinking-water-17840942.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&utm_source=t.co&utm_medium=referral)
+
 * [Water Education Foundation: "Testing at the Source; California Readies a Groundbreaking Hunt to Check for Microplastics in Drinking Water"](https://www.watereducation.org/western-water/testing-source-california-readies-groundbreaking-hunt-check-microplastics-drinking)
 
 * The Straits Times: "Hope in the time of microplastics" [web article (paywall)](https://www.straitstimes.com/world/united-states/hope-in-the-time-of-microplastics); [print article(full text)](/assets/publications/Straits2023.jpg)
