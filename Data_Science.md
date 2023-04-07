@@ -47,7 +47,7 @@ I developed California's [*statewide monitoring plan for microplastics in drinki
 
 While specific details regarding this monitoring plan are still being finalized (e.g., who, what, when, where, how, etc.), here's a map of the water systems in California that potentially will be required to monitor:
 
-<iframe src="/assets/widgets/map_treatment.html" height="600px" width="100%" style="border:none;"></iframe>
+<iframe src="/assets/widgets/map_treatment.html" height="300px" width="100%" style="border:none;"></iframe>
 
 
 
