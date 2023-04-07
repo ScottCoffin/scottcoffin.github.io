@@ -39,8 +39,17 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 I performed a risk assessment of microplastics in San Francisco Bay, California which is published in the journal [**Microplastics and Nanoplastics**](https://www.researchgate.net/publication/359833352_Risk_Characterization_of_Microplastics_in_San_Francisco_Bay_California). Below is an interactive map showing the corrected manta trawl samples and their corresponding risk levels.
 
-
 <iframe src="/assets/widgets/map.html" height="600px" width="100%" style="border:none;"></iframe>
+
+## Monitoring Microplastics in Drinking Water in California
+
+I developed California's [*statewide monitoring plan for microplastics in drinking water*](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/docs/2022/mp-hndbk.pdf), which is the [world's first requirements for such testing](https://calmatters.org/environment/2022/09/california-microplastics-testing-drinking-water-sources/). Implications of this groundbreaking work are discussed in [my recent open-access perspective essay](https://pubs.rsc.org/en/content/articlelanding/2023/va/d2va00275b).
+
+While specific details regarding this monitoring plan are still being finalized (e.g., who, what, when, where, how, etc.), here's a map of the water systems in California that potentially will be required to monitor:
+
+<iframe src="/assets/widgets/map_treatment.html" height="600px" width="100%" style="border:none;"></iframe>
+
+
 
 ## NASA COVID-19 Space Apps Challenge Global Datathon Winner
 ![Shelter in Space](assets/images/shelterindome.jpg){:height="200px" width="400px"}
