@@ -15,6 +15,10 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [San Francisco Chronicle: "Scientists found microplastics in Sierra snowpacks. Should we worry about Bay Area drinking water?"](https://www.sfchronicle.com/california/article/sierra-snow-microplastics-drinking-water-17840942.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&utm_source=t.co&utm_medium=referral)
 
+* [Environmental Law Explored: A Podcast SEERies: "Environmental Laws and Regulations for Emerging Microplastics Concerns Series: Episode 5 - Health Risks and Current Human Health Ecotoxicology"](https://abaseer.libsyn.com/website/environmental-laws-and-regulations-for-emerging-microplastics-concerns-series-episode-5-health-risks-and-current-human-health-ecotoxicology)
+
+<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/25600095/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/0787b0/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 * [Water Education Foundation: "Testing at the Source; California Readies a Groundbreaking Hunt to Check for Microplastics in Drinking Water"](https://www.watereducation.org/western-water/testing-source-california-readies-groundbreaking-hunt-check-microplastics-drinking)
 
 * The Straits Times: "Hope in the time of microplastics" [web article (paywall)](https://www.straitstimes.com/world/united-states/hope-in-the-time-of-microplastics); [print article(full text)](/assets/publications/Straits2023.jpg)
@@ -45,7 +49,7 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 * [Sierra Nevada Aquatic Research Lab Spring Seminar Series 2022: "Microplastics - a Macro Problem?"](https://www.youtube.com/watch?v=AzQX-ddkrGk)
 
-<iframe width="280" height="158" src="https://www.youtube.com/watch?v=AzQX-ddkrGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AzQX-ddkrGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * [National Geographic: Microplastics are in our bodies. How much do they harm us?](https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us)
 
