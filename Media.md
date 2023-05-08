@@ -13,6 +13,9 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2023
 
+*[KALWL: Crosscurrents - Peak to Tap by Joshua Sirotiak](https://www.kalw.org/podcast/crosscurrents/2023-05-08/peak-to-tap-columbia-river-gorgeous-black-mermaids)
+<audio controls><source src="https://cpa.ds.npr.org/s2/audio/2023/05/web-show-050823.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio>
+
 * [San Francisco Chronicle: "Scientists found microplastics in Sierra snowpacks. Should we worry about Bay Area drinking water?"](https://www.sfchronicle.com/california/article/sierra-snow-microplastics-drinking-water-17840942.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&utm_source=t.co&utm_medium=referral)
 
 * [Environmental Law Explored: A Podcast SEERies: "Environmental Laws and Regulations for Emerging Microplastics Concerns Series: Episode 5 - Health Risks and Current Human Health Ecotoxicology"](https://abaseer.libsyn.com/website/environmental-laws-and-regulations-for-emerging-microplastics-concerns-series-episode-5-health-risks-and-current-human-health-ecotoxicology)
