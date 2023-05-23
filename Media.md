@@ -13,7 +13,9 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2023
 
-* [KALWL: Crosscurrents - Peak to Tap by Joshua Sirotiak](https://www.kalw.org/podcast/crosscurrents/2023-05-08/peak-to-tap-columbia-river-gorgeous-black-mermaids)
+* [UNDO: The tobacco industry is a top global plastic polluter](https://www.undo.org/environmental-impact/tobacco-industry-plastic-pollution)
+
+* [KALW: Crosscurrents - Peak to Tap by Joshua Sirotiak](https://www.kalw.org/podcast/crosscurrents/2023-05-08/peak-to-tap-columbia-river-gorgeous-black-mermaids)
 <audio controls><source src="https://cpa.ds.npr.org/s2/audio/2023/05/web-show-050823.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio>
 
 * [San Francisco Chronicle: "Scientists found microplastics in Sierra snowpacks. Should we worry about Bay Area drinking water?"](https://www.sfchronicle.com/california/article/sierra-snow-microplastics-drinking-water-17840942.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&utm_source=t.co&utm_medium=referral)
