@@ -13,6 +13,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2023
 
+* [NBC LX News: Starting in Fall 2023, California's largest water providers will test drinking water for microplastics, ensuring our water supply's safety. California will be the first state in the world to mandate testing for microplastics in drinking water. LX News Contributor Greg Bledsoe tells us more](https://fb.watch/kLtpLeUUEu/)
+
 * [UNDO: The tobacco industry is a top global plastic polluter](https://www.undo.org/environmental-impact/tobacco-industry-plastic-pollution)
 
 * [KALW: Crosscurrents - Peak to Tap by Joshua Sirotiak](https://www.kalw.org/podcast/crosscurrents/2023-05-08/peak-to-tap-columbia-river-gorgeous-black-mermaids)
