@@ -13,6 +13,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2023
 
+* [Dockside Podcast: Episode 13 - Microplastics](https://www.podbean.com/media/share/pb-sdiav-1470ac4?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share)
+
 * [NBC LX News: Starting in Fall 2023, California's largest water providers will test drinking water for microplastics, ensuring our water supply's safety. California will be the first state in the world to mandate testing for microplastics in drinking water. LX News Contributor Greg Bledsoe tells us more](https://fb.watch/kLtpLeUUEu/)
 
 * [UNDO: The tobacco industry is a top global plastic polluter](https://www.undo.org/environmental-impact/tobacco-industry-plastic-pollution)

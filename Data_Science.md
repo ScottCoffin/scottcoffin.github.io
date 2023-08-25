@@ -104,4 +104,10 @@ The code to generate this widget is from the [collapsibleTree R package](https:/
 
 Recently I've been experimenting with Stable Diffusion and their adapations (e.g., Warp Fusion) to generate both creative and professional content. Here is a recent video I made in Seattle of myself dancing to a favorite track.
 
-<iframe src="https://player.vimeo.com/video/848250401?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sassy 009 - Blue Racecar (Unofficial Music Video)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe width="280" height="158"
+src="https://player.vimeo.com/video/848250401?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+# <iframe src="https://player.vimeo.com/video/848250401?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sassy 009 - Blue Racecar (Unofficial Music Video)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
