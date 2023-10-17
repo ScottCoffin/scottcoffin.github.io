@@ -16,6 +16,7 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 * [Photonics Media: "Spectroscopy Rides a Rising Tide of Water-Monitoring Applications""](https://www.photonics.com/Articles/Spectroscopy_Rides_a_Rising_Tide_of/a69320#:~:text=Photonics%20Dictionary%20Newsletters-,Spectroscopy%20Rides%20a%20Rising%20Tide%20of%20Water%2DMonitoring%20Applications,as%20other%20photonic%20monitoring%20tools.)
 
 * [The USF Data Science Podcast: "Microplastics in Focus: Navigating Data Science in Government with Scott Coffin"](https://www.audacy.com/podcast/the-usf-data-science-podcast-84533/episodes/microplastics-in-focus-navigating-data-science-in-government-with-scott-coffin-58ed1)
+![](/assets/images/USF.jpg)
 
 * [Dockside Podcast: Episode 13 - Microplastics](https://www.podbean.com/media/share/pb-sdiav-1470ac4?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share)
 
