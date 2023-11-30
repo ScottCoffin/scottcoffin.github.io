@@ -18,7 +18,8 @@ library(plotly)
 
 ```{r}
 #read in data
-cv <- readxl::read_xlsx("assets/data/presentation tracking spreadsheet.xlsx")
+cv <- readxl::read_xlsx("assets/data/presentation tracking spreadsheet.xlsx",
+                        sheet = "data")
 
 #convert dates
 date <- cv %>% 
@@ -48,7 +49,7 @@ engagements <- date %>%
   #  geom_text(x = as.numeric(as.Date("2019-01-01")), y = 15,
   #           label = "Started career at CalEPA", angle = 90,
   #           vjust = -1) +
-  scale_x_date(limits = as.Date(c("2014-04-01", "2022-11-01")),
+  scale_x_date(limits = as.Date(c("2014-04-01", "2023-11-01")),
                date_breaks = "3 months",
                date_labels = "%B (%Y)"
                ) +
@@ -92,7 +93,7 @@ plotly
 library(DT)
 
 
-table <- date %>% dplyr::select(c(Year, Month, day, month_number))
+table <- date %>% dplyr::select(c(Year, Month, Name, Type, Category))
                         
 datatable <- datatable(table,
           options = list(autoWidth = TRUE),
