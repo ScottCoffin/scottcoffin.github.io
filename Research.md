@@ -8,9 +8,13 @@ header:
   overlay_filter: 0.5 #opacity
 ---
 
+## Novel Risk Assessment Methods
+
+In my current role as a Pharmacokinetics Research Scientist in the New Toxicology Evaluations Section of California's Environmental Health Hazard Assessment (OEHHA), I plan and conduct original research into the development and application of novel risk assessment methods that augment the agency's ability to perform timely evaluations of unassessed chemicals that have little or not toxicology testing in laboratory animals; serve as a subject-matter expert in pharmacokinetics; apply new computational-toxicology approaches to develop hazard and dose-response assessments that can support regulatory standards for unassessed chemicals and chemical groups that are of high priority or emerging interest to California state agencies; and establish collaboratoins with academic researchers on the development and refinement of novel risk assessment methods that use new approach methods.
+
 ## Microplastics in Drinking Water
 
-I am currently the lead scientist in California's implementation of [SB 1422- Microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html). Notable reports and publications related to this project are listed below. If you are unable to access any of these publications, please email me and I'll send you the full texts.
+I previously served [2019 to 2024] as the lead scientist in California's implementation of [SB 1422- Microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html). Notable reports and publications related to this project are listed below. If you are unable to access any of these publications, please email me and I'll send you the full texts.
 
 * Eriksen M, Cowger W, Erdle LM, Coffin S, Villarrubia-Gómez P, et al. (2023) A growing plastic smog, now estimated to be over 170 trillion plastic particles afloat in the world’s oceans—Urgent solutions required. PLOS ONE 18(3): e0281596. [Full text](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281596)
 
