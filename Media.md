@@ -11,6 +11,10 @@ header:
 ## Scott Coffin in the Media
 The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles. If you'd like to find PDFs of my presentations, most can be found for free on [ResearchGate](https://www.researchgate.net/profile/Scott-Coffin-2/research).
 
+### 2024
+
+* [Civil Eats: "Tracking Tire Plastics—and Chemicals—From Road to Plate"](https://civileats.com/2024/07/16/tracking-tire-plastics-and-chemicals-from-road-to-plate/)
+
 ### 2023
 
 * [Polygon: "Global weirding is coming for vampires"](https://www.polygon.com/23945600/global-weirding-vampires)
