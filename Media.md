@@ -13,6 +13,8 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2024
 
+*[National Academies of Sciences, Engineering, and Medicine. Environmental Health Matters Initiative: Introduction to Microplastics and Health Implications: Where are we and where are we going? - Webinar #1](https://www.nationalacademies.org/event/43578_08-2024_environmental-health-matters-initiative-introduction-to-microplastics-and-health-implications-where-are-we-and-where-are-we-going-webinar-1)
+
 * [Civil Eats: "Tracking Tire Plastics—and Chemicals—From Road to Plate"](https://civileats.com/2024/07/16/tracking-tire-plastics-and-chemicals-from-road-to-plate/)
 
 ### 2023
