@@ -11,9 +11,13 @@ header:
 ## Scott Coffin in the Media
 The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles. If you'd like to find PDFs of my presentations, most can be found for free on [ResearchGate](https://www.researchgate.net/profile/Scott-Coffin-2/research).
 
+### 2025
+
+* [Spectrum News: Long Beach-based lab to help kick start California's testing of microplastics in drinking water](https://spectrumnews1.com/ca/southern-california/environment/2025/02/27/microplastics--drinking-water--california)
+
 ### 2024
 
-*[National Academies of Sciences, Engineering, and Medicine. Environmental Health Matters Initiative: Introduction to Microplastics and Health Implications: Where are we and where are we going? - Webinar #1](https://www.nationalacademies.org/event/43578_08-2024_environmental-health-matters-initiative-introduction-to-microplastics-and-health-implications-where-are-we-and-where-are-we-going-webinar-1)
+* [National Academies of Sciences, Engineering, and Medicine. Environmental Health Matters Initiative: Introduction to Microplastics and Health Implications: Where are we and where are we going? - Webinar #1](https://www.nationalacademies.org/event/43578_08-2024_environmental-health-matters-initiative-introduction-to-microplastics-and-health-implications-where-are-we-and-where-are-we-going-webinar-1)
 
 * [Civil Eats: "Tracking Tire Plastics—and Chemicals—From Road to Plate"](https://civileats.com/2024/07/16/tracking-tire-plastics-and-chemicals-from-road-to-plate/)
 
