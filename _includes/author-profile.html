@@ -75,6 +75,14 @@
           </a>
         </li>
       {% endif %}
+      
+      {% if author.bluesky %}
+        <li>
+          <a href="https://bsky.app/profile/{{ author.bluesky }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> Bluesky
+          </a>
+        </li>
+      {% endif %}
 
       {% if author.twitter %}
         <li>
@@ -200,6 +208,14 @@
         <li>
           <a href="https://steamcommunity.com/id/{{ author.steam }}" itemprop="sameAs">
             <i class="fab fa-fw fa-steam" aria-hidden="true"></i> Steam
+          </a>
+        </li>
+      {% endif %}
+      
+      {% if author.mixcloud %}
+        <li>
+          <a href="https://www.mixcloud.com/{{ author.mixcloud }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-mixcloud" aria-hidden="true"></i> Mixcloud
           </a>
         </li>
       {% endif %}

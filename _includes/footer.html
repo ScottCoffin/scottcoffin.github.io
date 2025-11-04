@@ -18,6 +18,12 @@
     {% if site.author.bitbucket %}
       <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
+    {% if site.author.bluesky %}
+      <li><a href="https://bsky.app/profile/{{ site.author.bluesky }}"><i class="fab fa-fw fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>
+    {% endif %}
+    {% if site.author.mixcloud %}
+      <li><a href="https://www.mixcloud.com/{{ site.author.mixcloud }}"><i class="fab fa-fw fa-mixcloud" aria-hidden="true"></i> Mixcloud</a></li>
+    {% endif %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}" target="_blank" ><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
   </ul>
 </div>

@@ -92,6 +92,7 @@ author:
   email            : "scott.l.coffin@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
+  bluesky          : "ecoboffin.bsky.social"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -105,6 +106,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         : "scottcoffin" #(the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  mixcloud         : "scoffincheyenne"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
