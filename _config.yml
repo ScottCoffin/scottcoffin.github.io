@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 repo_theme_light         : "default" # GitHub Readme Stats theme for light mode
 repo_theme_dark          : "dark"    # GitHub Readme Stats theme for dark mode
 repo_trophies:
-  enabled               : true
+  enabled               : false
   theme_light           : "flat"
   theme_dark            : "gitdimmed"
 
