@@ -23,6 +23,11 @@
   }
 }
 
+.repo-img {
+  border-radius: 0.5rem;
+  border: 1px solid var(--global-divider-color);
+}
+
 .repo-img-light,
 .repo-img-dark {
   border-radius: 0.5rem;
