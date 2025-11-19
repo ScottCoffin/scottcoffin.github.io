@@ -1,0 +1,54 @@
+.repositories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.repo {
+  flex: 1 1 280px;
+  max-width: 340px;
+  border-radius: 0.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background-color: var(--global-bg-color);
+
+  a {
+    display: block;
+  }
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+  }
+}
+
+.repo-img-light,
+.repo-img-dark {
+  border-radius: 0.5rem;
+  border: 1px solid var(--global-divider-color);
+}
+
+.repo-img-dark {
+  display: none;
+}
+
+[data-theme="dark"] .repo-img-light,
+html[data-theme="dark"] .repo-img-light {
+  display: none;
+}
+
+[data-theme="dark"] .repo-img-dark,
+html[data-theme="dark"] .repo-img-dark {
+  display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+  body:not([data-theme="light"]) .repo-img-light {
+    display: none;
+  }
+
+  body:not([data-theme="light"]) .repo-img-dark {
+    display: block;
+  }
+}
