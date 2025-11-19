@@ -4,7 +4,7 @@ permalink: /Repositories/
 layout: splash
 author_profile: true
 header:
-  overlay_image: /assets/images/pinnacles.jpg
+  overlay_image: /assets/images/EPC.jpg
   overlay_filter: 0.5 #opacity
 classes: wide
 toc: false
@@ -12,7 +12,7 @@ description: "A curated collection of open-source work and live dashboards."
 render_with_liquid: true
 ---
 
-I strongly believe in the power of open source code and open data to reducing barriers to affecting positive change. As a vocal proponent of government transparency and efficiency, I strive to practice what I preach, and release as much code/data as is allowable for my scientific projects. This page provides links to some projects for which I am proud to be able to make public. If you would like to become more familiar with GitHub and making your code open, please check out [a training](https://www.researchgate.net/publication/397773417_GitHub_101_with_a_heavy_focus_on_R) I've put together.
+I strongly believe in the power of open source code and open data to reducing barriers to affecting positive change. As a vocal proponent of government transparency and efficiency, I strive to practice what I preach, and release as much code/data as is allowable for my scientific projects. This page provides links to some projects for which I am proud to be able to make public. If you would like to become more familiar with GitHub and making your code open, please check out [a training](https://www.researchgate.net/publication/397773417_GitHub_101_with_a_heavy_focus_on_R) I've put together. Alongside my personal repositories, I also administer the [OEHHA-NTES](https://github.com/OEHHA-NTES) GitHub organization for California OEHHA’s data science efforts.
 
 {% if site.data.repositories.github_users %}
 
