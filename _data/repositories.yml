@@ -4,11 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - ScottCoffin/SCAGE
   - ScottCoffin/SFBayMPRiskCharacterization
   - ScottCoffin/aq_mp_tox_Mehinto2022
   - ScottCoffin/CAplastics
   - ScottCoffin/EconImpact
-  - ScottCoffin/PFAS-Analysis-and-Intervention
   - ScottCoffin/ToMEx_AquaticOrganisms
-  - ScottCoffin/97-005-treatment-review
+  

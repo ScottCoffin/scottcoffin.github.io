@@ -6,6 +6,7 @@ author_profile: true
 classes: wide
 toc: false
 description: "A curated collection of open-source work and live dashboards."
+render_with_liquid: true
 ---
 
 I keep the work that powers my talks, dashboards, and applications on GitHub. This page mirrors the structure of the al-folio repositories page, pulling live cards directly from GitHub Readme Stats so the stars, forks, and descriptions stay up to date without extra maintenance. Update `_data/repositories.yml` whenever you want to feature a different profile or repo.
