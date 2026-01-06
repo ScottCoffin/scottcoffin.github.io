@@ -46,6 +46,8 @@ I am currently co-leading a large international working group that is updating t
 
 Recent publications related to my previous work on this topic are listed below:
 
+- Coffin, Scott, Lidwina Bertrand, Kazi Towsif Ahmed, Luan de Souza Leite, Win Cowger, SinaMariella Siña, Andrew Barrick et al. "A Probabilistic Risk Framework for Microplastics Integrating Uncertainty Across Toxicological and Environmental Variability: Development and Application to Marine and Freshwater Ecosystems." Journal of Hazardous Materials (2026): 141021. [Full Text (pre-print)](assets/publications/Coffin_2026_ProbEcoTox_HazMat.pdf)
+
 -   Koelmans, Albert A., Todd Gouin, Alvine C. Mehinto, and **Scott Coffin.** “On the Need to Avoid Apple-to-Orange Comparisons in Microplastic Research.” *Canadian Journal of Fisheries and Aquatic Sciences* 81, no. 7 (July 1, 2024): 968–71. [Full Text](https://doi.org/10.1139/cjfas-2023-0325 "Full Text").
 
 -   **Coffin, S.,** Weisberg, S.B., Rochman, C., Kooi, M. and Koelmans, A.A., 2022. "Risk Characterization of Microplastics in San Francisco Bay, California." *Microplastics & Nanoplastics.* [Full text](https://microplastics.springeropen.com/articles/10.1186/s43591-022-00037-z)
