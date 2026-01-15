@@ -1,10 +1,19 @@
 {% assign username = include.username | strip %}
+{% assign repo_cards_mode = site.repo_cards_mode | default: "fallback" %}
 <div class="repo p-2 text-center">
-  <a href="https://github.com/{{ username }}">
-    <img
-      class="repo-img w-100"
-      alt="{{ username }}"
-      src="https://github-readme-stats.vercel.app/api?username={{ username }}&theme={{ site.repo_theme_light }}&show_icons=true"
-    >
-  </a>
+  {% if repo_cards_mode == "stats" %}
+    <a href="https://github.com/{{ username }}">
+      <img
+        class="repo-img w-100"
+        alt="{{ username }}"
+        src="https://github-readme-stats.vercel.app/api?username={{ username }}&theme={{ site.repo_theme_light }}&show_icons=true"
+      >
+    </a>
+  {% else %}
+    <a class="repo-fallback" href="https://github.com/{{ username }}">
+      <span class="repo-fallback-title">@{{ username }}</span>
+      <span class="repo-fallback-subtitle">GitHub profile</span>
+      <span class="repo-fallback-note">Stats temporarily unavailable.</span>
+    </a>
+  {% endif %}
 </div>

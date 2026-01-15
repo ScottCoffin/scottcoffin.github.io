@@ -28,6 +28,39 @@
   border: 1px solid var(--global-divider-color);
 }
 
+.repo-fallback {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  min-height: 140px;
+  padding: 1.25rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--global-divider-color);
+  color: inherit;
+  text-decoration: none;
+}
+
+.repo-fallback-title {
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+.repo-fallback-meta {
+  font-size: 0.9rem;
+  opacity: 0.75;
+}
+
+.repo-fallback-subtitle {
+  font-size: 0.9rem;
+  opacity: 0.85;
+}
+
+.repo-fallback-note {
+  font-size: 0.82rem;
+  opacity: 0.65;
+}
+
 .repo-img-light,
 .repo-img-dark {
   border-radius: 0.5rem;

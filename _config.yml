@@ -8,6 +8,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 repo_theme_light         : "default" # GitHub Readme Stats theme for light mode
 repo_theme_dark          : "dark"    # GitHub Readme Stats theme for dark mode
+repo_cards_mode          : "fallback" # "fallback" or "stats"
 repo_trophies:
   enabled               : false
   theme_light           : "flat"

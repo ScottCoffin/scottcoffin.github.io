@@ -1,23 +1,36 @@
 {% assign repo_id = include.repository | strip %}
 {% assign repo_url = repo_id | split: '/' %}
-{% if site.data.repositories.github_users contains repo_url.first %}
-  {% assign show_owner = false %}
-{% else %}
-  {% assign show_owner = true %}
-{% endif %}
-
-{% if site.data.repositories.repo_description_lines_max %}
-  {% assign max_lines = site.data.repositories.repo_description_lines_max %}
-{% else %}
-  {% assign max_lines = 2 %}
-{% endif %}
+{% assign owner = repo_url.first %}
+{% assign repo_name = repo_url.last %}
+{% assign repo_cards_mode = site.repo_cards_mode | default: "fallback" %}
 
 <div class="repo p-2 text-center">
-  <a href="https://github.com/{{ repo_id }}">
-    <img
-      class="repo-img w-100"
-      alt="{{ repo_id }}"
-      src="https://github-readme-stats.vercel.app/api/pin?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
-    >
-  </a>
+  {% if repo_cards_mode == "stats" %}
+    {% if site.data.repositories.github_users contains repo_url.first %}
+      {% assign show_owner = false %}
+    {% else %}
+      {% assign show_owner = true %}
+    {% endif %}
+
+    {% if site.data.repositories.repo_description_lines_max %}
+      {% assign max_lines = site.data.repositories.repo_description_lines_max %}
+    {% else %}
+      {% assign max_lines = 2 %}
+    {% endif %}
+
+    <a href="https://github.com/{{ repo_id }}">
+      <img
+        class="repo-img w-100"
+        alt="{{ repo_id }}"
+        src="https://github-readme-stats.vercel.app/api/pin?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
+      >
+    </a>
+  {% else %}
+    <a class="repo-fallback" href="https://github.com/{{ repo_id }}">
+      <span class="repo-fallback-title">{{ repo_name }}</span>
+      <span class="repo-fallback-meta">{{ owner }}</span>
+      <span class="repo-fallback-subtitle">GitHub repository</span>
+      <span class="repo-fallback-note">Stats temporarily unavailable.</span>
+    </a>
+  {% endif %}
 </div>
