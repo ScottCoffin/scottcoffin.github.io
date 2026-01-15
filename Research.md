@@ -8,9 +8,9 @@ header:
   overlay_filter: 0.5 #opacity
 ---
 
-## Novel Risk Assessment Methods
+In my current role as a Staff Toxicologist Specialist in the Water Toxicology Section of California's [*Office of Environmental Health Hazard Assessment*](https://oehha.ca.gov/) (OEHHA), I am conducting original research to assess the human health effects of *microplastics* in drinking and bottled water to implement the legislative requirements of  [California Senate Bill 1147](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1147).
 
-In my current role as a Pharmacokinetics Research Scientist in the New Toxicology Evaluations Section of California's [*Office of Environmental Health Hazard Assessment*](https://oehha.ca.gov/) (OEHHA), I am conducting original research into the development and application of novel risk assessment methods that augment the agency's ability to perform timely evaluations of unassessed chemicals that have little or not toxicology testing in laboratory animals; serve as a subject-matter expert in pharmacokinetics; apply new computational-toxicology approaches to develop hazard and dose-response assessments that can support regulatory standards for unassessed chemicals and chemical groups that are of high priority or emerging interest to California state agencies; and establish collaborations with academic researchers on the development and refinement of novel risk assessment methods that use new approach methods.
+Previously (2024 - 2025), I served as Pharmacokinetics Research Scientist with OEHHA's New Toxicology Evaluations Section, where I developed and applied novel risk assessment methods that augment the agency's ability to perform timely evaluations of unassessed chemicals that have little or not toxicology testing in laboratory animals; served as a subject-matter expert in pharmacokinetics; applied new computational-toxicology approaches to develop hazard and dose-response assessments that can support regulatory standards for unassessed chemicals and chemical groups that are of high priority or emerging interest to California state agencies; and established collaborations with academic researchers on the development and refinement of novel risk assessment methods that use new approach methods.
 
 If you are unable to access any of the publications via their links below, please [email me](mailto:scott.l.coffin@gmail.com) and I'll send you the full texts. #OpenScience
 
@@ -42,11 +42,13 @@ I previously served [2019 to 2024] as the lead scientist in California's impleme
 
 ## Ecotoxicology (Risk Assessment)
 
-I am currently co-leading a large international working group that is updating the [Toxicity of Microplastics Explorer App (ToMEx)](https://microplastics.sccwrp.org/) with published laboratory hazard studies. In early 2025, our group will release the updated version of ToMEx (2.0), more than doubling the database from the initial version. We will also be publishing a number of meta-analyses related to this work, including an analysis of study quality, predictive modelling of ecotoxicity, and a probabilistic eco-toxicological risk assessment. Stay [tuned here](https://x.com/tomexapp?lang=en)!
+- Ana L. Antonio Vital, Scott Coffin, Andrea Bonisoli-Alquati, Maaike Vercauteren, Luan de Souza Leite, Maximilian Pichler, Magdalena M. Mair. “Predicting Microplastic Toxicity for Aquatic Organisms Using Machine Learning.” In preparation.
 
-Recent publications related to my previous work on this topic are listed below:
+- **Coffin, Scott**, Lidwina Bertrand, Kazi Towsif Ahmed, Luan de Souza Leite, Win Cowger, SinaMariella Siña, Andrew Barrick et al. "A Probabilistic Risk Framework for Microplastics Integrating Uncertainty Across Toxicological and Environmental Variability: Development and Application to Marine and Freshwater Ecosystems." Journal of Hazardous Materials (2026): 141021. [Full Text](https://www.sciencedirect.com/science/article/pii/S0304389425039421)
 
-- Coffin, Scott, Lidwina Bertrand, Kazi Towsif Ahmed, Luan de Souza Leite, Win Cowger, SinaMariella Siña, Andrew Barrick et al. "A Probabilistic Risk Framework for Microplastics Integrating Uncertainty Across Toxicological and Environmental Variability: Development and Application to Marine and Freshwater Ecosystems." Journal of Hazardous Materials (2026): 141021. [Full Text (pre-print)](assets/publications/Coffin_2026_ProbEcoTox_HazMat.pdf)
+- Kennedy, Stephanie B., Ana L. Antonio Vital, Anna Kukkola, Ezra Miller, Andrew Yeh, **Scott Coffin**, Towsif K. Ahmed et al. "Trends in Quality and Risk Assessment Applicability of Microplastic Ecotoxicity Studies." Journal of Hazardous Materials Advances (2025): 100942. [Full Text](https://www.sciencedirect.com/science/article/pii/S2772416625003535)
+
+- Hampton, Leah M. Thornton, Dana Briggs Wyler, Bethanie Carney Almroth, **Scott Coffin**, Win Cowger, Darragh Doyle, Eden K. Hataley et al. "The toxicity of microplastics explorer (ToMEx) 2.0." Microplastics and nanoplastics 5, no. 1 (2025): 38. [Full Text](https://link.springer.com/article/10.1186/s43591-025-00145-6)
 
 -   Koelmans, Albert A., Todd Gouin, Alvine C. Mehinto, and **Scott Coffin.** “On the Need to Avoid Apple-to-Orange Comparisons in Microplastic Research.” *Canadian Journal of Fisheries and Aquatic Sciences* 81, no. 7 (July 1, 2024): 968–71. [Full Text](https://doi.org/10.1139/cjfas-2023-0325 "Full Text").
 
@@ -89,6 +91,10 @@ During graduate school, I collaborated on a number of projects using bioanalytic
 -   Huang, Y., Kong, M., Westerman, D., Xu, E. G., Coffin, S., Cochran, K. H., Liu, Y., Richardson, S. D., Schlenk, D., & Dionysiou, D. D. (2018). "Effects of HCO3– on Degradation of Toxic Contaminants of Emerging Concern by UV/NO3–." *Environmental Science & Technology*, 52(21), 12697–12707. [Full text](https://doi.org/10.1021/acs.est.8b04383)
 
 -   Huang, Y., Liu, Y., Kong, M., Xu, E. G., Coffin, S., Schlenk, D., & Dionysiou, D. D. (2018). "Efficient degradation of cytotoxic contaminants of emerging concern by UV/H2O2." *Environmental Science: Water Research & Technology*, 4(9), 1272–1281.[Full text](https://doi.org/10.1039/C8EW00290H)
+
+## Per- and Poly-fluoroalkyl Substances (PFAS)
+
+- Fillman, Toki, **Scott Coffin**, Brandon Ta, Emily Beglarian, Wendy Linck, Hyoung-Gee Baek, Songmei Gao et al. "Associations between PFAS in public water system drinking water and serum among Southern California adults." Journal of Exposure Science & Environmental Epidemiology (2025): 1-11. [Full Text](https://www.nature.com/articles/s41370-025-00817-8)
 
 ## Additional Publications
 
