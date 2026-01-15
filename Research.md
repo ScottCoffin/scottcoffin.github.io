@@ -12,7 +12,7 @@ In my current role as a Staff Toxicologist Specialist in the Water Toxicology Se
 
 Previously (2024 - 2025), I served as Pharmacokinetics Research Scientist with OEHHA's New Toxicology Evaluations Section, where I developed and applied novel risk assessment methods that augment the agency's ability to perform timely evaluations of unassessed chemicals that have little or not toxicology testing in laboratory animals; served as a subject-matter expert in pharmacokinetics; applied new computational-toxicology approaches to develop hazard and dose-response assessments that can support regulatory standards for unassessed chemicals and chemical groups that are of high priority or emerging interest to California state agencies; and established collaborations with academic researchers on the development and refinement of novel risk assessment methods that use new approach methods.
 
-If you are unable to access any of the publications via their links below, please [email me](mailto:scott.l.coffin@gmail.com) and I'll send you the full texts. #OpenScience
+If you are unable to access any of the publications via their links below or another reason, please [email me](mailto:scott.l.coffin@gmail.com) and I'll send you the full texts. #OpenScience
 
 ## Microplastics in Drinking Water
 
@@ -109,9 +109,9 @@ During graduate school, I collaborated on a number of projects using bioanalytic
 
 ## Laboratory Method Development
 
-Roxana Sühring, David Megson, Huy Nguyen, Eric Fries, David Jones, Lars Hildebrandt, Daniel Pröfrock, Tina Sanders, Alexa Zonderman, Ian Ingram, Sydney Rilum, Corey Clatterbuck, **Scott Coffin**, Liisa M. Jantunen, Courtney D Sandau, Charles Wong. "Multi-Analytical chemical Fingerprinting: A Method to Establish Contaminant Profiles and Sources of Microplastic Pollution in the environment." *In Preparation*
+-    Roxana Sühring, David Megson, Huy Nguyen, Eric Fries, David Jones, Lars Hildebrandt, Daniel Pröfrock, Tina Sanders, Alexa Zonderman, Ian Ingram, Sydney Rilum, Corey Clatterbuck, **Scott Coffin**, Liisa M. Jantunen, Courtney D Sandau, Charles Wong. "Multi-Analytical chemical Fingerprinting: A Method to Establish Contaminant Profiles and Sources of Microplastic Pollution in the environment." *In Preparation*
 
-Huy Nguyen, Eric Fries, David Jones, David Megson, Alexa Zonderman, Lars Hildebrandt, Daniel Pröfrock, **Scott Coffin**, Roxana Sühring. "Chemical Fingerprints of New vs. Weathered Plastics: A Machine Learning Approach." *In Preparation*
+-    Huy Nguyen, Eric Fries, David Jones, David Megson, Alexa Zonderman, Lars Hildebrandt, Daniel Pröfrock, **Scott Coffin**, Roxana Sühring. "Chemical Fingerprints of New vs. Weathered Plastics: A Machine Learning Approach." *In Preparation*
 
 
 ## Per- and Poly-fluoroalkyl Substances (PFAS)
