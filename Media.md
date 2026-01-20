@@ -69,7 +69,6 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 * [Macro to Microplastics in Narragansett Bay. Keynote presentation: “Managing Micro- and Macro-Plastics: Lessons Learned from California State Agencies](https://www.youtube.com/watch?v=xJU3NiRK_FM&t=4270s)
 <iframe width="360" height="200" src="https://www.youtube.com/embed/xJU3NiRK_FM?start=4270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 * [Spectrum News: Labs prepare for first-of-its-kind water directive](https://spectrumnews1.com/ca/la-west/health/2022/09/15/labs-prepare-for-first-of-its-kind-water-directive)
 
 * [Nautilus: You Eat a Credit Card’s Worth of Plastic Every Week: What is our hidden consumption of microplastics doing to our health?](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-238481/?_sp=7c9821b1-3b8d-42a8-a0f8-5a877c434cf8.1670361835654)

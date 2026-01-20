@@ -22,10 +22,10 @@ Along with some close friends, I created the [Plastiverse](https://www.plastiver
 * [Follow Plastiverse on Twitter](https://twitter.com/ThePlastiverse)
 * [Project Website](https://www.plastiverse.org/)
 
-## ToMEx
+## ToMEx 2.0
 ![ToMEx](assets/images/TomexLogo.png){:height="200px" width="200px"}
 
-I developed an RShiny application that allows users to manipulate and visualize toxicity data for microplastics on humans and ecosystems. The app contains data from over 200 peer-reviewed studies. The [Toxicity of Microplastics Explorer (ToMEx) app](https://microplastics.sccwrp.org/) is an *open-source* and *open-data* web-based application that is scheduled to launch in Summer, 2021. While the tool was originally designed for regulatory purposes, it’s accessibility and interactive nature allows use by diverse audiences, including researchers, educators, policy makers, and advocacy groups.
+I developed an RShiny application that allows users to manipulate and visualize toxicity data for microplastics on humans and ecosystems. The app contains data from over 350 peer-reviewed studies. The [Toxicity of Microplastics Explorer (ToMEx) app 2.0](https://microplastics.sccwrp.org/) is an *open-source* and *open-data* web-based application that is scheduled to launch in Summer, 2021. While the tool was originally designed to support the development of risk thresholds for regulatory purposes, it’s accessibility and interactive nature allows use by diverse audiences, including researchers, educators, policy makers, and advocacy groups.
 
 <iframe width="150" height="79" 
 src="https://www.youtube.com/embed/ymPMYkcmgDg" 
@@ -34,6 +34,14 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 
 * [Follow ToMExApp on Twitter](https://twitter.com/ToMExApp)
 * [Source code](https://github.com/SCCWRP/aq_mp_tox_shiny)
+
+## pSSD++
+![pSSD](assets/images/pSSD.png){:height="200px" width="200px"}
+
+I developed an probabilistic ecotoxicological risk assessment framework for microplastics that preserves and propagates uncertanties associated with particle diversity/extrapolation to environmental distributions, intra-laboratory and inter-laboratory variability, assessment factors, and more. To enable adoption of this model, I created an open-source R package (pSSD++) that can be installed [via GitHub](https://github.com/ScottCoffin/ToMEx2.0_EcoToxRisk/tree/main).
+
+* [Open Access Publication](https://www.sciencedirect.com/science/article/pii/S0304389425039421)
+* [pSSD++ R Package](https://github.com/ScottCoffin/ToMEx2.0_EcoToxRisk/tree/main)
 
 ## Assessing Risks of Microplastics in San Francisco Bay, California
 

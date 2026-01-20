@@ -22,7 +22,7 @@ name                     : "Scott Coffin, PhD"
 description              : ""
 url                      : "https://scottcoffin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "ScottCoffin/scottcoffin.github.io"
+repository               : "ScottCoffin/scottcoffin.github.io" # GitHub username/repo-name e.g. "ScottCoffin/scottcoffin.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -223,7 +223,7 @@ whitelist:
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/ 
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
