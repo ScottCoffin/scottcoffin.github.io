@@ -17,6 +17,9 @@ The following is a **non-exhaustive** list of recent media highlighting my work.
 
 ### 2024
 
+* [California Lake Management Society Webinar - Risk Management Strategies for Microplastics in Aquatic Environments](https://www.youtube.com/embed/bSS6FBmqtU8?si=X6a3W5_UW0HWZb0h&amp;start=615)
+<iframe width="360" height="200" src="https://www.youtube.com/embed/bSS6FBmqtU8?si=X6a3W5_UW0HWZb0h&amp;start=615" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 * [National Academies of Sciences, Engineering, and Medicine. Environmental Health Matters Initiative: Introduction to Microplastics and Health Implications: Where are we and where are we going? - Webinar #1](https://www.nationalacademies.org/event/43578_08-2024_environmental-health-matters-initiative-introduction-to-microplastics-and-health-implications-where-are-we-and-where-are-we-going-webinar-1)
 
 * [Civil Eats: "Tracking Tire Plastics—and Chemicals—From Road to Plate"](https://civileats.com/2024/07/16/tracking-tire-plastics-and-chemicals-from-road-to-plate/)
