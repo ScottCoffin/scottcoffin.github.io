@@ -14,6 +14,13 @@ Previously (2024 - 2025), I served as Pharmacokinetics Research Scientist with O
 
 If you are unable to access any of the publications via their links below or another reason, please [email me](mailto:scott.l.coffin@gmail.com) and I'll send you the full texts. #OpenScience
 
+## New Approach Methodologies
+
+Publications below are related to my tenure as a Pharmacokinetics Research Scientist in the New Toxicology Evaluations Section at OEHHA.
+
+- Almeida, Nuno M. S., Heather M. Bolstad, **Scott Coffin**, Sana Majid, Angela K. Wilson, and Anatoly A. Soshilov. “New Docking, Molecular Dynamics, and QSAR Models to Predict Disruption of Human and Rat Transthyretin Function by Per- and Polyfluoroalkyl Substances (PFAS).” Chemical Research in Toxicology, April 27, 2026, acs.chemrestox.5c00424. [Full Text](https://doi.org/10.1021/acs.chemrestox.5c00424).
+
+
 ## Microplastics in Drinking Water
 
 I previously served [2019 to 2024] as the lead scientist in California's implementation of [SB 1422- Microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html). Some notable reports and publications related to this project are listed below.
@@ -25,6 +32,8 @@ I previously served [2019 to 2024] as the lead scientist in California's impleme
 -   **Coffin, S.** (2020). "Staff Report - Proposed Definition of 'Microplastics in Drinking Water' (June 3, 2020)." [Full text](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/docs/stffrprt_jun3.pdf)
 
 ## Policy and Perspectives
+
+- Koelmans, A., Bouwmeester, H., Christopher, E., **Coffin, S.**, Haase, A., Lane, T., Legler, J., Vermeulen, R., Visser, M., Vogel, A., Wardani, I., Zou, R., 2026. "Towards Regulatory Readiness: Evaluating Frameworks for Microplastic Health Risk Assessment." *Microplastics & Nanoplastics*. Pre-print available at: https.://doi.org/10.2139/ssrn.5957574
 
 - Bălan, Simona A., Saskia K. van Bergen, Ann Blake, Topher Buck, **Scott Coffin**, Jamie C. Dewitt, Gretta Goldenman et al. "Confronting the interconnection of chemical pollution and climate change." Environmental Innovation and Societal Transitions 55 (2025): 100966.[Full text](https://doi.org/10.1016/j.eist.2025.100966)
 
