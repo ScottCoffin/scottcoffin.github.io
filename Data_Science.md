@@ -27,7 +27,7 @@ Along with some close friends, I created the [Plastiverse](https://www.plastiver
 
 I developed an RShiny application that allows users to manipulate and visualize toxicity data for microplastics on humans and ecosystems. The app contains data from over 350 peer-reviewed studies. The [Toxicity of Microplastics Explorer (ToMEx) app 2.0](https://microplastics.sccwrp.org/) is an *open-source* and *open-data* web-based application that is scheduled to launch in Summer, 2021. While the tool was originally designed to support the development of risk thresholds for regulatory purposes, it’s accessibility and interactive nature allows use by diverse audiences, including researchers, educators, policy makers, and advocacy groups.
 
-<iframe width="150" height="79" 
+<iframe width="150" height="50" 
 src="https://www.youtube.com/embed/ymPMYkcmgDg" 
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,7 +36,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 * [Source code](https://github.com/SCCWRP/aq_mp_tox_shiny)
 
 ## pSSD++
-![pSSD](assets/images/pSSD.png){:height="200px" width="200px"}
+![pSSD](assets/images/pSSD.png){:height="250px" width="250px"}
 
 I developed an probabilistic ecotoxicological risk assessment framework for microplastics that preserves and propagates uncertanties associated with particle diversity/extrapolation to environmental distributions, intra-laboratory and inter-laboratory variability, assessment factors, and more. To enable adoption of this model, I created an open-source R package (pSSD++) that can be installed [via GitHub](https://github.com/ScottCoffin/ToMEx2.0_EcoToxRisk/tree/main).
 
@@ -55,8 +55,7 @@ I developed California's [*statewide monitoring plan for microplastics in drinki
 
 While specific details regarding this monitoring plan are still being finalized (e.g., who, what, when, where, how, etc.), here's a map of the water systems in California that potentially will be required to monitor:
 
-<iframe src="/assets/widgets/map_treatment.html" height="300px" width="100%" style="border:none;"></iframe>
-
+<iframe src="/assets/widgets/map_treatment.html" height="600px" width="100%" style="border:none;"></iframe>
 
 
 ## NASA COVID-19 Space Apps Challenge Global Datathon Winner
