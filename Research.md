@@ -11,7 +11,7 @@ header:
 
 In my current role as a Staff Toxicologist Specialist in the Water Toxicology Section of California's [*Office of Environmental Health Hazard Assessment*](https://oehha.ca.gov/) (OEHHA), I am conducting original research to assess the human health effects of *microplastics* in drinking and bottled water to implement the legislative requirements of  [California Senate Bill 1147](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1147).
 
-Previously (2024 - 2025), I served as Pharmacokinetics Research Scientist with OEHHA's New Toxicology Evaluations Section, where I developed and applied novel risk assessment methods that augment the agency's ability to perform timely evaluations of unassessed chemicals that have little or not toxicology testing in laboratory animals; served as a subject-matter expert in pharmacokinetics; applied new computational-toxicology approaches to develop hazard and dose-response assessments that can support regulatory standards for unassessed chemicals and chemical groups that are of high priority or emerging interest to California state agencies; and established collaborations with academic researchers on the development and refinement of novel risk assessment methods that use new approach methods.
+Previously (2024 - 2025), I served as Pharmacokinetics Research Scientist with OEHHA's New Toxicology Evaluations Section, where I developed and applied novel risk assessment methods that augment the agency's ability to perform timely evaluations of unassessed chemicals that have little or no toxicology testing in laboratory animals; served as a subject-matter expert in pharmacokinetics; applied new computational-toxicology approaches to develop hazard and dose-response assessments that can support regulatory standards for unassessed chemicals and chemical groups that are of high priority or emerging interest to California state agencies; and established collaborations with academic researchers on the development and refinement of novel risk assessment methods that use new approach methods.
 
 If you are unable to access any of the publications via their links below or another reason, please [email me](mailto:scott.l.coffin@gmail.com) and I'll send you the full texts. #OpenScience
 
@@ -44,7 +44,7 @@ Publications below are related to my tenure as a Pharmacokinetics Research Scien
 
 I previously served [2019 to 2024] as the lead scientist in California's implementation of [SB 1422- Microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html). Some notable reports and publications related to this project are listed below.
 
--   Sherrod, Hannah, Nicholas Leong, Hannah Hapich, Fabian Gomez, Shelly Moore, Ben Maurer, **Scott Coffin**, et al. “One4All: An Open Source Portal to Validate and ShareMicroplastics Data and Beyond.” *Journal of Open Source Software* 9, no. 99 (July 16, 2024): 6715. [Full Text](https://doi.org/10.21105/joss.06715)
+-   Sherrod, Hannah, Nicholas Leong, Hannah Hapich, Fabian Gomez, Shelly Moore, Ben Maurer, **Scott Coffin**, et al. “One4All: An Open Source Portal to Validate and Share Microplastics Data and Beyond.” *Journal of Open Source Software* 9, no. 99 (July 16, 2024): 6715. [Full Text](https://doi.org/10.21105/joss.06715)
 
 -   **Coffin, S**., Bouwmeester, H., Brander, S. et al. "Development and application of a health-based framework for informing regulatory action in relation to exposure of microplastic particles in California drinking water". *Microplastics & Nanoplastics* 2, 12 (2022). [Full text](https://doi.org/10.1186/s43591-022-00030-6)
 
@@ -52,7 +52,7 @@ I previously served [2019 to 2024] as the lead scientist in California's impleme
 
 ## Policy and Perspectives
 
-- Koelmans, A., Bouwmeester, H., Christopher, E., **Coffin, S.**, Haase, A., Lane, T., Legler, J., Vermeulen, R., Visser, M., Vogel, A., Wardani, I., Zou, R., 2026. "Towards Regulatory Readiness: Evaluating Frameworks for Microplastic Health Risk Assessment." *Microplastics & Nanoplastics*. Pre-print available at: https.://doi.org/10.2139/ssrn.5957574
+- Koelmans, A., Bouwmeester, H., Christopher, E., **Coffin, S.**, Haase, A., Lane, T., Legler, J., Vermeulen, R., Visser, M., Vogel, A., Wardani, I., Zou, R., 2026. "Towards Regulatory Readiness: Evaluating Frameworks for Microplastic Health Risk Assessment." *Microplastics & Nanoplastics*. Pre-print available at: https://doi.org/10.2139/ssrn.5957574
 
 - Bălan, Simona A., Saskia K. van Bergen, Ann Blake, Topher Buck, **Scott Coffin**, Jamie C. Dewitt, Gretta Goldenman et al. "Confronting the interconnection of chemical pollution and climate change." Environmental Innovation and Societal Transitions 55 (2025): 100966.[Full text](https://doi.org/10.1016/j.eist.2025.100966)
 

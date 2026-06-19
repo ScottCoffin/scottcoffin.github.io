@@ -18,3 +18,14 @@ npm-debug.log*
 Media.html
 Data_Science.html
 About_Me.html
+
+# SEO/performance diagnostic report outputs
+reports/lighthouse/
+reports/lhci/
+reports/pagespeed/
+reports/search-console/
+reports/gtmetrix/
+reports/*.json
+reports/*.csv
+reports/*.html
+reports/*.log

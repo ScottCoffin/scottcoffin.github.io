@@ -23,6 +23,12 @@ Along with some close friends, I created the [Plastiverse](https://www.plastiver
 * [Follow Plastiverse on Twitter](https://twitter.com/ThePlastiverse)
 * [Project Website](https://www.plastiverse.org/)
 
+## Reusable Job Scraper
+
+I created [Job Scraper](https://github.com/ScottCoffin/Job_Scraper), a reusable resource for collecting and organizing job postings from online sources. The project is designed to support repeatable job-search workflows and can be adapted for different search terms, roles, or scientific communities.
+
+* [Source code](https://github.com/ScottCoffin/Job_Scraper)
+
 ## ToMEx 2.0
 ![ToMEx](assets/images/TomexLogo.png){:height="200px" width="200px"}
 

@@ -2,6 +2,7 @@
 title: "Expertise | Scott Coffin, PhD"
 description: "Expertise areas for Scott Coffin, PhD, including microplastics risk assessment, environmental toxicology, PFAS toxicokinetics, computational toxicology, regulatory science, and open environmental data tools."
 permalink: /Expertise/
+layout: splash
 ---
 
 # Expertise
