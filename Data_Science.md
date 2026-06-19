@@ -1,5 +1,6 @@
 ---
-title: "Data Science"
+title: "Data Science & Open Tools | Scott Coffin, PhD"
+description: "Open science and data tools by Scott Coffin, PhD, including Plastiverse, ToMEx, pSSD++, PFAS data tools, microplastics dashboards, and environmental health applications."
 output:
   md_document:
     variant: gfm
@@ -38,7 +39,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 ## pSSD++
 ![pSSD](assets/images/pSSD.png){:height="250px" width="250px"}
 
-I developed an probabilistic ecotoxicological risk assessment framework for microplastics that preserves and propagates uncertanties associated with particle diversity/extrapolation to environmental distributions, intra-laboratory and inter-laboratory variability, assessment factors, and more. To enable adoption of this model, I created an open-source R package (pSSD++) that can be installed [via GitHub](https://github.com/ScottCoffin/ToMEx2.0_EcoToxRisk/tree/main).
+I developed a probabilistic ecotoxicological risk assessment framework for microplastics that preserves and propagates uncertainties associated with particle diversity/extrapolation to environmental distributions, intra-laboratory and inter-laboratory variability, assessment factors, and more. To enable adoption of this model, I created an open-source R package (pSSD++) that can be installed [via GitHub](https://github.com/ScottCoffin/ToMEx2.0_EcoToxRisk/tree/main).
 
 * [Open Access Publication](https://www.sciencedirect.com/science/article/pii/S0304389425039421)
 * [pSSD++ R Package](https://github.com/ScottCoffin/ToMEx2.0_EcoToxRisk/tree/main)
@@ -77,7 +78,7 @@ allowfullscreen></iframe>
 
 ![PFAS Datathon](assets/images/PFAS.jpg){:height="200px" width="300px"}
 
-In 2019, I lead the California State Water Board's two-day dathon on per- and polyfluoroalkyl substances (PFAS). The [PFAS Datathon 2019](https://www.waterboards.ca.gov/pfas/pfas_datathon.html) garnered data scientists and subject matter experts from academia, public sectors, and industry alike to collaboratively develop innovative solutions to answer scientific and management questions utilizing open data. Ther results from this project prompted a [peer-reviewed publication](https://eartharxiv.org/repository/view/1740/) and an [RShiny application useful for water agencies](https://meldataaa.shinyapps.io/PFAS_Analysis_and_Intervention/), among other products.
+In 2019, I led the California State Water Board's two-day datathon on per- and polyfluoroalkyl substances (PFAS). The [PFAS Datathon 2019](https://www.waterboards.ca.gov/pfas/pfas_datathon.html) garnered data scientists and subject matter experts from academia, public sectors, and industry alike to collaboratively develop innovative solutions to answer scientific and management questions utilizing open data. The results from this project prompted a [peer-reviewed publication](https://eartharxiv.org/repository/view/1740/) and an [RShiny application useful for water agencies](https://meldataaa.shinyapps.io/PFAS_Analysis_and_Intervention/), among other products.
 
 <iframe width="280" height="158"
 src="https://youtube.com/embed/6G0hm_US5k4?t=14455" 

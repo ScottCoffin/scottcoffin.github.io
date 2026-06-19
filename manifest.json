@@ -1,5 +1,8 @@
 {
-    "name": "",
+    "name": "Scott Coffin, PhD",
+    "short_name": "Scott Coffin",
+    "description": "Environmental toxicologist and data scientist focused on microplastics, PFAS, ecological risk, and open science.",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",

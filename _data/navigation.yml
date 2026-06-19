@@ -4,6 +4,8 @@ main:
     url: /About_Me
   - title: "Research"
     url: /Research
+  - title: "Expertise"
+    url: /Expertise/
   - title: "Data Science"
     url: /Data_Science
   # - title: "Repositories"

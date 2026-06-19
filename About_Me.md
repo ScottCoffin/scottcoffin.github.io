@@ -1,5 +1,6 @@
 ---
-title: About Me
+title: "About Scott Coffin, PhD"
+description: "Biography of Scott Coffin, PhD, an environmental toxicologist specializing in microplastics, drinking water, PFAS, ecotoxicology, analytical chemistry, data science, and regulatory risk assessment."
 permalink: /About_Me/
 layout: splash
 author_profile: true

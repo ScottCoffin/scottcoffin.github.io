@@ -1,5 +1,6 @@
 ---
-title: Media
+title: "Media & Talks | Scott Coffin, PhD"
+description: "Media, interviews, webinars, and public talks featuring Scott Coffin, PhD on microplastics, plastic pollution, drinking water, environmental health, and science policy."
 permalink: /Media/
 layout: splash
 author_profile: false

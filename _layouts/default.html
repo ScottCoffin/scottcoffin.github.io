@@ -20,6 +20,9 @@
     <meta name="theme-color" content="#ffffff">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     {% seo %}
+    {% if page.url == "/" %}
+      {% include person-jsonld.html %}
+    {% endif %}
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">

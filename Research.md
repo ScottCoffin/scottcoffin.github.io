@@ -1,5 +1,6 @@
 ---
-title: Research
+title: "Research | Scott Coffin, PhD"
+description: "Research by Scott Coffin, PhD on microplastics in drinking water, ecotoxicology, PFAS, New Approach Methodologies, toxicokinetics, computational toxicology, and regulatory risk assessment."
 permalink: /Research/
 layout: splash
 author_profile: true
@@ -13,6 +14,24 @@ In my current role as a Staff Toxicologist Specialist in the Water Toxicology Se
 Previously (2024 - 2025), I served as Pharmacokinetics Research Scientist with OEHHA's New Toxicology Evaluations Section, where I developed and applied novel risk assessment methods that augment the agency's ability to perform timely evaluations of unassessed chemicals that have little or not toxicology testing in laboratory animals; served as a subject-matter expert in pharmacokinetics; applied new computational-toxicology approaches to develop hazard and dose-response assessments that can support regulatory standards for unassessed chemicals and chemical groups that are of high priority or emerging interest to California state agencies; and established collaborations with academic researchers on the development and refinement of novel risk assessment methods that use new approach methods.
 
 If you are unable to access any of the publications via their links below or another reason, please [email me](mailto:scott.l.coffin@gmail.com) and I'll send you the full texts. #OpenScience
+
+## Research themes
+
+### Microplastics risk assessment
+
+My research develops methods to evaluate microplastics exposure, toxicity, and risk across environmental and human health contexts. This includes drinking water, aquatic organisms, regulatory monitoring, toxicity thresholds, and probabilistic approaches for interpreting complex microplastics data.
+
+### Computational toxicology and NAMs
+
+I use computational toxicology, toxicokinetics, in vitro-to-in vivo extrapolation, and New Approach Methodologies to help evaluate chemical hazards and risks, especially where traditional data are limited.
+
+### PFAS toxicokinetics
+
+My PFAS work focuses on toxicokinetic modeling, serum and tissue dose metrics, half-life estimation, and methods for translating experimental data into risk-relevant exposure estimates.
+
+### Open science and data integration
+
+I develop and use open databases, reproducible workflows, and data tools to improve environmental health assessment, including resources for microplastics, PFAS, and toxicology evidence synthesis.
 
 ## New Approach Methodologies
 
