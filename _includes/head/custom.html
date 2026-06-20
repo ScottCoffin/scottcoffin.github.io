@@ -2,4 +2,8 @@
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
 
+{% if page.header.overlay_image %}
+<link rel="preload" as="image" href="{{ page.header.overlay_image | relative_url }}">
+{% endif %}
+
 <!-- end custom head snippets -->

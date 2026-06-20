@@ -1,189 +1,550 @@
 ---
-title: "Media & Talks | Scott Coffin, PhD"
+title: "Media & Talks"
 description: "Media, interviews, webinars, and public talks featuring Scott Coffin, PhD on microplastics, plastic pollution, drinking water, environmental health, and science policy."
 permalink: /Media/
 layout: splash
 author_profile: false
 header:
   overlay_image: /assets/images/calepa_short.jpg
-  overlay_filter: 0.5 #opacity
+  overlay_filter: 0.5
 ---
 
-## Scott Coffin in the Media
-The following is a **non-exhaustive** list of recent media highlighting my work. This includes recorded presentations from workshops as well as interviews and articles. If you'd like to find PDFs of my presentations, most can be found for free on [ResearchGate](https://www.researchgate.net/profile/Scott-Coffin-2/research).
-
-### 2025
-
-* [Spectrum News: Long Beach-based lab to help kick start California's testing of microplastics in drinking water](https://spectrumnews1.com/ca/southern-california/environment/2025/02/27/microplastics--drinking-water--california)
-
-### 2024
-
-* [California Lake Management Society Webinar - Risk Management Strategies for Microplastics in Aquatic Environments](https://www.youtube.com/embed/bSS6FBmqtU8?si=X6a3W5_UW0HWZb0h&amp;start=615)
-<iframe width="360" height="200" src="https://www.youtube.com/embed/bSS6FBmqtU8?si=X6a3W5_UW0HWZb0h&amp;start=615" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-* [National Academies of Sciences, Engineering, and Medicine. Environmental Health Matters Initiative: Introduction to Microplastics and Health Implications: Where are we and where are we going? - Webinar #1](https://www.nationalacademies.org/event/43578_08-2024_environmental-health-matters-initiative-introduction-to-microplastics-and-health-implications-where-are-we-and-where-are-we-going-webinar-1)
-
-* [Civil Eats: "Tracking Tire Plastics—and Chemicals—From Road to Plate"](https://civileats.com/2024/07/16/tracking-tire-plastics-and-chemicals-from-road-to-plate/)
-
-### 2023
-
-* [Polygon: "Global weirding is coming for vampires"](https://www.polygon.com/23945600/global-weirding-vampires)
-
-* [Photonics Media: "Spectroscopy Rides a Rising Tide of Water-Monitoring Applications"](https://www.photonics.com/Articles/Spectroscopy_Rides_a_Rising_Tide_of/a69320#:~:text=Photonics%20Dictionary%20Newsletters-,Spectroscopy%20Rides%20a%20Rising%20Tide%20of%20Water%2DMonitoring%20Applications,as%20other%20photonic%20monitoring%20tools.)
-
-* [The USF Data Science Podcast: "Microplastics in Focus: Navigating Data Science in Government with Scott Coffin"](https://www.audacy.com/podcast/the-usf-data-science-podcast-84533/episodes/microplastics-in-focus-navigating-data-science-in-government-with-scott-coffin-58ed1)
-![](/assets/images/USF.jpg)
-
-* [Dockside Podcast: Episode 13 - Microplastics](https://www.podbean.com/media/share/pb-sdiav-1470ac4?utm_campaign=w_share_ep&utm_medium=dlink&utm_source=w_share)
-
-* [NBC LX News: Starting in Fall 2023, California's largest water providers will test drinking water for microplastics, ensuring our water supply's safety. California will be the first state in the world to mandate testing for microplastics in drinking water. LX News Contributor Greg Bledsoe tells us more](https://fb.watch/kLtpLeUUEu/)
-
-* [UNDO: The tobacco industry is a top global plastic polluter](https://www.undo.org/environmental-impact/tobacco-industry-plastic-pollution)
-
-* [KALW: Crosscurrents - Peak to Tap by Joshua Sirotiak](https://www.kalw.org/podcast/crosscurrents/2023-05-08/peak-to-tap-columbia-river-gorgeous-black-mermaids)
-<audio controls><source src="https://cpa.ds.npr.org/s2/audio/2023/05/web-show-050823.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio>
-
-* [San Francisco Chronicle: "Scientists found microplastics in Sierra snowpacks. Should we worry about Bay Area drinking water?"](https://www.sfchronicle.com/california/article/sierra-snow-microplastics-drinking-water-17840942.php?utm_campaign=CMS%20Sharing%20Tools%20(Premium)&utm_source=t.co&utm_medium=referral)
-
-* [Environmental Law Explored: A Podcast SEERies: "Environmental Laws and Regulations for Emerging Microplastics Concerns Series: Episode 5 - Health Risks and Current Human Health Ecotoxicology"](https://abaseer.libsyn.com/website/environmental-laws-and-regulations-for-emerging-microplastics-concerns-series-episode-5-health-risks-and-current-human-health-ecotoxicology)
-
-<iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/25600095/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/0787b0/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-* [Water Education Foundation: "Testing at the Source; California Readies a Groundbreaking Hunt to Check for Microplastics in Drinking Water"](https://www.watereducation.org/western-water/testing-source-california-readies-groundbreaking-hunt-check-microplastics-drinking)
-
-* The Straits Times: "Hope in the time of microplastics" [web article (paywall)](https://www.straitstimes.com/world/united-states/hope-in-the-time-of-microplastics); [print article(full text)](/assets/publications/Straits2023.jpg)
-
-* [Wired: Microplastics Are Polluting the Ocean at a Shocking Rate](https://www.wired.com/story/microplastics-are-polluting-the-ocean-at-a-shocking-rate/)
-
-* [Talking PFAS Podcast: Episode 41 Scott Coffin California - Clean-Up Conference 2022 Adelaide](https://omny.fm/shows/talkingpfas/episode-41-scott-coffin-california-clean-up-confer?in_playlist=podcast)
-
-### 2022
-
-* [Finding Genius Podcast: First Government in the World to Mandate Regulations for Microplastics in Drinking Water: Ecotoxicologist Scott Coffin Explains](https://www.findinggeniuspodcast.com/podcasts/first-government-in-the-world-to-mandate-regulations-for-microplastics-in-drinking-water-ecotoxicologist-scott-coffin-explains/?preview=true)
-
-<iframe src="https://castbox.fm/app/castbox/player/id2652354/id553789844?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
-
-* [EcoJustice Radio: "Microplastics Are Everywhere: What’s The Risk?"](https://soundcloud.com/socal350/microplastics-are-everywhere-whats-the-risk)
-
-* [Dr. Scott Coffin's Interview with ABC radio: The World Today September 12, 2022)](https://soundcloud.com/scott-coffin/dr-scott-coffins-interview-with-abc-radio-the-world-today-september-12-2022?si=ae2f78304d0e45898a6ec1f2bf257cae&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-
-* [Macro to Microplastics in Narragansett Bay. Keynote presentation: “Managing Micro- and Macro-Plastics: Lessons Learned from California State Agencies](https://www.youtube.com/watch?v=xJU3NiRK_FM&t=4270s)
-<iframe width="360" height="200" src="https://www.youtube.com/embed/xJU3NiRK_FM?start=4270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-* [Spectrum News: Labs prepare for first-of-its-kind water directive](https://spectrumnews1.com/ca/la-west/health/2022/09/15/labs-prepare-for-first-of-its-kind-water-directive)
-
-* [Nautilus: You Eat a Credit Card’s Worth of Plastic Every Week: What is our hidden consumption of microplastics doing to our health?](https://nautil.us/you-eat-a-credits-card-worth-of-plastic-every-week-238481/?_sp=7c9821b1-3b8d-42a8-a0f8-5a877c434cf8.1670361835654)
-
-* [CalMatters: California approves microplastics testing of drinking water sources](https://calmatters.org/environment/2022/09/california-microplastics-testing-drinking-water-sources/)
-
-* [San Francisco Chronicle: California becomes first state to test drinking water for microplastics](https://www.sfchronicle.com/bayarea/article/California-microplastic-test-17423549.php)
-
-* [Scientific American: Replacing Lead Water Pipes with Plastic Could Raise New Safety Issues](https://www.scientificamerican.com/article/replacing-lead-water-pipes-with-plastic-could-raise-new-safety-issues/?utm_medium=email&utm_source=govdelivery)
-
-* [Sierra Nevada Aquatic Research Lab Spring Seminar Series 2022: "Microplastics - a Macro Problem?"](https://www.youtube.com/watch?v=AzQX-ddkrGk)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AzQX-ddkrGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-* [National Geographic: Microplastics are in our bodies. How much do they harm us?](https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us)
-
-* [KCRA: Forecasting Our Future: Our world is full of microplastics. California is leading efforts to change that](https://www.kcra.com/article/our-world-is-full-of-microplastics-california-is-leading-efforts-to-change-that/39799569)
-
-* [California Ocean Day 2022. Microplastics: Califorrnia's BIG little plastic problem with CSU COAST, Senator Ben Allen, Dr. Scott Coffin, and Dr. Eunah Hoh](https://www.calstate.edu/impact-of-the-csu/research/coast/about/Pages/Briefings-Panels.aspx)
-
-<iframe width="280" height="158" src="https://www.youtube.com/embed/m-_mCRA2sO4?start=280" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* [Environmental Law Institute: "The Debate: Can We Make Plastic Sustainable?"](https://www.eli.org/sites/default/files/files-pdf/tef-march-april-2022-debate.pdf)
-
-* [Environmental Health News: Scientists: US needs to support a strong global agreement tocurb plastic pollution](https://www.ehn.org/us-plastics-2656802114.html)
-
-* [KQED: 'You Can't Recycle Your Way Out': California's Plastic Problem and What We Can Do About It](https://www.kqed.org/news/11901288/you-cant-recycle-your-way-out-californias-plastic-problem-and-what-to-do-about-it)
-
-
-### 2021
-
-* [KQED Newsroom Special: California’s Plastic Problem](https://www.youtube.com/watch?v=-bTCCB6wbks&feature=emb_imp_woyt)
-<iframe width="280" height="158" src="https://www.youtube.com/embed/-bTCCB6wbks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* [WaterWorld.com: World’s first standardized testing for microplastics in drinking water](https://www.waterworld.com/drinking-water/potable-water-quality/press-release/14215238/worlds-first-standardized-testing-for-microplastics-in-drinking-water)
-
-* [Spectrum News 1: As need to test water for microplastics increases, California finds a way](https://spectrumnews1.com/ca/la-east/environment/2021/10/26/our-water-will-need-to-be-tested-for-microplastics--california-finds-a-way#)
-
-* [Key Ingredients to Effective Science Communication: Focus on Microplastics Science and Policy](https://www.youtube.com/watch?v=tPtPzL4PQvk)
-
-<iframe width="280" height="158" src="https://www.youtube.com/embed/tPtPzL4PQvk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* [North Carolina Coastal Microplastics Forum](https://www.youtube.com/watch?v=75OEJnqfaEw)
-
-* [Report of RNRF Round Table: Meeting the Challenge of Microplastic Management to Protect Human Health and the Environment](https://rnrf.org/news/)
-
-* [Los Angeles Times Opinion: Microplastics are getting into our bodies. We need to understand what that means](https://www.latimes.com/opinion/story/2021-07-13/opinion-microplastics-are-getting-into-our-bodies-we-need-to-understand-what-that-means)
-
-* [National Academies of Sciences, Engineering, and Medicine Food Forum: Microplastics from Food and Water: State of the Science and Potential Impacts on Human Health](https://www.youtube.com/watch?v=S56nsUvTR2I&list=PLGTMA6Qkejfj4AzYBMq1cFtlkLvXbFexi&index=4)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S56nsUvTR2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* [CalMatters: Premature or precautionary? California is first to tackle microplastics in drinking water](https://calmatters.org/environment/2021/03/california-microplastics-drinking-water/)
-
-* [Medium.com: What you Don’t Know Can Hurt You: Taking the Precautionary Approach to Microplastics and Nanoplastics](https://medium.com/living-in-the-plastocene/what-you-dont-know-can-hurt-you-taking-the-precautionary-approach-to-microplastics-and-cf8242d25dab)
-
-* [Small Particles, Big Problems? Scientists Grapple with Many Unknowns about Microplastics and Their Impact on the Chesapeake Bay](https://www.chesapeakequarterly.net/V19N2/main1/)
-
-* [The Jefferson Exchange: California Moves To Monitor Microplastics In Drinking Water](https://www.ijpr.org/show/the-jefferson-exchange/2021-01-20/thu-8-30-california-moves-to-monitor-microplastics-in-drinking-water)
-
-* [The Zero Waste Countdown Podcast: Endocrin Disruptors and Plastics](https://zerowastecountdown.podbean.com/e/114-estrogen-epigenetics-and-plastic/)
-
-* [SCCWRP 2021 Winter Newsletter Spotlight](https://ftp.sccwrp.org/pub/download/DOCUMENTS/DirectorsReports/2102DirRep.pdf)
-
-### 2020
-
-* [LAMPOON Magazing: Every time you open a water bottle, you release thousand of microplastics](https://www.lampoonmagazine.com/article/2022/03/12/microplastics-scott-coffin/)
-
-* [SCCWRP Microplastics Health Effects Meeting Day One](https://vimeo.com/469902307)
-
-* [Leading Britian's Conversation Radio Interview](https://soundcloud.com/scott-coffin/lbc-radio-interview-w-tom)
-
-* [Inland Ocean Coalition (Wyoming Chapter)- Microplastics Hit Home: Human Exposure, Health Effects and Inland Impacts](https://www.youtube.com/watch?v=oxM1GOf3zmI)
-
-<iframe width="280" height="158" src="https://www.youtube.com/embed/oxM1GOf3zmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* [Washington Core: Burgeoning microplastics pollution prompts regulatory action to protect drinking water in California](https://www.wcore.com/burgeoning-microplastics-pollution-prompts-regulatory-action-to-protect-drinking-water-in-california/)
-
-* [Wyoming Tribune Eagle: Cheyenne Native Helping Lead Study of Microplastics in Drinking Water](https://media-exp1.licdn.com/dms/document/C562DAQFgdUKJWEqHfQ/profile-treasury-document-pdf-analyzed/0/1598464836947?e=1622073600&v=beta&t=Vyh9L9YT0Jhm2fm47Yj1ataR85J9wa_2n5WQ31NbOTs)
-
-* [State Water Board adoption Meeting of Microplastics in Drinking Water Definition](https://www.youtube.com/watch?v=WeSwUinbnks)
-
-* [Beyond Plastics- Tiny Pieces, Big Problem: Microplastics in Our, Water & Bodies](https://www.youtube.com/watch?v=-KzT--lJDns)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-KzT--lJDns?start=1754" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* [A story about Microplastics (Trash Datathon 2020)](https://www.youtube.com/watch?v=7oxy8KrAv2A)
-
-* [Plasticast Episode3 - Dr. Scott Coffin](https://www.youtube.com/watch?v=MTbqrfewuKY)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTbqrfewuKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### 2019
-
-* [Getting to Know H2O - the Water Cycle](https://www.youtube.com/watch?v=Eu6Jhit4TAA)
-
-<iframe width="280" height="158" src="https://www.youtube.com/embed/Eu6Jhit4TAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*BONUS* This film is designed for students from elementary school to college, and comes with a [study guide](https://gluckprogram.ucr.edu/glucktv-steam-channel) designed by Gluck Fellows Program of the Arts at UC Riverside. Please share with educators. 
-This film won the People' Choice Award at the 2019 American Chemical Society Environmental Film Competition in San Diego, California.
-
-* [Toxicology Panel - Microplastics Conference at Rutgers University 2019](https://www.youtube.com/watch?v=WEyNJs5ViMM&list=PLXBdkowE6UzYQ2Ojv0WlOSJ0pNjBhXewT&index=6)
-
-
-### Graph
-
-The following stacked barplot is a summary of the talks I have given since I started counting in 2014. Total = 175 as of May 25, 2022.
-
-<!--![Speaking Engagements](assets/engagements.jpeg){:height=700px" width="700px"}-->
-
-<iframe src="/assets/widgets/engagements.html" height="600px" width="100%" style="border:none;"></iframe>
-
-
-### Data Table
-
-Above is not a comprehensive list, but below is:
-
-<iframe src="/assets/widgets/datatable.html" height="600px" width="100%" style="border:none;"></iframe>
+I speak with journalists, students, community groups, researchers, and policymakers about microplastics, PFAS, environmental health, plastic pollution, and regulatory science. PDFs of most presentations are available on [ResearchGate](https://www.researchgate.net/profile/Scott-Coffin-2/research).
+
+<div class="ds-stats">
+  <div class="ds-stat"><div class="ds-num" data-target="270">0</div><div class="ds-label">Presentations</div></div>
+  <div class="ds-stat"><div class="ds-num" data-target="16">0</div><div class="ds-label">Keynotes</div></div>
+  <div class="ds-stat"><div class="ds-num" data-target="50">0</div><div class="ds-label">Media appearances</div></div>
+  <div class="ds-stat"><div class="ds-num" data-target="10">0</div><div class="ds-label">Years speaking</div></div>
+</div>
+
+---
+
+<div class="filter-bar">
+  <button class="filter-btn active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="talk">Talk</button>
+  <button class="filter-btn" data-filter="interview">Interview</button>
+  <button class="filter-btn" data-filter="podcast">Podcast</button>
+  <button class="filter-btn" data-filter="article">Article</button>
+  <button class="sort-btn" data-sort="desc">↓ Newest</button>
+</div>
+
+<div class="media-grid">
+
+  <div class="media-card" data-types="talk" data-year="2024" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/bSS6FBmqtU8?start=615" title="California Lake Management Society: Risk Management Strategies for Microplastics" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">CA Lake Management Society</div>
+      <div class="media-title">Risk Management Strategies for Microplastics in Aquatic Environments</div>
+      <div class="media-year">2024</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk" data-year="2024" style="--media-color:#0077b6;">
+    <div class="media-img-panel">
+      <a href="https://www.nationalacademies.org/event/43578_08-2024_environmental-health-matters-initiative-introduction-to-microplastics-and-health-implications-where-are-we-and-where-are-we-going-webinar-1" target="_blank" rel="noopener">
+        <img src="/assets/images/nasem_logo.jpg" alt="National Academies of Sciences logo">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">National Academies of Sciences</div>
+      <div class="media-title">Introduction to Microplastics and Health Implications — Where are we and where are we going? (Webinar #1)</div>
+      <div class="media-year">2024</div>
+      <div class="media-links">
+        <a href="https://www.nationalacademies.org/event/43578_08-2024_environmental-health-matters-initiative-introduction-to-microplastics-and-health-implications-where-are-we-and-where-are-we-going-webinar-1">Watch webinar</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk" data-year="2022" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/xJU3NiRK_FM?start=4270" title="Narragansett Bay keynote: Managing Micro- and Macro-Plastics — Lessons from California" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Narragansett Bay Symposium — Keynote</div>
+      <div class="media-title">Managing Micro- and Macro-Plastics: Lessons Learned from California State Agencies</div>
+      <div class="media-year">2022</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk" data-year="2022" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/AzQX-ddkrGk" title="Sierra Nevada Aquatic Research Lab Seminar 2022: Microplastics — a Macro Problem?" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Sierra Nevada Aquatic Research Lab</div>
+      <div class="media-title">Microplastics — a Macro Problem? Spring Seminar Series</div>
+      <div class="media-year">2022</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk" data-year="2022" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/m-_mCRA2sO4?start=280" title="California Ocean Day 2022: Microplastics — California's BIG little plastic problem" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">California Ocean Day 2022</div>
+      <div class="media-title">Microplastics: California's BIG little plastic problem</div>
+      <div class="media-year">2022</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk" data-year="2021" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/S56nsUvTR2I" title="National Academies Food Forum: Microplastics from Food and Water — State of the Science" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">National Academies Food Forum</div>
+      <div class="media-title">Microplastics from Food and Water: State of the Science and Potential Impacts on Human Health</div>
+      <div class="media-year">2021</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk interview" data-year="2021" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/-bTCCB6wbks" title="KQED Newsroom Special: California's Plastic Problem (2021)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">KQED Newsroom Special</div>
+      <div class="media-title">California's Plastic Problem</div>
+      <div class="media-year">2021</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk" data-year="2021" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/tPtPzL4PQvk" title="Key Ingredients to Effective Science Communication: Microplastics Science and Policy (2021)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Science Communication Workshop</div>
+      <div class="media-title">Key Ingredients to Effective Science Communication: Focus on Microplastics Science and Policy</div>
+      <div class="media-year">2021</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk" data-year="2020" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/oxM1GOf3zmI" title="Inland Ocean Coalition: Microplastics Hit Home — Human Exposure, Health Effects and Inland Impacts (2020)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Inland Ocean Coalition</div>
+      <div class="media-title">Microplastics Hit Home: Human Exposure, Health Effects and Inland Impacts</div>
+      <div class="media-year">2020</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk" data-year="2020" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/-KzT--lJDns?start=1754" title="Beyond Plastics: Tiny Pieces, Big Problem — Microplastics in Our Water and Bodies (2020)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Beyond Plastics</div>
+      <div class="media-title">Tiny Pieces, Big Problem: Microplastics in Our Water &amp; Bodies</div>
+      <div class="media-year">2020</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk podcast" data-year="2020" style="--media-color:#6a4c93;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/MTbqrfewuKY" title="Plasticast Episode 3: Dr. Scott Coffin on microplastics research (2020)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Plasticast Podcast</div>
+      <div class="media-title">Episode 3 — Dr. Scott Coffin on microplastics research and California regulation</div>
+      <div class="media-year">2020</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="talk" data-year="2019" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://www.youtube.com/embed/Eu6Jhit4TAA" title="Getting to Know H2O — the Water Cycle (ACS People's Choice Award, 2019)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">ACS Environmental Film Competition — People's Choice</div>
+      <div class="media-title">Getting to Know H2O — the Water Cycle</div>
+      <div class="media-year">2019</div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="interview" data-year="2022" style="--media-color:#e63946;">
+    <div class="media-img-panel">
+      <a href="https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us" target="_blank" rel="noopener">
+        <img src="/assets/images/natgeo_logo2.png" alt="National Geographic logo">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">National Geographic</div>
+      <div class="media-title">Microplastics are in our bodies. How much do they harm us?</div>
+      <div class="media-year">2022</div>
+      <div class="media-links">
+        <a href="https://www.nationalgeographic.com/environment/article/microplastics-are-in-our-bodies-how-much-do-they-harm-us">Read article</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="interview" data-year="2021" style="--media-color:#e63946;">
+    <div class="media-img-panel">
+      <a href="https://www.latimes.com/opinion/story/2021-07-13/opinion-microplastics-are-getting-into-our-bodies-we-need-to-understand-what-that-means" target="_blank" rel="noopener">
+        <img src="/assets/images/latimes_logo.jpg" alt="Los Angeles Times logo">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Los Angeles Times — Opinion</div>
+      <div class="media-title">Microplastics are getting into our bodies. We need to understand what that means</div>
+      <div class="media-year">2021</div>
+      <div class="media-links">
+        <a href="https://www.latimes.com/opinion/story/2021-07-13/opinion-microplastics-are-getting-into-our-bodies-we-need-to-understand-what-that-means">Read article</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="interview" data-year="2023" style="--media-color:#e63946;">
+    <div class="media-img-panel">
+      <a href="https://www.wired.com/story/microplastics-are-polluting-the-ocean-at-a-shocking-rate/" target="_blank" rel="noopener">
+        <img src="/assets/images/wired_logo.png" alt="Wired logo">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Wired</div>
+      <div class="media-title">Microplastics Are Polluting the Ocean at a Shocking Rate</div>
+      <div class="media-year">2023</div>
+      <div class="media-links">
+        <a href="https://www.wired.com/story/microplastics-are-polluting-the-ocean-at-a-shocking-rate/">Read article</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="article" data-year="2022" style="--media-color:#2a9d8f;">
+    <div class="media-icon-panel">
+      <i class="fas fa-newspaper"></i>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">San Francisco Chronicle</div>
+      <div class="media-title">California becomes first state to test drinking water for microplastics</div>
+      <div class="media-year">2022</div>
+      <div class="media-links">
+        <a href="https://www.sfchronicle.com/bayarea/article/California-microplastic-test-17423549.php">Read article</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="article" data-year="2022" style="--media-color:#2a9d8f;">
+    <div class="media-img-panel">
+      <a href="https://calmatters.org/environment/2022/09/california-microplastics-testing-drinking-water-sources/" target="_blank" rel="noopener">
+        <img src="/assets/images/calmatters_logo.jpg" alt="CalMatters logo">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">CalMatters</div>
+      <div class="media-title">California approves microplastics testing of drinking water sources</div>
+      <div class="media-year">2022</div>
+      <div class="media-links">
+        <a href="https://calmatters.org/environment/2022/09/california-microplastics-testing-drinking-water-sources/">2022</a>
+        <a href="https://calmatters.org/environment/2021/03/california-microplastics-drinking-water/">2021</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="article" data-year="2024" style="--media-color:#2a9d8f;">
+    <div class="media-img-panel">
+      <a href="https://civileats.com/2024/07/16/tracking-tire-plastics-and-chemicals-from-road-to-plate/" target="_blank" rel="noopener">
+        <img src="/assets/images/civileats_article.jpg" alt="Civil Eats — Tracking Tire Plastics from Road to Plate">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Civil Eats</div>
+      <div class="media-title">Tracking Tire Plastics — and Chemicals — From Road to Plate</div>
+      <div class="media-year">2024</div>
+      <div class="media-links">
+        <a href="https://civileats.com/2024/07/16/tracking-tire-plastics-and-chemicals-from-road-to-plate/">Read article</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="podcast" data-year="2023" style="--media-color:#6a4c93;">
+    <div class="media-img-panel">
+      <a href="https://www.audacy.com/podcast/the-usf-data-science-podcast-84533/episodes/microplastics-in-focus-navigating-data-science-in-government-with-scott-coffin-58ed1" target="_blank" rel="noopener">
+        <img src="/assets/images/USF.jpg" alt="USF Data Science Podcast logo">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">USF Data Science Podcast</div>
+      <div class="media-title">Microplastics in Focus: Navigating Data Science in Government with Scott Coffin</div>
+      <div class="media-year">2023</div>
+      <div class="media-links">
+        <a href="https://www.audacy.com/podcast/the-usf-data-science-podcast-84533/episodes/microplastics-in-focus-navigating-data-science-in-government-with-scott-coffin-58ed1">Listen</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="podcast" data-year="2023" style="--media-color:#6a4c93;">
+    <div class="media-img-panel">
+      <a href="https://abaseer.libsyn.com/website/environmental-laws-and-regulations-for-emerging-microplastics-concerns-series-episode-5-health-risks-and-current-human-health-ecotoxicology" target="_blank" rel="noopener">
+        <img src="/assets/images/aba_seer_logo.jpg" alt="Environmental Law Explored podcast artwork">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Environmental Law Explored (ABA SEER)</div>
+      <div class="media-title">Microplastics Law & Regulation Series, Episode 5 — Health Risks and Human Health Ecotoxicology</div>
+      <div class="media-year">2023</div>
+      <div class="media-links">
+        <a href="https://abaseer.libsyn.com/website/environmental-laws-and-regulations-for-emerging-microplastics-concerns-series-episode-5-health-risks-and-current-human-health-ecotoxicology">Listen</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="podcast" data-year="2022" style="--media-color:#6a4c93;">
+    <div class="media-img-panel">
+      <a href="https://www.findinggeniuspodcast.com/podcasts/first-government-in-the-world-to-mandate-regulations-for-microplastics-in-drinking-water-ecotoxicologist-scott-coffin-explains/" target="_blank" rel="noopener">
+        <img src="/assets/images/findinggenius_logo.jpg" alt="Finding Genius Podcast artwork">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Finding Genius Podcast</div>
+      <div class="media-title">First Government in the World to Mandate Regulations for Microplastics in Drinking Water</div>
+      <div class="media-year">2022</div>
+      <div class="media-links">
+        <a href="https://www.findinggeniuspodcast.com/podcasts/first-government-in-the-world-to-mandate-regulations-for-microplastics-in-drinking-water-ecotoxicologist-scott-coffin-explains/">Listen</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="podcast" data-year="2023" style="--media-color:#6a4c93;">
+    <div class="media-img-panel">
+      <a href="https://omny.fm/shows/talkingpfas/episode-41-scott-coffin-california-clean-up-confer" target="_blank" rel="noopener">
+        <img src="/assets/images/talkingpfas_logo.jpg" alt="Talking PFAS Podcast artwork">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Talking PFAS Podcast</div>
+      <div class="media-title">Episode 41 — Scott Coffin, California (Clean-Up Conference 2022, Adelaide)</div>
+      <div class="media-year">2023</div>
+      <div class="media-links">
+        <a href="https://omny.fm/shows/talkingpfas/episode-41-scott-coffin-california-clean-up-confer">Listen</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="interview" data-year="2022" style="--media-color:#e63946;">
+    <div class="media-img-panel">
+      <a href="https://www.kcra.com/article/our-world-is-full-of-microplastics-california-is-leading-efforts-to-change-that/39799569" target="_blank" rel="noopener">
+        <img src="/assets/images/kcra_microplastics.jpg" alt="KCRA news story on microplastics in California">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">KCRA Sacramento</div>
+      <div class="media-title">Our world is full of microplastics. California leads efforts to change that</div>
+      <div class="media-year">2022</div>
+      <div class="media-links">
+        <a href="https://www.kcra.com/article/our-world-is-full-of-microplastics-california-is-leading-efforts-to-change-that/39799569">Read article</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="podcast" data-year="2022" style="--media-color:#6a4c93;">
+    <div class="media-img-panel">
+      <a href="https://soundcloud.com/socal350/microplastics-are-everywhere-whats-the-risk" target="_blank" rel="noopener">
+        <img src="/assets/images/socal350_sc.jpg" alt="SoCal 350 SoundCloud artwork">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">SoCal 350</div>
+      <div class="media-title">Microplastics Are Everywhere: What's The Risk?</div>
+      <div class="media-year">2022</div>
+      <div class="media-links">
+        <a href="https://soundcloud.com/socal350/microplastics-are-everywhere-whats-the-risk">Listen</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="article" data-year="2023" style="--media-color:#2a9d8f;">
+    <div class="media-img-panel">
+      <a href="https://www.polygon.com/23945600/global-weirding-vampires/" target="_blank" rel="noopener">
+        <img src="/assets/images/polygon_article.jpg" alt="Polygon — Global weirding is coming for the bloodsuckers">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Polygon</div>
+      <div class="media-title">Global weirding is coming for the bloodsuckers</div>
+      <div class="media-year">2023</div>
+      <div class="media-links">
+        <a href="https://www.polygon.com/23945600/global-weirding-vampires/">Read article</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="podcast" data-year="2023" style="--media-color:#6a4c93;">
+    <div class="media-img-panel">
+      <a href="https://www.kalw.org/podcast/crosscurrents/2023-05-08/peak-to-tap-columbia-river-gorgeous-black-mermaids" target="_blank" rel="noopener">
+        <img src="/assets/images/kalw_crosscurrents.jpg" alt="KALW Crosscurrents podcast">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">KALW Crosscurrents (SF Public Radio)</div>
+      <div class="media-title">Peak To Tap / Columbia River Gorgeous / Black Mermaids</div>
+      <div class="media-year">2023</div>
+      <div class="media-links">
+        <a href="https://www.kalw.org/podcast/crosscurrents/2023-05-08/peak-to-tap-columbia-river-gorgeous-black-mermaids">Listen</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="article" data-year="2023" style="--media-color:#2a9d8f;">
+    <div class="media-img-panel">
+      <a href="https://www.ehn.org/us-plastics" target="_blank" rel="noopener">
+        <img src="/assets/images/ehn_plastics.jpg" alt="Environmental Health News article on plastics">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Environmental Health News</div>
+      <div class="media-title">Plastic pollution requires strong global agreement: Scientists</div>
+      <div class="media-year">2023</div>
+      <div class="media-links">
+        <a href="https://www.ehn.org/us-plastics">Read article</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="podcast" data-year="2023" style="--media-color:#6a4c93;">
+    <div class="media-img-panel">
+      <a href="https://www.podbean.com/media/share/pb-sdiav-1470ac4" target="_blank" rel="noopener">
+        <img src="/assets/images/dockside_podcast.jpg" alt="Sitting Dockside Podcast artwork">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Sitting Dockside Podcast</div>
+      <div class="media-title">Ep 13 — Microplastics</div>
+      <div class="media-year">2023</div>
+      <div class="media-links">
+        <a href="https://www.podbean.com/media/share/pb-sdiav-1470ac4">Listen</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="article" data-year="2021" style="--media-color:#2a9d8f;">
+    <div class="media-icon-panel">
+      <i class="fas fa-microscope"></i>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Photonics.com</div>
+      <div class="media-title">Spectroscopy Rides a Rising Tide of Plastic Pollution</div>
+      <div class="media-year">2021</div>
+      <div class="media-links">
+        <a href="https://www.photonics.com/Articles/Spectroscopy_Rides_a_Rising_Tide_of/a69320">Read article</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="media-card" data-types="article" data-year="2020" style="--media-color:#2a9d8f;">
+    <div class="media-img-panel">
+      <a href="https://www.wyomingnews.com/news/local_news/cheyenne-native-helping-lead-research-on-microplastics-in-drinking-water/article_2af231bb-c1fb-5a46-b664-391544ad3957.html" target="_blank" rel="noopener">
+        <img src="/assets/images/wyomingnews_article.png" alt="Wyoming Tribune Eagle — microplastics research">
+      </a>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Wyoming Tribune Eagle</div>
+      <div class="media-title">Cheyenne native helping lead research on microplastics in drinking water</div>
+      <div class="media-year">2020</div>
+      <div class="media-links">
+        <a href="https://www.wyomingnews.com/news/local_news/cheyenne-native-helping-lead-research-on-microplastics-in-drinking-water/article_2af231bb-c1fb-5a46-b664-391544ad3957.html">Read article</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+---
+
+## Speaking engagement history
+
+<iframe src="/assets/widgets/engagements.html" height="500px" width="100%" style="border:none;" title="Stacked bar chart of speaking engagements by year since 2014"></iframe>
+
+---
+
+## Full archive
+
+Searchable and sortable table of all media appearances and speaking engagements.
+
+<iframe src="/assets/widgets/datatable.html" height="600px" width="100%" style="border:none;" title="Full searchable table of media appearances and speaking engagements"></iframe>
+
+<script>
+(function () {
+  function init() {
+    var filterBar = document.querySelector('.filter-bar');
+    var grid = document.querySelector('.media-grid');
+    var currentFilter = 'all';
+    var currentSort = 'desc';
+
+    function applyFilterAndSort() {
+      if (!grid) return;
+      var cards = Array.prototype.slice.call(grid.querySelectorAll('.media-card'));
+      cards.forEach(function (card) {
+        var types = card.getAttribute('data-types') || '';
+        card.style.display = (currentFilter === 'all' || types.indexOf(currentFilter) !== -1) ? '' : 'none';
+      });
+      var visible = cards.filter(function (c) { return c.style.display !== 'none'; });
+      visible.sort(function (a, b) {
+        var ya = parseInt(a.getAttribute('data-year'), 10) || 0;
+        var yb = parseInt(b.getAttribute('data-year'), 10) || 0;
+        return currentSort === 'desc' ? yb - ya : ya - yb;
+      });
+      visible.forEach(function (c) { grid.appendChild(c); });
+    }
+
+    if (filterBar) {
+      filterBar.addEventListener('click', function (e) {
+        var btn = e.target;
+        if (btn.classList.contains('filter-btn') && !btn.classList.contains('sort-btn')) {
+          currentFilter = btn.getAttribute('data-filter');
+          filterBar.querySelectorAll('.filter-btn').forEach(function (b) {
+            b.classList.toggle('active', b === btn);
+          });
+          applyFilterAndSort();
+        } else if (btn.classList.contains('sort-btn')) {
+          currentSort = currentSort === 'desc' ? 'asc' : 'desc';
+          btn.textContent = currentSort === 'desc' ? '↓ Newest' : '↑ Oldest';
+          applyFilterAndSort();
+        }
+      });
+    }
+
+    applyFilterAndSort();
+
+    /* Animated counters */
+    var counters = document.querySelectorAll('.ds-num[data-target]');
+    if (!counters.length) return;
+    if (!('IntersectionObserver' in window)) {
+      counters.forEach(function (el) { el.textContent = el.getAttribute('data-target'); });
+      return;
+    }
+    var animated = false;
+    var observer = new IntersectionObserver(function (entries) {
+      if (!entries[0].isIntersecting || animated) return;
+      animated = true;
+      observer.disconnect();
+      counters.forEach(function (el) {
+        var target = parseInt(el.getAttribute('data-target'), 10);
+        var start = null;
+        function step(ts) {
+          if (!start) start = ts;
+          var p = Math.min((ts - start) / 1200, 1);
+          el.textContent = Math.floor((1 - Math.pow(1 - p, 3)) * target);
+          if (p < 1) requestAnimationFrame(step);
+          else el.textContent = target;
+        }
+        requestAnimationFrame(step);
+      });
+    }, { threshold: 0.3 });
+    var statsEl = document.querySelector('.ds-stats');
+    if (statsEl) observer.observe(statsEl);
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>

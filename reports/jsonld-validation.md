@@ -1,6 +1,6 @@
 # JSON-LD Validation Report
-**Generated:** 2026-06-19T22:02:28.358Z
-**Total blocks:** 18  **Parse errors:** 0
+**Generated:** 2026-06-19T23:34:18.154Z
+**Total blocks:** 20  **Parse errors:** 0
 
 > **Limitation:** This validates JSON syntax only. It does not validate Schema.org types or Google rich-result eligibility. Use [Google Rich Results Test](https://search.google.com/test/rich-results) manually for deployed pages.
 
@@ -16,7 +16,7 @@
 - Block 1: ✅ Valid — `@type: Person`
 - Block 2: ✅ Valid — `@type: WebPage`
 
-## /Expertise/ ✅ PASS
+## /For_Journalists/ ✅ PASS
 - Block 1: ✅ Valid — `@type: Person`
 - Block 2: ✅ Valid — `@type: WebPage`
 
@@ -27,6 +27,10 @@
 - Block 4: ✅ Valid — `@type: ProfilePage`
 
 ## /Media/ ✅ PASS
+- Block 1: ✅ Valid — `@type: Person`
+- Block 2: ✅ Valid — `@type: WebPage`
+
+## /Microplastics_Explainer/ ✅ PASS
 - Block 1: ✅ Valid — `@type: Person`
 - Block 2: ✅ Valid — `@type: WebPage`
 

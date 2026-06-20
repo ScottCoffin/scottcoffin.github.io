@@ -12,6 +12,7 @@
     "lighthouse": "latest",
     "npm-run-all": "^1.7.0",
     "onchange": "^2.2.0",
+    "sharp": "^0.35.2",
     "uglify-js": "^2.6.1"
   },
   "scripts": {

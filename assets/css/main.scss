@@ -7,3 +7,571 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 @import "repositories";
+
+/* Card grid for homepage, tools, and audience pathways */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.card {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+
+  h3 {
+    margin-top: 0;
+    font-size: 1em;
+  }
+
+  p {
+    margin-bottom: 0.5rem;
+    font-size: 0.9em;
+  }
+
+  /* Darker link color for WCAG 4.5:1 contrast on white background */
+  a {
+    color: #005f8e;
+    &:hover { color: #004268; }
+  }
+}
+
+/* WCAG AA contrast overrides: body/nav links need 4.5:1 on white (#005f8e ≈ 5.0:1) */
+.page__content a:not(.btn),
+.page__content p a,
+.page__content li a {
+  color: #005f8e;
+  &:hover { color: #004268; }
+}
+
+.site-title,
+.masthead__menu-item a {
+  color: #005f8e;
+  &:hover { color: #004268; }
+}
+
+/* === Research page: theme navigation cards === */
+html {
+  scroll-behavior: smooth;
+}
+
+.theme-nav {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+
+  @media (max-width: 600px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.theme-card {
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+  background: #fff;
+  border: 1px solid #e6e6e6;
+  border-top: 4px solid var(--theme-color, #0077b6);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+  text-decoration: none;
+  display: block;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  color: inherit;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
+.theme-icon {
+  font-size: 1.6rem;
+  color: var(--theme-color, #0077b6);
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.theme-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 0.25rem;
+}
+
+.theme-desc {
+  font-size: 0.78rem;
+  color: #666;
+  margin: 0;
+  line-height: 1.4;
+}
+
+/* === Research page: paper cards === */
+.paper-card {
+  display: flex;
+  border: 1px solid #e6e6e6;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  margin-bottom: 1.25rem;
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+.pc-accent {
+  width: 5px;
+  flex-shrink: 0;
+  background: var(--theme-color, #0077b6);
+}
+
+.pc-body {
+  padding: 1.1rem 1.25rem;
+  flex: 1;
+  min-width: 0;
+}
+
+.pc-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.pc-logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  flex-shrink: 0;
+  border-radius: 4px;
+}
+
+.pc-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin: 0 0 0.2rem;
+}
+
+.pc-meta {
+  font-size: 0.8rem;
+  color: #666;
+  margin: 0;
+}
+
+.pc-why {
+  font-size: 0.875rem;
+  color: #444;
+  margin: 0.5rem 0;
+  border-left: 3px solid var(--theme-color, #0077b6);
+  padding-left: 0.75rem;
+}
+
+.pc-links {
+  font-size: 0.85rem;
+  margin-top: 0.5rem;
+
+  a {
+    margin-right: 0.75rem;
+    color: #005f8e;
+    &:hover { color: #004268; }
+  }
+}
+
+/* === Research page: publication sections === */
+.pub-section {
+  padding-top: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+/* === Data Science page: stats bar === */
+.ds-stats {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin: 1.5rem 0 2rem;
+  padding: 1.5rem 2rem;
+  background: linear-gradient(135deg, #1a3a4a 0%, #264653 100%);
+  border-radius: 0.75rem;
+}
+
+.ds-stat {
+  text-align: center;
+
+  .ds-num {
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    display: block;
+  }
+
+  .ds-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: rgba(255,255,255,0.7);
+    margin-top: 0.3rem;
+    display: block;
+  }
+}
+
+/* === Data Science page: filter bar === */
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.filter-btn {
+  padding: 0.4rem 1.1rem;
+  border: 2px solid #005f8e;
+  border-radius: 2rem;
+  background: transparent;
+  color: #005f8e;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: background 0.15s, color 0.15s;
+  font-family: inherit;
+
+  &.active,
+  &:hover {
+    background: #005f8e;
+    color: #fff;
+  }
+}
+
+/* === Data Science page: tool card grid === */
+.tool-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.tool-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.5rem;
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0,0,0,0.10);
+  }
+}
+
+.tool-color-bar {
+  height: 4px;
+  background: var(--tool-color, #0077b6);
+}
+
+.tool-body {
+  padding: 1.1rem 1.25rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.tool-title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+  color: #1a1a1a;
+}
+
+.tool-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 0.65rem;
+}
+
+.tbadge {
+  font-size: 0.68rem;
+  padding: 0.15rem 0.55rem;
+  border-radius: 2rem;
+  background: var(--tool-color, #0077b6);
+  color: #fff;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.tool-desc {
+  font-size: 0.875rem;
+  color: #555;
+  flex: 1;
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+}
+
+.tool-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  font-size: 0.8rem;
+
+  a {
+    color: #005f8e;
+    text-decoration: none;
+    &:hover {
+      color: #004268;
+      text-decoration: underline;
+    }
+    &::before {
+      content: '\2197\00a0';
+    }
+  }
+}
+
+.tool-image {
+  background: #f5f7f9;
+  border-bottom: 1px solid #e6e6e6;
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 110px;
+
+  img {
+    max-height: 90px;
+    max-width: 85%;
+    object-fit: contain;
+  }
+
+  &.tool-image--photo {
+    padding: 0;
+    min-height: 120px;
+    overflow: hidden;
+
+    img {
+      max-height: none;
+      max-width: none;
+      width: 100%;
+      height: 120px;
+      object-fit: cover;
+      object-position: center;
+    }
+  }
+}
+
+.tool-icon-panel {
+  background: #f5f7f9;
+  border-bottom: 1px solid #e6e6e6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 90px;
+
+  i {
+    font-size: 2.6rem;
+    color: var(--tool-color, #0077b6);
+    opacity: 0.75;
+  }
+}
+
+/* === Data Science: collapsible demo sections === */
+details.demo-details {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.5rem;
+  padding: 0.9rem 1.25rem;
+  margin-bottom: 0.75rem;
+  background: #fafafa;
+
+  summary {
+    cursor: pointer;
+    color: #005f8e;
+    font-size: 0.95rem;
+    user-select: none;
+
+    &:hover { color: #004268; }
+  }
+
+  &[open] summary {
+    margin-bottom: 0.5rem;
+  }
+}
+
+/* === Media page === */
+.media-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+.media-card {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.5rem;
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 14px rgba(0,0,0,0.10);
+  }
+}
+
+.media-color-bar {
+  height: 4px;
+  flex-shrink: 0;
+  background: var(--media-color, #0077b6);
+}
+
+.media-video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #111;
+  flex-shrink: 0;
+
+  iframe {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+}
+
+.media-icon-panel {
+  background: #f5f7f9;
+  border-bottom: 1px solid #e6e6e6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 16 / 9;
+  flex-shrink: 0;
+
+  i {
+    font-size: 4rem;
+    color: var(--media-color, #0077b6);
+    opacity: 0.7;
+  }
+}
+
+.media-img-panel {
+  border-bottom: 1px solid #e6e6e6;
+  overflow: hidden;
+  flex-shrink: 0;
+  background: #f5f7f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 16 / 9;
+
+  img {
+    max-height: 85%;
+    max-width: 90%;
+    object-fit: contain;
+  }
+
+  > a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.sort-btn {
+  margin-left: auto;
+  border-color: #aaa;
+  color: #555;
+  &:hover { background: #555 !important; color: #fff !important; border-color: #555 !important; }
+}
+
+.media-body {
+  padding: 0.9rem 1.1rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.media-outlet {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--media-color, #0077b6);
+  margin-bottom: 0.2rem;
+}
+
+.media-title {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #1a1a1a;
+  line-height: 1.4;
+  flex: 1;
+  margin-bottom: 0.4rem;
+}
+
+.media-year {
+  font-size: 0.72rem;
+  color: #999;
+  margin-bottom: 0.35rem;
+}
+
+.media-links {
+  font-size: 0.8rem;
+  margin-top: auto;
+  padding-top: 0.4rem;
+
+  a {
+    color: #005f8e;
+    margin-right: 0.6rem;
+    text-decoration: none;
+    &::before { content: '\2197\00a0'; }
+    &:hover { color: #004268; text-decoration: underline; }
+  }
+}
+
+/* === Career timeline === */
+.timeline {
+  border-left: 3px solid #e6e6e6;
+  margin: 1.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.timeline-item {
+  margin-bottom: 2rem;
+  position: relative;
+
+  &::before {
+    content: '';
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #0092ca;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 2px #0092ca;
+    position: absolute;
+    left: -2rem;
+    top: 0.35rem;
+  }
+
+  h3 {
+    margin-top: 0;
+    font-size: 1em;
+    font-weight: 600;
+  }
+
+  p {
+    font-size: 0.9em;
+    margin-bottom: 0;
+  }
+}

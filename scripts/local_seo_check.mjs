@@ -13,7 +13,8 @@ const PAGES_TO_CHECK = [
   '_site/Research/index.html',
   '_site/Data_Science/index.html',
   '_site/Media/index.html',
-  '_site/Expertise/index.html'
+  '_site/For_Journalists/index.html',
+  '_site/Microplastics_Explainer/index.html'
 ];
 
 const OPTIONAL_PAGES = [

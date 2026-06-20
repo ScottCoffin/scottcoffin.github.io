@@ -1,16 +1,12 @@
 # main links
 main:
   - title: "About Me"
-    url: /About_Me
+    url: /About_Me/
   - title: "Research"
-    url: /Research
-  - title: "Expertise"
-    url: /Expertise/
-  - title: "Data Science"
-    url: /Data_Science
-  # - title: "Repositories"
-  #   url: /Repositories/
+    url: /Research/
+  - title: "Tools & Open Science"
+    url: /Data_Science/
   - title: "Media"
-    url: /Media
+    url: /Media/
   - title: "CV"
     url: /CV.pdf

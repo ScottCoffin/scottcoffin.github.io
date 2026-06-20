@@ -1,11 +1,9 @@
 # Local SEO Check Report
-**Generated:** 2026-06-19T22:02:16.412Z
-**Summary:** 0 errors, 2 warnings
+**Generated:** 2026-06-19T23:32:03.995Z
+**Summary:** 0 errors, 0 warnings
 
-## / ⚠️ WARN
-**Warnings:**
-- 1 of 1 images missing width/height (CLS risk)
-- Title: "Scott Coffin, PhD Environmental Toxicologist &amp; Microplastics Risk Scientist | Scott Coffin, PhD"
+## / ✅ PASS
+- Title: "Scott Coffin, PhD — Environmental Toxicologist | Scott Coffin, PhD"
 - Description: "Scott Coffin, PhD is an environmental toxicologist specializing in microplastics..."
 - Canonical: https://scottcoff.in/
 - H1: present (1)
@@ -17,23 +15,27 @@
 - H1: present (1)
 
 ## /Data_Science/ ✅ PASS
-- Title: "Data Science &amp; Open Tools Scott Coffin, PhD | Scott Coffin, PhD"
+- Title: "Tools &amp; Open Science Scott Coffin, PhD | Scott Coffin, PhD"
 - Description: "Open science and data tools by Scott Coffin, PhD, including Plastiverse, ToMEx, ..."
 - Canonical: https://scottcoff.in/Data_Science/
 - H1: present (1)
 
-## /Media/ ⚠️ WARN
-**Warnings:**
-- 1 of 1 images missing width/height (CLS risk)
+## /Media/ ✅ PASS
 - Title: "Media &amp; Talks Scott Coffin, PhD | Scott Coffin, PhD"
 - Description: "Media, interviews, webinars, and public talks featuring Scott Coffin, PhD on mic..."
 - Canonical: https://scottcoff.in/Media/
 - H1: present (1)
 
-## /Expertise/ ✅ PASS
-- Title: "Expertise Scott Coffin, PhD | Scott Coffin, PhD"
-- Description: "Expertise areas for Scott Coffin, PhD, including microplastics risk assessment, ..."
-- Canonical: https://scottcoff.in/Expertise/
+## /For_Journalists/ ✅ PASS
+- Title: "For Journalists &amp; Event Organizers | Scott Coffin, PhD"
+- Description: "Short bio, areas of expertise, selected media appearances, and contact informati..."
+- Canonical: https://scottcoff.in/For_Journalists/
+- H1: present (1)
+
+## /Microplastics_Explainer/ ✅ PASS
+- Title: "Microplastics: What We Know, What’s Uncertain, and What It Means | Scott Coffin, PhD"
+- Description: "A plain-language explainer on microplastics — what they are, where they come fro..."
+- Canonical: https://scottcoff.in/Microplastics_Explainer/
 - H1: present (1)
 
 ## /About_Me/ ✅ PASS
@@ -53,4 +55,4 @@
 
 ## sitemap.xml
 - ✅ sitemap.xml: uses correct domain
-- ✅ sitemap.xml: 25 URLs
+- ✅ sitemap.xml: 26 URLs

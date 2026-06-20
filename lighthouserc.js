@@ -7,7 +7,8 @@ module.exports = {
         'http://localhost:4000/Research/',
         'http://localhost:4000/Data_Science/',
         'http://localhost:4000/Media/',
-        'http://localhost:4000/Expertise/'
+        'http://localhost:4000/For_Journalists/',
+        'http://localhost:4000/Microplastics_Explainer/'
       ],
       numberOfRuns: 3,
       settings: {

@@ -19,7 +19,8 @@ const URLS = [
   'https://scottcoff.in/Research/',
   'https://scottcoff.in/Data_Science/',
   'https://scottcoff.in/Media/',
-  'https://scottcoff.in/Expertise/'
+  'https://scottcoff.in/For_Journalists/',
+  'https://scottcoff.in/Microplastics_Explainer/'
 ];
 
 const STRATEGIES = ['mobile', 'desktop'];

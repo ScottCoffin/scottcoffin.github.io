@@ -6,11 +6,87 @@ layout: splash
 author_profile: true
 header:
   overlay_image: /assets/images/scottrubidoux_crop.jpg
-  overlay_filter: 0.5 #opacity
+  overlay_filter: 0.5
 ---
 
-Dr. Scott Coffin is a Staff Toxicologist (Specialist) at the [Office of Environmental Health Hazard Assessment](https://oehha.ca.gov/) in the California Environmental Protection Agency, where he conducts research regarding the human health effects of microplastics in drinking and bottled water to implement [Senate Bill 1147](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1147).
+Dr. Scott Coffin is a Staff Toxicologist Specialist at the [Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/) in the California Environmental Protection Agency (CalEPA), where he conducts research on the human health effects of microplastics in drinking and bottled water to implement [Senate Bill 1147](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1147).
 
-Dr. Scott Coffin previously served (2019 - 2024) as a Research Scientist at the [California State Water Resources Control Board](https://agency.calepa.ca.gov/StaffDirectory/detail.asp?UID=69294&BDO=7&VW=DET), where he performed research and developed drinking water and aquatic ecosystem regulations for [microplastics](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html) and other contaminants. Scott completed his Ph.D. in Environmental Toxicology at the University of California, Riverside, and wrote his [dissertation on plastic as a vector for pollutants in estuarine and marine environments](https://www.proquest.com/dissertations-theses/plastic-as-vector-pollutants-estuarine-marine/docview/2188322076/se-2?accountid=201395). Scott's expertise are in [data science](https://github.com/ScottCoffin), analytical chemistry, ecotoxicology, and risk assessment.
+His expertise spans environmental toxicology, ecotoxicology, microplastics risk assessment, PFAS toxicokinetics, computational toxicology, New Approach Methodologies, analytical chemistry, data science, and regulatory science.
 
-Outside of work, Scott can typically be found rock climbing, surfing, mountain biking, dancing, playing music, or [DJing](https://www.mixcloud.com/scoffincheyenne/). Scott is a Wyoming native, but currently lives in West Sacramento, California [unceded Patwin Indian territory].
+Dr. Coffin previously served (2019–2024) as a Research Scientist at the [California State Water Resources Control Board](https://www.waterboards.ca.gov/), where he led scientific and policy work on [microplastics in drinking water](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/microplastics.html) — including the world's first regulatory definition of microplastics, the state's statewide monitoring plan, and a health-based risk framework for regulatory action.
+
+He completed his Ph.D. in Environmental Toxicology at the University of California, Riverside, where his [dissertation](https://escholarship.org/uc/item/2g3670bz) examined plastic as a vector for pollutants in estuarine and marine environments.
+
+---
+
+## Selected impact
+
+- Helped develop California's regulatory definition of microplastics in drinking water (world's first, SB 1422, 2020).
+- Helped develop California's statewide microplastics drinking water monitoring program (world's first, launched 2023).
+- Developed health-based and ecological risk frameworks for microplastics used by California's EPA.
+- Co-founded [Plastiverse](https://www.plastiverse.org/), a community hub for plastic pollution research.
+- Built and contributed to open data tools including [ToMEx 2.0](https://microplastics.sccwrp.org/) and [pSSD++](https://github.com/ScottCoffin/ToMEx2.0_EcoToxRisk/tree/main).
+- Communicated microplastics science through hundreds of public talks, media appearances, podcasts, and community events.
+
+---
+
+## Career timeline
+
+<div class="timeline">
+
+<div class="timeline-item">
+<h3>2009–2013 — Chemistry, Spanish, and interdisciplinary study</h3>
+<p>B.S. in Chemistry with a Spanish minor through the National Student Exchange program. Attended Grinnell College, University of Puerto Rico (Mayaguez), Hampshire College, University of Massachusetts (Amherst), and Mt. Holyoke College; graduated from the University of Wyoming. Conducted environmental science fieldwork.</p>
+</div>
+
+<div class="timeline-item">
+<h3>2014–2018 — PhD in Environmental Toxicology</h3>
+<p>Doctoral research at the University of California, Riverside on plastics as vectors for chemical pollutants in estuarine and marine environments. Developed expertise in ecotoxicology, analytical chemistry, bioanalytical screening tools, and fish toxicology.</p>
+</div>
+
+<div class="timeline-item">
+<h3>2019 — Emerging contaminants and PFAS data science</h3>
+<p>Joined the California State Water Resources Control Board. Early work focused on constituents of emerging concern, monitoring programs, and PFAS data science — including leading the state's first <a href="https://www.waterboards.ca.gov/pfas/pfas_datathon.html">PFAS Datathon</a>.</p>
+</div>
+
+<div class="timeline-item">
+<h3>2019–2024 — California microplastics drinking water science and policy</h3>
+<p>Lead scientist for California's implementation of SB 1422 — developing the world's first regulatory definition of microplastics in drinking water, the state's monitoring plan, and a health-based risk framework. Built open tools including ToMEx and contributed to regulatory science internationally.</p>
+</div>
+
+<div class="timeline-item">
+<h3>2024–2025 — Pharmacokinetics Research Scientist, OEHHA</h3>
+<p>Served in OEHHA's New Toxicology Evaluations Section, developing risk assessment methods using New Approach Methodologies, computational toxicology, and toxicokinetic modeling for unassessed chemicals of regulatory priority.</p>
+</div>
+
+<div class="timeline-item">
+<h3>2025–present — Staff Toxicologist Specialist, OEHHA Water Toxicology Section</h3>
+<p>Conducting original research on the human health effects of microplastics in drinking and bottled water to implement SB 1147.</p>
+</div>
+
+<div class="timeline-item">
+<h3>Ongoing — Open science and public communication</h3>
+<p>Co-founder of Plastiverse; editor for <em>Cambridge Prisms: Plastics</em>; board member of the Moore Institute for Plastic Pollution Research. Continuous science communication through talks, media, podcasts, and community events.</p>
+</div>
+
+</div>
+
+---
+
+## How I work
+
+- **Open science where possible.** I support public access to data, tools, methods, and interpretation whenever constraints allow.
+- **Regulatory relevance.** I focus on scientific work that can inform real-world environmental health decisions.
+- **Transparency about uncertainty.** Emerging contaminants require decisions even when evidence is incomplete; I try to make assumptions and limitations visible.
+- **Interdisciplinary collaboration.** My work connects toxicology, chemistry, exposure science, data science, policy, and public communication.
+- **Plain-language communication.** Technical science should be accessible to the people affected by environmental decisions.
+
+---
+
+## Beyond work
+
+Outside of science, Scott can typically be found rock climbing, surfing, mountain biking, dancing, playing music, or [DJing](https://www.mixcloud.com/scoffincheyenne/). He is a Wyoming native living in West Sacramento, California [unceded Patwin Indian territory].
+
+---
+
+*This is my personal professional website. Views expressed here are my own and do not necessarily represent the State of California, CalEPA, OEHHA, the State Water Resources Control Board, or any other institution with which I am affiliated.*
