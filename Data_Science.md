@@ -92,7 +92,7 @@ I build and support open tools, databases, and reproducible workflows for enviro
   <div class="tool-card" data-types="map">
     <div class="tool-color-bar" style="--tool-color:#457b9d;"></div>
     <div class="tool-image tool-image--photo">
-      <img src="/assets/images/sfbay_riskmap.png" alt="SF Bay microplastics risk map showing sample locations and risk levels">
+      <img src="/assets/images/sfbay_riskmap.jpg" alt="SF Bay microplastics risk map showing sample locations and risk levels">
     </div>
     <div class="tool-body">
       <div class="tool-title">Microplastics Risk Map — SF Bay</div>

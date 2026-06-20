@@ -1,6 +1,6 @@
 # Local SEO Check Report
-**Generated:** 2026-06-19T23:32:03.995Z
-**Summary:** 0 errors, 0 warnings
+**Generated:** 2026-06-20T19:55:18.318Z
+**Summary:** 1 errors, 3 warnings
 
 ## / ✅ PASS
 - Title: "Scott Coffin, PhD — Environmental Toxicologist | Scott Coffin, PhD"
@@ -8,29 +8,31 @@
 - Canonical: https://scottcoff.in/
 - H1: present (1)
 
-## /Research/ ✅ PASS
-- Title: "Research Scott Coffin, PhD | Scott Coffin, PhD"
+## /Research/ ⚠️ WARN
+**Warnings:**
+- 6 of 6 images missing width/height (CLS risk)
+- Title: "Research | Scott Coffin, PhD"
 - Description: "Research by Scott Coffin, PhD on microplastics in drinking water, ecotoxicology,..."
 - Canonical: https://scottcoff.in/Research/
 - H1: present (1)
 
-## /Data_Science/ ✅ PASS
-- Title: "Tools &amp; Open Science Scott Coffin, PhD | Scott Coffin, PhD"
+## /Data_Science/ ⚠️ WARN
+**Warnings:**
+- 7 of 7 images missing width/height (CLS risk)
+- Title: "Tools &amp; Open Science | Scott Coffin, PhD"
 - Description: "Open science and data tools by Scott Coffin, PhD, including Plastiverse, ToMEx, ..."
 - Canonical: https://scottcoff.in/Data_Science/
 - H1: present (1)
 
-## /Media/ ✅ PASS
-- Title: "Media &amp; Talks Scott Coffin, PhD | Scott Coffin, PhD"
+## /Media/ ⚠️ WARN
+**Warnings:**
+- 17 of 17 images missing width/height (CLS risk)
+- Title: "Media &amp; Talks | Scott Coffin, PhD"
 - Description: "Media, interviews, webinars, and public talks featuring Scott Coffin, PhD on mic..."
 - Canonical: https://scottcoff.in/Media/
 - H1: present (1)
 
-## /For_Journalists/ ✅ PASS
-- Title: "For Journalists &amp; Event Organizers | Scott Coffin, PhD"
-- Description: "Short bio, areas of expertise, selected media appearances, and contact informati..."
-- Canonical: https://scottcoff.in/For_Journalists/
-- H1: present (1)
+## /For_Journalists/ — SKIPPED (not built)
 
 ## /Microplastics_Explainer/ ✅ PASS
 - Title: "Microplastics: What We Know, What’s Uncertain, and What It Means | Scott Coffin, PhD"
@@ -55,4 +57,4 @@
 
 ## sitemap.xml
 - ✅ sitemap.xml: uses correct domain
-- ✅ sitemap.xml: 26 URLs
+- ✅ sitemap.xml: 25 URLs

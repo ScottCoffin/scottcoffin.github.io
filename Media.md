@@ -33,7 +33,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk" data-year="2024" style="--media-color:#0077b6;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/bSS6FBmqtU8?start=615" title="California Lake Management Society: Risk Management Strategies for Microplastics" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="bSS6FBmqtU8" data-yt-start="615">
+        <img src="https://img.youtube.com/vi/bSS6FBmqtU8/hqdefault.jpg" alt="CA Lake Management Society: Risk Management Strategies for Microplastics">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">CA Lake Management Society</div>
@@ -60,7 +63,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk" data-year="2022" style="--media-color:#0077b6;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/xJU3NiRK_FM?start=4270" title="Narragansett Bay keynote: Managing Micro- and Macro-Plastics — Lessons from California" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="xJU3NiRK_FM" data-yt-start="4270">
+        <img src="https://img.youtube.com/vi/xJU3NiRK_FM/hqdefault.jpg" alt="Narragansett Bay Symposium Keynote: Managing Micro- and Macro-Plastics" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">Narragansett Bay Symposium — Keynote</div>
@@ -71,7 +77,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk" data-year="2022" style="--media-color:#0077b6;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/AzQX-ddkrGk" title="Sierra Nevada Aquatic Research Lab Seminar 2022: Microplastics — a Macro Problem?" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="AzQX-ddkrGk">
+        <img src="https://img.youtube.com/vi/AzQX-ddkrGk/hqdefault.jpg" alt="Sierra Nevada Aquatic Research Lab: Microplastics — a Macro Problem?" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">Sierra Nevada Aquatic Research Lab</div>
@@ -82,7 +91,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk" data-year="2022" style="--media-color:#0077b6;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/m-_mCRA2sO4?start=280" title="California Ocean Day 2022: Microplastics — California's BIG little plastic problem" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="m-_mCRA2sO4" data-yt-start="280">
+        <img src="https://img.youtube.com/vi/m-_mCRA2sO4/hqdefault.jpg" alt="California Ocean Day 2022: Microplastics — California's BIG little plastic problem" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">California Ocean Day 2022</div>
@@ -93,7 +105,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk" data-year="2021" style="--media-color:#0077b6;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/S56nsUvTR2I" title="National Academies Food Forum: Microplastics from Food and Water — State of the Science" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="S56nsUvTR2I">
+        <img src="https://img.youtube.com/vi/S56nsUvTR2I/hqdefault.jpg" alt="National Academies Food Forum: Microplastics from Food and Water — State of the Science" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">National Academies Food Forum</div>
@@ -104,7 +119,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk interview" data-year="2021" style="--media-color:#0077b6;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/-bTCCB6wbks" title="KQED Newsroom Special: California's Plastic Problem (2021)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="-bTCCB6wbks">
+        <img src="https://img.youtube.com/vi/-bTCCB6wbks/hqdefault.jpg" alt="KQED Newsroom Special: California's Plastic Problem" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">KQED Newsroom Special</div>
@@ -115,7 +133,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk" data-year="2021" style="--media-color:#0077b6;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/tPtPzL4PQvk" title="Key Ingredients to Effective Science Communication: Microplastics Science and Policy (2021)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="tPtPzL4PQvk">
+        <img src="https://img.youtube.com/vi/tPtPzL4PQvk/hqdefault.jpg" alt="Key Ingredients to Effective Science Communication: Microplastics Science and Policy" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">Science Communication Workshop</div>
@@ -126,7 +147,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk" data-year="2020" style="--media-color:#0077b6;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/oxM1GOf3zmI" title="Inland Ocean Coalition: Microplastics Hit Home — Human Exposure, Health Effects and Inland Impacts (2020)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="oxM1GOf3zmI">
+        <img src="https://img.youtube.com/vi/oxM1GOf3zmI/hqdefault.jpg" alt="Inland Ocean Coalition: Microplastics Hit Home — Human Exposure, Health Effects and Inland Impacts" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">Inland Ocean Coalition</div>
@@ -137,7 +161,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk" data-year="2020" style="--media-color:#0077b6;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/-KzT--lJDns?start=1754" title="Beyond Plastics: Tiny Pieces, Big Problem — Microplastics in Our Water and Bodies (2020)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="-KzT--lJDns" data-yt-start="1754">
+        <img src="https://img.youtube.com/vi/-KzT--lJDns/hqdefault.jpg" alt="Beyond Plastics: Tiny Pieces, Big Problem — Microplastics in Our Water and Bodies" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">Beyond Plastics</div>
@@ -148,7 +175,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk podcast" data-year="2020" style="--media-color:#6a4c93;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/MTbqrfewuKY" title="Plasticast Episode 3: Dr. Scott Coffin on microplastics research (2020)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="MTbqrfewuKY">
+        <img src="https://img.youtube.com/vi/MTbqrfewuKY/hqdefault.jpg" alt="Plasticast Episode 3: Dr. Scott Coffin on microplastics research" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">Plasticast Podcast</div>
@@ -159,7 +189,10 @@ I speak with journalists, students, community groups, researchers, and policymak
 
   <div class="media-card" data-types="talk" data-year="2019" style="--media-color:#0077b6;">
     <div class="media-video">
-      <iframe src="https://www.youtube.com/embed/Eu6Jhit4TAA" title="Getting to Know H2O — the Water Cycle (ACS People's Choice Award, 2019)" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="yt-facade" data-yt-id="Eu6Jhit4TAA">
+        <img src="https://img.youtube.com/vi/Eu6Jhit4TAA/hqdefault.jpg" alt="Getting to Know H2O — the Water Cycle (ACS People's Choice Award, 2019)" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
     </div>
     <div class="media-body">
       <div class="media-outlet">ACS Environmental Film Competition — People's Choice</div>
@@ -459,7 +492,7 @@ I speak with journalists, students, community groups, researchers, and policymak
 
 ## Speaking engagement history
 
-<iframe src="/assets/widgets/engagements.html" height="500px" width="100%" style="border:none;" title="Stacked bar chart of speaking engagements by year since 2014"></iframe>
+<iframe src="/assets/widgets/engagements.html" height="500px" width="100%" style="border:none;" loading="lazy" title="Stacked bar chart of speaking engagements by year since 2014"></iframe>
 
 ---
 
@@ -467,7 +500,7 @@ I speak with journalists, students, community groups, researchers, and policymak
 
 Searchable and sortable table of all media appearances and speaking engagements.
 
-<iframe src="/assets/widgets/datatable.html" height="600px" width="100%" style="border:none;" title="Full searchable table of media appearances and speaking engagements"></iframe>
+<iframe src="/assets/widgets/datatable.html" height="600px" width="100%" style="border:none;" loading="lazy" title="Full searchable table of media appearances and speaking engagements"></iframe>
 
 <script>
 (function () {
@@ -511,6 +544,21 @@ Searchable and sortable table of all media appearances and speaking engagements.
     }
 
     applyFilterAndSort();
+
+    /* YouTube facade — load iframe only on click */
+    document.querySelectorAll('.yt-facade').forEach(function (facade) {
+      facade.addEventListener('click', function () {
+        var id = facade.dataset.ytId;
+        var start = facade.dataset.ytStart;
+        var src = 'https://www.youtube.com/embed/' + id + '?autoplay=1' + (start ? '&start=' + start : '') + '&rel=0';
+        var iframe = document.createElement('iframe');
+        iframe.src = src;
+        iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+        iframe.allowFullscreen = true;
+        iframe.style.cssText = 'width:100%;height:100%;border:none;display:block;';
+        facade.parentNode.replaceChild(iframe, facade);
+      });
+    });
 
     /* Animated counters */
     var counters = document.querySelectorAll('.ds-num[data-target]');

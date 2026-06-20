@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
 ---
 
-Dr. Scott Coffin is a Staff Toxicologist Specialist at the [Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/) in the California Environmental Protection Agency (CalEPA), where he conducts research on the human health effects of microplastics in drinking and bottled water to implement [Senate Bill 1147](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1147).
+Dr. Scott Coffin (he/him) is a Staff Toxicologist Specialist at the [Office of Environmental Health Hazard Assessment (OEHHA)](https://oehha.ca.gov/) in the California Environmental Protection Agency (CalEPA), where he conducts research on the human health effects of microplastics in drinking and bottled water to implement [Senate Bill 1147](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB1147).
 
 His expertise spans environmental toxicology, ecotoxicology, microplastics risk assessment, PFAS toxicokinetics, computational toxicology, New Approach Methodologies, analytical chemistry, data science, and regulatory science.
 
@@ -19,16 +19,6 @@ He completed his Ph.D. in Environmental Toxicology at the University of Californ
 
 ---
 
-## Selected impact
-
-- Helped develop California's regulatory definition of microplastics in drinking water (world's first, SB 1422, 2020).
-- Helped develop California's statewide microplastics drinking water monitoring program (world's first, launched 2023).
-- Developed health-based and ecological risk frameworks for microplastics used by California's EPA.
-- Co-founded [Plastiverse](https://www.plastiverse.org/), a community hub for plastic pollution research.
-- Built and contributed to open data tools including [ToMEx 2.0](https://microplastics.sccwrp.org/) and [pSSD++](https://github.com/ScottCoffin/ToMEx2.0_EcoToxRisk/tree/main).
-- Communicated microplastics science through hundreds of public talks, media appearances, podcasts, and community events.
-
----
 
 ## Career timeline
 

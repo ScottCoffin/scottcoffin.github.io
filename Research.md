@@ -118,7 +118,7 @@ If you cannot access any publication below, [email me](mailto:scott.l.coffin@gma
   <div class="pc-accent"></div>
   <div class="pc-body">
     <div class="pc-header">
-      <img class="pc-logo" src="/assets/images/env_sci_adv.gif" alt="Graphical abstract — emergence of microplastics from research to regulations">
+      <img class="pc-logo" src="/assets/images/env_sci_adv.jpg" alt="Graphical abstract — emergence of microplastics from research to regulations">
       <div>
         <p class="pc-title">The emergence of microplastics: from research to regulations (2023)</p>
         <p class="pc-meta"><strong>Coffin, S.</strong> &mdash; <em>Environmental Science Advances</em></p>
