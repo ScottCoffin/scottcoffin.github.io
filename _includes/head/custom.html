@@ -1,9 +1,20 @@
 <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="icon" type="image/png" href="/favicon.png">
 
 {% if page.header.overlay_image %}
 <link rel="preload" as="image" href="{{ page.header.overlay_image | relative_url }}">
 {% endif %}
+
+<style>
+/* WCAG AA contrast overrides — loaded after theme CSS via head/custom.html */
+html body .masthead nav a.site-title { color: #005f8e !important; }
+html body .page__footer .page__footer-follow strong,
+html body .page__footer .page__footer-follow a,
+html body .page__footer .page__footer-copyright,
+html body .page__footer .page__footer-copyright a { color: #444 !important; }
+html body .page__footer-disclaimer { color: #555 !important; }
+</style>
 
 <!-- end custom head snippets -->

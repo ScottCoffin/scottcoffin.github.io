@@ -48,10 +48,21 @@
   &:hover { color: #004268; }
 }
 
+/* Site title: force color — .greedy-nav a (0,1,1) vs our (0,2,1); !important as final fallback */
+.greedy-nav a.site-title,
 .site-title,
 .masthead__menu-item a {
-  color: #005f8e;
-  &:hover { color: #004268; }
+  color: #005f8e !important;
+  &:hover { color: #004268 !important; }
+}
+
+/* Footer: Minimal Mistakes default skin uses #f2f3f3 background — ensure contrast */
+.page__footer-follow strong,
+.page__footer-follow a,
+.page__footer-copyright,
+.page__footer-copyright a {
+  color: #444 !important;
+  &:hover { color: #222 !important; }
 }
 
 /* === Research page: theme navigation cards === */
@@ -300,7 +311,7 @@ html {
   font-size: 0.68rem;
   padding: 0.15rem 0.55rem;
   border-radius: 2rem;
-  background: var(--tool-color, #0077b6);
+  background: var(--tool-color, #004a3d);
   color: #fff;
   font-weight: 700;
   text-transform: uppercase;

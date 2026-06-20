@@ -65,7 +65,7 @@ If you cannot access any publication below, [email me](mailto:scott.l.coffin@gma
   <div class="pc-accent"></div>
   <div class="pc-body">
     <div class="pc-header">
-      <img class="pc-logo" src="/assets/images/pSSD.png" alt="pSSD++ logo">
+      <img class="pc-logo" src="/assets/images/pSSD.jpg" alt="pSSD++ logo">
       <div>
         <p class="pc-title">A probabilistic risk framework for microplastics (2026)</p>
         <p class="pc-meta"><strong>Coffin, S.</strong>, Bertrand, L., Ahmed, K. T., de Souza Leite, L., Cowger, W., et al. &mdash; <em>Journal of Hazardous Materials</em></p>
