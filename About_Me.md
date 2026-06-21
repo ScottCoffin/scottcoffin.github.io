@@ -1,5 +1,4 @@
 ---
-have tyh---
 title: "Scott Coffin, PhD"
 description: "Biography of Scott Coffin, PhD, an environmental toxicologist specializing in microplastics, drinking water, PFAS, ecotoxicology, analytical chemistry, data science, and regulatory risk assessment."
 permalink: /About_Me/
@@ -7,7 +6,7 @@ layout: splash
 author_profile: true
 classes: about-hero-tall
 header:
-  overlay_image: /assets/images/Materevolve.jpg
+  overlay_image: /assets/images/materevolve.jpg
   overlay_filter: 0.5
 ---
 
@@ -23,49 +22,44 @@ He completed his Ph.D. in Environmental Toxicology at the University of Californ
 
 ## Career timeline
 
-:::::::::: timeline
-::: timeline-item
+<div class="timeline">
+
+<div class="timeline-item">
 <h3>2009–2013 — Chemistry, Spanish, and interdisciplinary study</h3>
-
 <p>B.S. in Chemistry with a Spanish minor through the National Student Exchange program. Attended Grinnell College, University of Puerto Rico (Mayaguez), Hampshire College, University of Massachusetts (Amherst), and Mt. Holyoke College; graduated from the University of Wyoming. Conducted environmental science fieldwork.</p>
-:::
+</div>
 
-::: timeline-item
+<div class="timeline-item">
 <h3>2014–2018 — PhD in Environmental Toxicology</h3>
-
 <p>Doctoral research at the University of California, Riverside on plastics as vectors for chemical pollutants in estuarine and marine environments. Developed expertise in ecotoxicology, analytical chemistry, bioanalytical screening tools, and fish toxicology.</p>
-:::
+</div>
 
-::: timeline-item
+<div class="timeline-item">
 <h3>2019 — Emerging contaminants and PFAS data science</h3>
-
 <p>Joined the California State Water Resources Control Board. Early work focused on constituents of emerging concern, monitoring programs, and PFAS data science — including leading the state's first <a href="https://www.waterboards.ca.gov/pfas/pfas_datathon.html">PFAS Datathon</a>.</p>
-:::
+</div>
 
-::: timeline-item
+<div class="timeline-item">
 <h3>2019–2024 — California microplastics drinking water science and policy</h3>
-
 <p>Lead scientist for California's implementation of SB 1422 — developing the world's first regulatory definition of microplastics in drinking water, the state's monitoring plan, and a health-based risk framework. Built open tools including ToMEx and contributed to regulatory science internationally.</p>
-:::
+</div>
 
-::: timeline-item
+<div class="timeline-item">
 <h3>2024–2025 — Pharmacokinetics Research Scientist, OEHHA</h3>
-
 <p>Served in OEHHA's New Toxicology Evaluations Section, developing risk assessment methods using New Approach Methodologies, computational toxicology, and toxicokinetic modeling for unassessed chemicals of regulatory priority.</p>
-:::
+</div>
 
-::: timeline-item
+<div class="timeline-item">
 <h3>2025–present — Staff Toxicologist Specialist, OEHHA Water Toxicology Section</h3>
-
 <p>Conducting original research on the human health effects of microplastics in drinking and bottled water to implement SB 1147.</p>
-:::
+</div>
 
-::: timeline-item
+<div class="timeline-item">
 <h3>Ongoing — Open science and public communication</h3>
-
 <p>Co-founder of Plastiverse; editor for <em>Cambridge Prisms: Plastics</em>; board member of the Moore Institute for Plastic Pollution Research. Continuous science communication through talks, media, podcasts, and community events.</p>
-:::
-::::::::::
+</div>
+
+</div>
 
 ------------------------------------------------------------------------
 
