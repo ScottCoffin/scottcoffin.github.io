@@ -627,3 +627,8 @@ details.demo-details {
     margin-bottom: 0;
   }
 }
+
+/* === About Me page: 30% taller overlay header (default is 200px) === */
+.about-hero-tall .page__hero--overlay {
+  min-height: 260px;
+}
