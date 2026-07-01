@@ -12,7 +12,7 @@ header:
 I build and support open tools, databases, and reproducible workflows for environmental health science. Making science accessible and reusable is a core part of how I work.
 
 <div class="ds-stats">
-  <div class="ds-stat"><div class="ds-num" data-target="13">0</div><div class="ds-label">Tools &amp; Projects</div></div>
+  <div class="ds-stat"><div class="ds-num" data-target="14">0</div><div class="ds-label">Tools &amp; Projects</div></div>
   <div class="ds-stat"><div class="ds-num" data-target="6">0</div><div class="ds-label">Interactive Demos</div></div>
   <div class="ds-stat"><div class="ds-num" data-target="7">0</div><div class="ds-label">Years Open Science</div></div>
   <div class="ds-stat"><div class="ds-num" data-target="40">0</div><div class="ds-label">Publications</div></div>
@@ -261,6 +261,24 @@ I build and support open tools, databases, and reproducible workflows for enviro
       <div class="tool-desc">Practical introduction to Git and GitHub with a heavy focus on R workflows — version control, collaboration, and reproducible research for environmental scientists.</div>
       <div class="tool-links">
         <a href="https://www.researchgate.net/publication/397773417_GitHub_101_with_a_heavy_focus_on_R">View on ResearchGate</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="tool-card" data-types="r-package">
+    <div class="tool-color-bar" style="--tool-color:#0077b6;"></div>
+    <div class="tool-image">
+      <img src="/assets/images/pubmedsearch_logo.png" alt="PubMed Systematic Search Workflow logo">
+    </div>
+    <div class="tool-body">
+      <div class="tool-title">PubMed Systematic Search Workflow</div>
+      <div class="tool-badges">
+        <span class="tbadge" style="background:#00476d;">R Package</span>
+        <span class="tbadge" style="background:#1a7a3c;">Active</span>
+      </div>
+      <div class="tool-desc">Reusable R helpers for systematic PubMed searches. Reads and normalizes search-string text files, chunks and runs queries, then combines and exports results — reproducible and collaborator-friendly, no notebook editing required.</div>
+      <div class="tool-links">
+        <a href="https://github.com/ScottCoffin/PubMed_Systematic_Search">GitHub</a>
       </div>
     </div>
   </div>
