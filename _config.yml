@@ -157,6 +157,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - "*.Rmd"
+  - /reports # internal SEO/audit reports, not for public site
 keep_files:
   - .git
   - .svn
