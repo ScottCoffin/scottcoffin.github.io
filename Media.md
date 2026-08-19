@@ -31,6 +31,20 @@ I speak with journalists, students, community groups, researchers, and policymak
 
 <div class="media-grid">
 
+  <div class="media-card" data-types="talk podcast interview" data-year="2026" style="--media-color:#6a4c93;">
+    <div class="media-video">
+      <div class="yt-facade" data-yt-id="INyoEUWbWHU">
+        <img src="https://img.youtube.com/vi/INyoEUWbWHU/hqdefault.jpg" alt="Coffee &amp; Microplastics Ep 3.1: Dr. Scott Coffin — Towards Understanding Exposure, Hazard, and Risks of Microplastics" loading="lazy">
+        <button class="yt-play" aria-label="Play video">&#9654;</button>
+      </div>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">Coffee &amp; Microplastics — Episode 3.1</div>
+      <div class="media-title">Towards Understanding the Exposure, Hazard, and Risks of Microplastics</div>
+      <div class="media-year">2026</div>
+    </div>
+  </div>
+
   <div class="media-card" data-types="talk" data-year="2024" style="--media-color:#0077b6;">
     <div class="media-video">
       <div class="yt-facade" data-yt-id="bSS6FBmqtU8" data-yt-start="615">
