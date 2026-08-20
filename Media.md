@@ -31,6 +31,22 @@ I speak with journalists, students, community groups, researchers, and policymak
 
 <div class="media-grid">
 
+  <div class="media-card" data-types="talk" data-year="2026" style="--media-color:#0077b6;">
+    <div class="media-video">
+      <iframe src="https://drive.google.com/file/d/1gwHLirNf3LjD76IEz7qCVqzEItRI_A6w/preview" title="CSU COAST: Microplastics and California Agriculture — recording" allow="autoplay" allowfullscreen loading="lazy"></iframe>
+    </div>
+    <div class="media-body">
+      <div class="media-outlet">CSU COAST — Virtual Briefing (Moderator)</div>
+      <div class="media-title">Microplastics and California Agriculture: Aligning Policy, Science, and Practice</div>
+      <div class="media-year">2026</div>
+      <div class="media-links">
+        <a href="https://www.calstate.edu/impact-of-the-csu/research/coast/Pages/Aligning_Policy_Science_and_Practice.aspx">Event page</a>
+        <a href="https://www.calstate.edu/impact-of-the-csu/research/coast/about/Documents/MP_in_Ag_Runoff_Virtual_Briefing-Briefing_Sheet.pdf">Briefing sheet</a>
+        <a href="https://www.calstate.edu/impact-of-the-csu/research/coast/about/Documents/MPs_and_CA_Ag_Full_Slide_Deck.pdf">Slides</a>
+      </div>
+    </div>
+  </div>
+
   <div class="media-card" data-types="talk podcast interview" data-year="2026" style="--media-color:#6a4c93;">
     <div class="media-video">
       <div class="yt-facade" data-yt-id="INyoEUWbWHU">
