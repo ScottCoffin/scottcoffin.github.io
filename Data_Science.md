@@ -227,26 +227,6 @@ I build and support open tools, databases, and reproducible workflows for enviro
     </div>
   </div>
 
-  <div class="tool-card" data-types="app">
-    <div class="tool-color-bar" style="--tool-color:#0096c7;"></div>
-    <div class="tool-image tool-image--photo">
-      <img src="/assets/images/mp_methods_navigator.jpg" alt="Microplastics Methods Navigator graphical abstract showing research methods wheel">
-    </div>
-    <div class="tool-body">
-      <div class="tool-title">Microplastics Methods Navigator</div>
-      <div class="tool-badges">
-        <span class="tbadge" style="background:#005a77;">App</span>
-        <span class="tbadge" style="background:#005a77;">Streamlit</span>
-        <span class="tbadge" style="background:#1a7a3c;">Active</span>
-      </div>
-      <div class="tool-desc">Interactive decision-tree app for finding microplastics and nanoplastics research methods, standards, and guidance. Organizes 175+ seminal references across a four-tier authority hierarchy from ISO/ASTM standards to supporting literature.</div>
-      <div class="tool-links">
-        <a href="https://mp-methods-navigator.streamlit.app/">Live app</a>
-        <a href="https://github.com/ScottCoffin/Microplastics-Methods-Navigator">GitHub</a>
-      </div>
-    </div>
-  </div>
-
   <div class="tool-card" data-types="training">
     <div class="tool-color-bar" style="--tool-color:#6c757d;"></div>
     <div class="tool-image tool-image--photo">
