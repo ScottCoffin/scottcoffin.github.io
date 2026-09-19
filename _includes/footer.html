@@ -21,6 +21,9 @@
     {% if site.author.bluesky %}
       <li><a href="https://bsky.app/profile/{{ site.author.bluesky }}"><i class="fa-brands fa-fw fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>
     {% endif %}
+    {% if site.author.researchgate %}
+      <li><a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}/publications"><i class="fa-brands fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+    {% endif %}
     {% if site.author.mixcloud %}
       <li><a href="https://www.mixcloud.com/{{ site.author.mixcloud }}"><i class="fab fa-fw fa-mixcloud" aria-hidden="true"></i> Mixcloud</a></li>
     {% endif %}

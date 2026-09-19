@@ -92,6 +92,14 @@
         </li>
       {% endif %}
 
+      {% if author.researchgate %}
+        <li>
+          <a href="https://www.researchgate.net/profile/{{ author.researchgate }}/publications" itemprop="sameAs">
+            <i class="fa-brands fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.facebook %}
         <li>
           <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
