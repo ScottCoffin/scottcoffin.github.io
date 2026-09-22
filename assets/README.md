@@ -1,5 +1,8 @@
 Various Publications, Presentations, Media, and other Downloadable files are available here:
 
+* "Artificial Intelligence and Real-World Microplastics: Accelerating Hazard, Exposure, and Decision-Making using Models and Data
+". São Paulo School of Advanced Science on Microplastics. [Full presentation](publications/2026_9_SPSAS_Coffin.pdf)
+
 * A Probabilistic Risk Framework for Microplastics Integrating Uncertainty Across Toxicological and Environmental Variability: Development and Application to Marine and Freshwater Ecosystems [pre-print article (full text)](publications/Coffin_2026_ProbEcoTox_HazMat.pdf)
 
 * Impacts of Microfiber & Chemical Pollution (2025 MateRevolve Textile Sail Handout) [High-Res File](publications/2025, April, Textile Sail.pdf)
