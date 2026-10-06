@@ -257,7 +257,7 @@ Bioanalytical screening tools, analytical chemistry, laboratory methods developm
 
 - Roxana Sühring, David Megson, Huy Nguyen, Eric Fries, David Jones, Lars Hildebrandt, Daniel Pröfrock, Tina Sanders, Alexa Zonderman, Ian Ingram, Sydney Rilum, Corey Clatterbuck, **Scott Coffin**, Liisa M. Jantunen, Courtney D Sandau, Charles Wong. "Multi-Analytical Chemical Fingerprinting: A Method to Establish Contaminant Profiles and Sources of Microplastic Pollution in the Environment." *In preparation.*
 
-- Huy Nguyen, Eric Fries, David Jones, David Megson, Alexa Zonderman, Lars Hildebrandt, Daniel Pröfrock, **Scott Coffin**, Roxana Sühring. "Chemical Fingerprints of New vs. Weathered Plastics: A Machine Learning Approach." *In preparation.*
+- Nguyen, H., Fries, E., Jones, D., Megson, D., Zonderman, A., Hildebrandt, L., **Coffin, S.**, Pröfrock, D., & Sühring, R. (2026). "Chemical fingerprints of new vs weathered plastics: A machine learning approach." *Environmental Science & Technology*, 60(37), 26515–26525. [Full text](https://doi.org/10.1021/acs.est.6c03575)
 
 - Coffin, S., Dudley, S., Taylor, A., Wolf, D., Wang, J., Lee, I., & Schlenk, D. (2018). "Comparisons of analytical chemistry and biological activities of extracts from North Pacific gyre plastics with UV-treated and untreated plastics using *in vitro* and *in vivo* models." *Environment International*, 121, 942–954. [Full text](https://doi.org/10.1016/j.envint.2018.10.012)
 
@@ -278,6 +278,8 @@ Bioanalytical screening tools, analytical chemistry, laboratory methods developm
 ### Science-Policy Translation
 
 Perspectives, regulatory science work, and science communication connecting emerging contaminant research to regulatory frameworks and management decisions under uncertainty.
+
+- Montagner, C. C., Waldman, W. R., Turra, A., Ando, R. A., Labuto, G., Semensatto, D., Costa, M. F., Grassi, M. T., Fernandes, A. N., Árias, A. H., **Coffin, S.**, Wagner, M., Lusher, A. L., Lozano, Y. M., Henry, T. B., & Thompson, R. (2026). "The road ahead in plastic pollution: research and policy connections." *Química Nova*, 49, e-20260119, 1–2. [Full text](https://quimicanova.sbq.org.br/pdf/00-editorial_Outubro-2026)
 
 - Koelmans, A., Bouwmeester, H., Christopher, E., **Coffin, S.**, Haase, A., Lane, T., Legler, J., Vermeulen, R., Visser, M., Vogel, A., Wardani, I., Zou, R., 2026. "Towards Regulatory Readiness: Evaluating Frameworks for Microplastic Health Risk Assessment." *Microplastics & Nanoplastics*. [Preprint](https://doi.org/10.2139/ssrn.5957574)
 
