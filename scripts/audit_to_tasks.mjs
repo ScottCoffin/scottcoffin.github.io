@@ -146,16 +146,16 @@ function extractTasksFromLhr(lhr, source) {
 function guessSourceFiles(auditId) {
   const map = {
     'canonical': ['_config.yml', '_includes/head.html', '_layouts/default.html'],
-    'meta-description': ['Research.md', 'Data_Science.md', 'Media.md', 'Expertise.md', 'index.html'],
-    'document-title': ['_config.yml', 'Research.md', 'Data_Science.md'],
-    'image-alt': ['_includes/author-profile.html', 'Research.md', 'index.html'],
+    'meta-description': ['_pages/Research.md', '_pages/Data_Science.md', '_pages/Media.md', 'index.md'],
+    'document-title': ['_config.yml', '_pages/Research.md', '_pages/Data_Science.md'],
+    'image-alt': ['_includes/author-profile.html', '_pages/Research.md', 'index.md'],
     'image-explicit-width-height': ['_includes/author-profile.html', '_includes/sidebar.html'],
     'uses-optimized-images': ['assets/images/'],
     'render-blocking-resources': ['_includes/head.html', '_layouts/default.html'],
     'unused-css-rules': ['assets/css/main.css'],
     'unused-javascript': ['assets/js/main.min.js'],
     'link-text': ['_includes/masthead.html', '_data/navigation.yml'],
-    'heading-order': ['Research.md', 'Data_Science.md'],
+    'heading-order': ['_pages/Research.md', '_pages/Data_Science.md'],
     'color-contrast': ['assets/css/main.css', '_sass/'],
   };
   return map[auditId] || [];

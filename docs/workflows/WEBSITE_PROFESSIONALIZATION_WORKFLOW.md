@@ -1120,13 +1120,13 @@ No content edits yet.
 After this file exists in the repo, the user can ask the IDE agent:
 
 ``` text
-Read WEBSITE_PROFESSIONALIZATION_WORKFLOW.md. Execute Phase 1 only: inspect the repo and live/source content, then create reports/content-professionalization-audit.md. Do not edit page content yet.
+Read docs/workflows/WEBSITE_PROFESSIONALIZATION_WORKFLOW.md. Execute Phase 1 only: inspect the repo and live/source content, then create reports/content-professionalization-audit.md. Do not edit page content yet.
 ```
 
 Then:
 
 ``` text
-Read reports/content-professionalization-audit.md and WEBSITE_PROFESSIONALIZATION_WORKFLOW.md. Execute Phase 2 only. Make minimal fixes for broken pages, obvious typos, malformed links, bad H1s, stale wording, and canonical/internal-link leakage. Build and report the diff.
+Read reports/content-professionalization-audit.md and docs/workflows/WEBSITE_PROFESSIONALIZATION_WORKFLOW.md. Execute Phase 2 only. Make minimal fixes for broken pages, obvious typos, malformed links, bad H1s, stale wording, and canonical/internal-link leakage. Build and report the diff.
 ```
 
 Then:

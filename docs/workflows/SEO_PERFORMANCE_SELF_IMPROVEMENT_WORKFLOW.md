@@ -174,7 +174,7 @@ Keep curated Markdown summaries trackable only if desired. If uncertain, ignore 
 Create:
 
 ```text
-lighthouserc.js
+config/lighthouserc.cjs
 ```
 
 Use this as the starting configuration. Adjust paths only if the site uses different URL paths.
@@ -1409,7 +1409,7 @@ At minimum, this implementation should add or modify:
 
 ```text
 package.json
-lighthouserc.js
+config/lighthouserc.cjs
 scripts/pagespeed_insights.mjs
 scripts/audit_to_tasks.mjs
 scripts/local_seo_check.mjs

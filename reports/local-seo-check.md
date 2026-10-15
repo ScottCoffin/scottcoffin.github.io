@@ -1,5 +1,5 @@
 # Local SEO Check Report
-**Generated:** 2026-06-20T19:55:18.318Z
+**Generated:** 2026-10-15T19:17:09.597Z
 **Summary:** 1 errors, 3 warnings
 
 ## / ✅ PASS
@@ -18,7 +18,7 @@
 
 ## /Data_Science/ ⚠️ WARN
 **Warnings:**
-- 7 of 7 images missing width/height (CLS risk)
+- 12 of 12 images missing width/height (CLS risk)
 - Title: "Tools &amp; Open Science | Scott Coffin, PhD"
 - Description: "Open science and data tools by Scott Coffin, PhD, including Plastiverse, ToMEx, ..."
 - Canonical: https://scottcoff.in/Data_Science/
@@ -26,7 +26,7 @@
 
 ## /Media/ ⚠️ WARN
 **Warnings:**
-- 17 of 17 images missing width/height (CLS risk)
+- 29 of 29 images missing width/height (CLS risk)
 - Title: "Media &amp; Talks | Scott Coffin, PhD"
 - Description: "Media, interviews, webinars, and public talks featuring Scott Coffin, PhD on mic..."
 - Canonical: https://scottcoff.in/Media/
@@ -41,13 +41,13 @@
 - H1: present (1)
 
 ## /About_Me/ ✅ PASS
-- Title: "About Scott Coffin, PhD | Scott Coffin, PhD"
+- Title: "Scott Coffin, PhD | Scott Coffin, PhD is an environmental toxicologist specializing in microplastics, PFAS, risk assessment, toxicokinetics, computational toxicology, regulatory science, and open environmental data tools."
 - Description: "Biography of Scott Coffin, PhD, an environmental toxicologist specializing in mi..."
 - Canonical: https://scottcoff.in/About_Me/
 - H1: present (1)
 
 ## /Blog/ ✅ PASS
-- Title: "Thoughts on toxicology, climbing, and other stuff | Scott Coffin, PhD"
+- Title: "Blog Posts | Scott Coffin, PhD"
 - Description: "Scott Coffin, PhD is an environmental toxicologist specializing in microplastics..."
 - Canonical: https://scottcoff.in/Blog/
 - H1: present (1)
@@ -57,4 +57,4 @@
 
 ## sitemap.xml
 - ✅ sitemap.xml: uses correct domain
-- ✅ sitemap.xml: 25 URLs
+- ✅ sitemap.xml: 23 URLs

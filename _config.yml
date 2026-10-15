@@ -156,8 +156,14 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
+  - /scripts # development and validation tooling
   - /test # ignore Minimal Mistakes /test
+  - /AGENTS.md
+  - /README.md
+  - /package-lock.json
+  - /Gemfile.lock
   - "*.Rmd"
+  - "*.Rproj"
   - /reports # internal SEO/audit reports, not for public site
 keep_files:
   - .git

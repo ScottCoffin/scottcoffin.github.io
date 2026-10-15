@@ -1,6 +1,9 @@
 const fs = require("fs");
-const pkg = require("./package.json");
-const filename = "assets/js/main.min.js";
+const path = require("path");
+
+const repositoryRoot = path.resolve(__dirname, "../..");
+const pkg = require(path.join(repositoryRoot, "package.json"));
+const filename = path.join(repositoryRoot, "assets/js/main.min.js");
 const script = fs.readFileSync(filename);
 const padStart = str => ("0" + str).slice(-2);
 const dateObj = new Date();

@@ -2,6 +2,7 @@
 *.sublime-project
 *.sublime-workspace
 .DS_Store
+.Rhistory
 .Rproj.user
 .bundle
 .git/objects/33/fa7d4b208d5db738a478dc21948e76b9696a73
@@ -15,6 +16,7 @@ codekit-config.json
 example/_site
 node_modules
 npm-debug.log*
+personalization-input/
 Media.html
 Data_Science.html
 About_Me.html
