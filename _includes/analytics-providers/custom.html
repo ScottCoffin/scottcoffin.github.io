@@ -1,3 +1,83 @@
 <!-- start custom analytics snippet -->
+<script>
+  (function() {
+    "use strict";
 
+    var measurementId = {{ site.analytics.google.tracking_id | jsonify }};
+    var blockedReferrers = {{ site.analytics.google.blocked_referrers | jsonify }};
+    var params = new URLSearchParams(window.location.search);
+    var campaignSource = (params.get("utm_source") || "").toLowerCase();
+    var referrerHost = "";
+
+    try {
+      referrerHost = new URL(document.referrer).hostname.toLowerCase();
+    } catch (error) {
+      referrerHost = "";
+    }
+
+    function matchesBlockedSource(value) {
+      return blockedReferrers.some(function(blocked) {
+        return value === blocked || value.endsWith("." + blocked);
+      });
+    }
+
+    if (matchesBlockedSource(campaignSource) || matchesBlockedSource(referrerHost)) {
+      return;
+    }
+
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = function() {
+      window.dataLayer.push(arguments);
+    };
+
+    var tag = document.createElement("script");
+    tag.async = true;
+    tag.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(measurementId);
+    document.head.appendChild(tag);
+
+    window.gtag("js", new Date());
+    window.gtag("config", measurementId);
+
+    document.addEventListener("click", function(event) {
+      var link = event.target.closest("a[href]");
+      if (!link) {
+        return;
+      }
+
+      var destination;
+      try {
+        destination = new URL(link.href, window.location.href);
+      } catch (error) {
+        return;
+      }
+
+      if (destination.protocol === "mailto:" || destination.protocol === "tel:") {
+        window.gtag("event", "contact_click", {
+          contact_method: destination.protocol.slice(0, -1)
+        });
+        return;
+      }
+
+      if (!/^https?:$/.test(destination.protocol)) {
+        return;
+      }
+
+      var eventDetails = {
+        link_domain: destination.hostname,
+        link_path: destination.pathname
+      };
+
+      if (/\.pdf$/i.test(destination.pathname) || link.hasAttribute("download")) {
+        var pathSegments = destination.pathname.split("/");
+        window.gtag("event", "document_download", Object.assign({}, eventDetails, {
+          file_name: decodeURIComponent(pathSegments[pathSegments.length - 1] || "download")
+        }));
+      }
+
+      if (destination.origin !== window.location.origin) {
+        window.gtag("event", "outbound_link_click", eventDetails);
+      }
+    });
+  })();
+</script>
 <!-- end custom analytics snippet -->

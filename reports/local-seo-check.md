@@ -1,5 +1,5 @@
 # Local SEO Check Report
-**Generated:** 2026-10-15T19:17:09.597Z
+**Generated:** 2026-11-02T16:25:43.879Z
 **Summary:** 1 errors, 3 warnings
 
 ## / ✅ PASS
@@ -11,7 +11,7 @@
 ## /Research/ ⚠️ WARN
 **Warnings:**
 - 6 of 6 images missing width/height (CLS risk)
-- Title: "Research | Scott Coffin, PhD"
+- Title: "Environmental Toxicology Research | Scott Coffin, PhD"
 - Description: "Research by Scott Coffin, PhD on microplastics in drinking water, ecotoxicology,..."
 - Canonical: https://scottcoff.in/Research/
 - H1: present (1)
@@ -19,7 +19,7 @@
 ## /Data_Science/ ⚠️ WARN
 **Warnings:**
 - 12 of 12 images missing width/height (CLS risk)
-- Title: "Tools &amp; Open Science | Scott Coffin, PhD"
+- Title: "Environmental Data Tools &amp; Open Science | Scott Coffin, PhD"
 - Description: "Open science and data tools by Scott Coffin, PhD, including Plastiverse, ToMEx, ..."
 - Canonical: https://scottcoff.in/Data_Science/
 - H1: present (1)
@@ -27,7 +27,7 @@
 ## /Media/ ⚠️ WARN
 **Warnings:**
 - 29 of 29 images missing width/height (CLS risk)
-- Title: "Media &amp; Talks | Scott Coffin, PhD"
+- Title: "Microplastics Media &amp; Talks | Scott Coffin, PhD"
 - Description: "Media, interviews, webinars, and public talks featuring Scott Coffin, PhD on mic..."
 - Canonical: https://scottcoff.in/Media/
 - H1: present (1)
@@ -41,8 +41,8 @@
 - H1: present (1)
 
 ## /About_Me/ ✅ PASS
-- Title: "Scott Coffin, PhD | Scott Coffin, PhD is an environmental toxicologist specializing in microplastics, PFAS, risk assessment, toxicokinetics, computational toxicology, regulatory science, and open environmental data tools."
-- Description: "Biography of Scott Coffin, PhD, an environmental toxicologist specializing in mi..."
+- Title: "About — California Environmental Toxicologist | Scott Coffin, PhD"
+- Description: "Biography and career history of Scott Coffin, PhD, a California environmental to..."
 - Canonical: https://scottcoff.in/About_Me/
 - H1: present (1)
 

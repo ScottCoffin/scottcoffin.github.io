@@ -1,5 +1,5 @@
 # JSON-LD Validation Report
-**Generated:** 2026-10-15T19:17:09.032Z
+**Generated:** 2026-11-02T16:25:43.468Z
 **Total blocks:** 22  **Parse errors:** 0
 
 > **Limitation:** This validates JSON syntax only. It does not validate Schema.org types or Google rich-result eligibility. Use [Google Rich Results Test](https://search.google.com/test/rich-results) manually for deployed pages.

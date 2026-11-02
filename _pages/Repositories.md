@@ -1,5 +1,5 @@
 ---
-title: "Repositories"
+title: "Environmental Science Repositories"
 permalink: /Repositories/
 layout: splash
 author_profile: true
@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 #opacity
 classes: wide
 toc: false
-description: "A curated collection of open-source work and live dashboards."
+description: "Open-source environmental science repositories, data tools, dashboards, and reproducible workflows maintained by Scott Coffin, PhD."
 render_with_liquid: true
 ---
 

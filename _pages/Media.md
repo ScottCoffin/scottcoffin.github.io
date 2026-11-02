@@ -1,5 +1,5 @@
 ---
-title: "Media & Talks"
+title: "Microplastics Media & Talks"
 description: "Media, interviews, webinars, and public talks featuring Scott Coffin, PhD on microplastics, plastic pollution, drinking water, environmental health, and science policy."
 permalink: /Media/
 layout: splash
@@ -11,12 +11,7 @@ header:
 
 I speak with journalists, students, community groups, researchers, and policymakers about microplastics, PFAS, environmental health, plastic pollution, and regulatory science. PDFs of most presentations are available on [ResearchGate](https://www.researchgate.net/profile/Scott-Coffin-2/research).
 
-<div class="ds-stats">
-  <div class="ds-stat"><div class="ds-num" data-target="270">0</div><div class="ds-label">Presentations</div></div>
-  <div class="ds-stat"><div class="ds-num" data-target="16">0</div><div class="ds-label">Keynotes</div></div>
-  <div class="ds-stat"><div class="ds-num" data-target="50">0</div><div class="ds-label">Media appearances</div></div>
-  <div class="ds-stat"><div class="ds-num" data-target="10">0</div><div class="ds-label">Years speaking</div></div>
-</div>
+{% include engagements-headline-stats.html %}
 
 ---
 
@@ -527,10 +522,8 @@ I speak with journalists, students, community groups, researchers, and policymak
     <p>Explore quarterly speaking activity by format, then search the complete archive. Select a category in the chart legend to hide it; double-select a category to focus on it.</p>
   </div>
 
-  {% include engagements-summary.html %}
-
   <div class="engagements-frame engagements-chart-frame">
-    <iframe class="engagements-chart" src="/assets/widgets/engagements.html" loading="lazy" title="Interactive quarterly speaking engagement chart with category filters" aria-describedby="engagements-summary-note"></iframe>
+    <iframe class="engagements-chart" src="/assets/widgets/engagements.html" width="1200" height="530" style="min-height: 530px;" loading="lazy" title="Interactive quarterly speaking engagement chart with category filters"></iframe>
   </div>
 
   <div class="engagements-archive-heading">
@@ -539,7 +532,7 @@ I speak with journalists, students, community groups, researchers, and policymak
   </div>
 
   <div class="engagements-frame engagements-table-frame">
-    <iframe class="engagements-table" src="/assets/widgets/datatable.html" loading="lazy" title="Searchable archive of speaking engagements and media appearances" aria-describedby="engagements-archive-description"></iframe>
+    <iframe class="engagements-table" src="/assets/widgets/datatable.html" width="1200" height="660" style="min-height: 660px;" loading="lazy" title="Searchable archive of speaking engagements and media appearances" aria-describedby="engagements-archive-description"></iframe>
   </div>
 </section>
 

@@ -1,5 +1,5 @@
 ---
-title: "Tools & Open Science"
+title: "Environmental Data Tools & Open Science"
 description: "Open science and data tools by Scott Coffin, PhD, including Plastiverse, ToMEx, pSSD++, PFAS data tools, microplastics dashboards, and environmental health applications."
 permalink: /Data_Science/
 layout: splash

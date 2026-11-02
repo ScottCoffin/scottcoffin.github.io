@@ -51,7 +51,7 @@ jobs:
         shell: bash
         run: |
           git add -- \
-            _includes/engagements-summary.html \
+            _includes/engagements-headline-stats.html \
             assets/engagements.jpeg \
             assets/widgets/engagements.html \
             assets/widgets/datatable.html

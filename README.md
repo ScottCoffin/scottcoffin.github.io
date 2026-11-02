@@ -103,7 +103,7 @@ The speaking-engagement chart and searchable table are generated from `assets/da
 Rscript scripts/render_cv_assets.R
 ```
 
-The command updates `_includes/engagements-summary.html`, `assets/engagements.jpeg`, `assets/widgets/engagements.html`, and `assets/widgets/datatable.html`. Commit the spreadsheet, source Rmd, and regenerated assets together after reviewing them.
+The command updates `_includes/engagements-headline-stats.html`, `assets/engagements.jpeg`, `assets/widgets/engagements.html`, and `assets/widgets/datatable.html`. Commit the spreadsheet, source Rmd, and regenerated assets together after reviewing them. The headline presentation, keynote, media-appearance, and speaking-year totals are calculated from the same workbook.
 
 On the default branch, `.github/workflows/refresh-speaking-engagements.yml` runs the same command whenever the spreadsheet or generator changes. If the derived assets changed, the workflow commits only those four files and requests a GitHub Pages rebuild. The workflow can also be started manually from the Actions tab.
 

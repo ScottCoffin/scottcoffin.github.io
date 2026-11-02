@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Environmental Toxicology Research"
 description: "Research by Scott Coffin, PhD on microplastics in drinking water, ecotoxicology, PFAS, New Approach Methodologies, toxicokinetics, computational toxicology, and regulatory risk assessment."
 permalink: /Research/
 layout: splash
