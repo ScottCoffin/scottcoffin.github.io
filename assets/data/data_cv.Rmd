@@ -7,106 +7,393 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
+input_path <- normalizePath(knitr::current_input(dir = TRUE), mustWork = TRUE)
+data_dir <- dirname(input_path)
+repository_root <- normalizePath(file.path(data_dir, "..", ".."), mustWork = TRUE)
+assets_dir <- file.path(repository_root, "assets")
+widgets_dir <- file.path(assets_dir, "widgets")
+includes_dir <- file.path(repository_root, "_includes")
+
+dir.create(widgets_dir, recursive = TRUE, showWarnings = FALSE)
 ```
 
-```{r}
-library(tidyverse)
-library(skimr)
-library(lubridate)
-library(plotly)
-library(cols4all)
-```
-
-```{r}
-getwd()
-#read in data
-cv <- readxl::read_xlsx("presentation tracking spreadsheet.xlsx",
+```{r import-data}
+cv <- readxl::read_xlsx(file.path(data_dir, "presentation tracking spreadsheet.xlsx"),
                         sheet = "data")
 
-#convert dates
-date <- cv %>% 
-  mutate(day = 1) %>% 
-  mutate(month_number = match(Month, month.name)) %>% 
-  mutate(date = make_date(year = Year, month = month_number, day = day)) %>% 
-  mutate(Category = as.factor(Category),
-       Type = as.factor(Type),
-       Face = as.factor(Face))
+required_columns <- c("Year", "Month", "Name", "Type", "Category", "Face")
+missing_columns <- setdiff(required_columns, names(cv))
+if (length(missing_columns) > 0) {
+  stop("The data sheet is missing required columns: ", paste(missing_columns, collapse = ", "))
+}
 
+engagement_data <- cv |>
+  dplyr::mutate(
+    month_number = match(Month, month.name),
+    date = lubridate::make_date(year = Year, month = month_number, day = 1),
+    Name = gsub("[[:space:]]+", " ", trimws(Name)),
+    Type = tools::toTitleCase(tolower(trimws(Type))),
+    Category = tools::toTitleCase(tolower(trimws(Category))),
+    Face = trimws(Face)
+  )
 
-#plot
-engagements <- date %>% 
-  ggplot() +
-  geom_histogram(aes(x = date,
-                     #color = Category,
-                     fill = Category
-                     #fill = Face,
-                     ),
-                 binwidth = 91, 
-                 position = "stack") + #quarterly
-  scale_x_date(limits = as.Date(c("2014-04-01", "2025-11-01")),
-               date_breaks = "12 months",
-               #date_labels = "%B (%Y)"
-               date_labels = "%Y"
-               ) +
-  scale_fill_discrete_c4a_cat("poly.dark24") +
-  ylab("Number per Quarter") +
-  labs(title = "Speaking Engagements Over Time",
-       subtitle = "Scott Coffin, Ph.D.") +
-  theme_minimal(base_size = 18) +
-  theme(legend.title = element_blank(),
-        plot.title = element_text(hjust = 0.5),
-        plot.subtitle = element_text(hjust = 0.5, face = "italic"),
-        legend.position = c(0.15,0.55),
-        axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)
-        )
+invalid_months <- unique(engagement_data$Month[
+  !is.na(engagement_data$Month) & is.na(engagement_data$month_number)
+])
+if (length(invalid_months) > 0) {
+  stop("The data sheet contains invalid English month names: ", paste(invalid_months, collapse = ", "))
+}
+```
+
+```{r build-summary}
+dated_engagements <- engagement_data |>
+  dplyr::filter(!is.na(date))
+
+current_year <- as.integer(format(Sys.Date(), "%Y"))
+year_min <- min(engagement_data$Year, na.rm = TRUE)
+year_max <- max(engagement_data$Year, na.rm = TRUE)
+category_totals <- engagement_data |>
+  dplyr::count(Category, sort = TRUE, name = "engagements")
+
+summary_cards <- htmltools::tags$div(
+  class = "engagements-summary",
+  role = "list",
+  `aria-label` = "Speaking engagement summary",
+  htmltools::tags$div(
+    class = "engagements-stat",
+    role = "listitem",
+    htmltools::tags$span(class = "engagements-stat-value", format(nrow(engagement_data), big.mark = ",")),
+    htmltools::tags$span(class = "engagements-stat-label", "Total engagements")
+  ),
+  htmltools::tags$div(
+    class = "engagements-stat",
+    role = "listitem",
+    htmltools::tags$span(
+      class = "engagements-stat-value",
+      format(sum(engagement_data$Year == current_year, na.rm = TRUE), big.mark = ",")
+    ),
+    htmltools::tags$span(class = "engagements-stat-label", paste("Engagements in", current_year))
+  ),
+  htmltools::tags$div(
+    class = "engagements-stat",
+    role = "listitem",
+    htmltools::tags$span(class = "engagements-stat-value engagements-stat-text", category_totals$Category[[1]]),
+    htmltools::tags$span(class = "engagements-stat-label", "Most frequent category")
+  ),
+  htmltools::tags$div(
+    class = "engagements-stat",
+    role = "listitem",
+    htmltools::tags$span(
+      class = "engagements-stat-value",
+      length(unique(engagement_data$Year[!is.na(engagement_data$Year)]))
+    ),
+    htmltools::tags$span(class = "engagements-stat-label", paste0("Years represented (", year_min, "–", year_max, ")"))
+  )
+)
+
+summary_note <- htmltools::tags$p(
+  class = "engagements-summary-note",
+  id = "engagements-summary-note",
+  paste0(
+    "The timeline reports quarterly totals from ", year_min, " through ", year_max,
+    ". The six most common categories are shown separately; less frequent formats are grouped as Other. ",
+    "The archive below retains every original category and engagement title."
+  )
+)
+
+summary_html <- htmltools::renderTags(htmltools::tagList(summary_cards, summary_note))$html
+writeLines(
+  c("<!-- Generated by assets/data/data_cv.Rmd; do not edit directly. -->", summary_html),
+  file.path(includes_dir, "engagements-summary.html"),
+  useBytes = TRUE
+)
+```
+
+```{r build-plot}
+featured_categories <- utils::head(category_totals$Category, 6)
+chart_levels <- c(featured_categories, "Other")
+
+quarterly_engagements <- dated_engagements |>
+  dplyr::mutate(
+    quarter = lubridate::floor_date(date, unit = "quarter"),
+    chart_category = ifelse(Category %in% featured_categories, Category, "Other")
+  ) |>
+  dplyr::count(quarter, chart_category, name = "engagements") |>
+  dplyr::mutate(
+    chart_category = factor(chart_category, levels = chart_levels),
+    hover_text = paste0(
+      "<b>", format(quarter, "%B %Y"), "</b><br>",
+      chart_category, "<br>", engagements,
+      ifelse(engagements == 1, " engagement", " engagements")
+    )
+  )
+
+chart_palette <- stats::setNames(
+  c("#0072B2", "#E69F00", "#009E73", "#CC79A7", "#56B4E9", "#D55E00", "#5F6368"),
+  chart_levels
+)
+
+engagements <- quarterly_engagements |>
+  ggplot2::ggplot() +
+  ggplot2::geom_col(
+    ggplot2::aes(x = quarter, y = engagements, fill = chart_category, text = hover_text),
+    width = 80,
+    color = "white",
+    linewidth = 0.15
+  ) +
+  ggplot2::scale_x_date(
+    limits = as.Date(c(paste0(year_min, "-01-01"), paste0(year_max, "-12-31"))),
+    date_breaks = "12 months",
+    date_labels = "%Y",
+    expand = ggplot2::expansion(mult = c(0.01, 0.02))
+  ) +
+  ggplot2::scale_y_continuous(
+    breaks = scales::breaks_pretty(),
+    expand = ggplot2::expansion(mult = c(0, 0.08))
+  ) +
+  ggplot2::scale_fill_manual(
+    values = chart_palette,
+    drop = FALSE
+  ) +
+  ggplot2::labs(
+    x = NULL,
+    y = "Engagements per quarter",
+    fill = NULL
+  ) +
+  ggplot2::guides(fill = ggplot2::guide_legend(nrow = 2, byrow = TRUE)) +
+  ggplot2::theme_minimal(base_size = 15) +
+  ggplot2::theme(
+    legend.position = "bottom",
+    legend.justification = "left",
+    legend.text = ggplot2::element_text(size = 10),
+    panel.grid.minor = ggplot2::element_blank(),
+    panel.grid.major.x = ggplot2::element_blank(),
+    axis.title.y = ggplot2::element_text(margin = ggplot2::margin(r = 12)),
+    axis.text = ggplot2::element_text(color = "#374151"),
+    plot.margin = ggplot2::margin(12, 12, 8, 8)
+  )
 
 engagements
 ```
  
-```{r}
-ggsave(engagements,
-       file = "../engagements.jpeg",
-       bg = "white",
-       dpi = 300,
-       width = 8, height = 6,
-       units = "in",
-       scale = 0.8)
+```{r save-plot}
+ggplot2::ggsave(
+  filename = file.path(assets_dir, "engagements.jpeg"),
+  plot = engagements,
+  bg = "white",
+  dpi = 300,
+  width = 10,
+  height = 6,
+  units = "in",
+  scale = 1
+)
 ```
  
-##plotly
-```{r}
-plotly <- ggplotly(engagements,
-       #  width = 12,
-        # height = 8,
-         tooltip = c("count", "Category"))
+## Plotly
 
-htmlwidgets::saveWidget(plotly::as_widget(plotly), "../widgets/engagements.html")
+```{r save-interactive-plot}
+set.seed(20261101)
+engagement_widget <- plotly::ggplotly(
+  engagements,
+  tooltip = "text",
+  height = 500
+) |>
+  plotly::layout(
+    legend = list(
+      orientation = "h",
+      x = 0,
+      xanchor = "left",
+      y = -0.2,
+      yanchor = "top",
+      title = list(text = "<b>Filter by category</b>")
+    ),
+    margin = list(l = 72, r = 24, t = 20, b = 135),
+    hoverlabel = list(bgcolor = "white", bordercolor = "#CBD5E1", font = list(color = "#111827"))
+  ) |>
+  plotly::config(
+    displaylogo = FALSE,
+    responsive = TRUE,
+    modeBarButtonsToRemove = c("lasso2d", "select2d", "autoScale2d")
+  )
 
-plotly
+old_plot_data_ids <- names(engagement_widget$x$attrs)
+plot_data_ids <- sprintf("engagements-layer-%02d", seq_along(engagement_widget$x$attrs))
+current_data_index <- match(engagement_widget$x$cur_data, old_plot_data_ids)
+names(engagement_widget$x$attrs) <- plot_data_ids
+names(engagement_widget$x$visdat) <- plot_data_ids
+engagement_widget$x$cur_data <- plot_data_ids[[current_data_index]]
+if (!is.null(engagement_widget$x$layoutAttrs)) {
+  names(engagement_widget$x$layoutAttrs) <- plot_data_ids[match(names(engagement_widget$x$layoutAttrs), old_plot_data_ids)]
+}
+
+desktop_tick_years <- seq(min(engagement_data$Year), max(engagement_data$Year))
+mobile_tick_years <- unique(c(
+  desktop_tick_years[seq_along(desktop_tick_years) %% 2 == 1],
+  max(desktop_tick_years)
+))
+axis_ticks <- list(
+  desktop_values = as.numeric(as.Date(sprintf("%d-01-01", desktop_tick_years))),
+  desktop_labels = as.character(desktop_tick_years),
+  mobile_values = as.numeric(as.Date(sprintf("%d-01-01", mobile_tick_years))),
+  mobile_labels = as.character(mobile_tick_years)
+)
+
+engagement_widget <- htmlwidgets::onRender(
+  engagement_widget,
+  "function(el, x, ticks) {
+    var currentMobile = null;
+    function updateLayout() {
+      var mobile = el.clientWidth < 520;
+      if (mobile === currentMobile) return;
+      currentMobile = mobile;
+      Plotly.relayout(el, {
+        height: mobile ? 620 : 500,
+        'xaxis.tickmode': 'array',
+        'xaxis.tickvals': mobile ? ticks.mobile_values : ticks.desktop_values,
+        'xaxis.ticktext': mobile ? ticks.mobile_labels : ticks.desktop_labels,
+        'xaxis.tickangle': 0,
+        'xaxis.tickfont.size': mobile ? 10 : 12,
+        'legend.orientation': mobile ? 'v' : 'h',
+        'legend.x': mobile ? 0.16 : 0,
+        'legend.y': mobile ? -0.16 : -0.2,
+        'legend.yanchor': 'top',
+        'legend.font.size': mobile ? 11 : 12,
+        'margin.b': mobile ? 255 : 135,
+        'margin.l': mobile ? 58 : 72,
+        'margin.r': mobile ? 10 : 24
+      });
+    }
+    updateLayout();
+    if (window.ResizeObserver) {
+      new ResizeObserver(updateLayout).observe(el);
+    } else {
+      window.addEventListener('resize', updateLayout);
+    }
+  }",
+  data = axis_ticks
+)
+
+plot_dependencies <- tempfile(".engagements-files-", tmpdir = widgets_dir)
+htmlwidgets::saveWidget(
+  plotly::as_widget(engagement_widget),
+  file.path(widgets_dir, "engagements.html"),
+  selfcontained = TRUE,
+  libdir = plot_dependencies
+)
+unlink(plot_dependencies, recursive = TRUE)
+
+engagement_widget
 ```
+
 # Data table
-```{r}
-library(DT)
 
+```{r save-data-table}
+set.seed(20261102)
+engagement_table <- engagement_data |>
+  dplyr::transmute(
+    Date = ifelse(is.na(date), as.character(Year), format(date, "%Y-%m-%d")),
+    Engagement = Name,
+    Format = Type,
+    Category = Category
+  )
 
-table <- date %>% dplyr::select(c(Year, Month, Name, Type, Category))
-                        
-datatable <- datatable(table,
-          options = list(autoWidth = TRUE),
-          filter = list(position = 'top'),
-          rownames = FALSE)
+date_renderer <- DT::JS(
+  "function(data, type) {",
+  "  if (type !== 'display' || !data || data.length !== 10) return data;",
+  "  var parts = data.split('-');",
+  "  var date = new Date(Date.UTC(Number(parts[0]), Number(parts[1]) - 1, 1));",
+  "  return new Intl.DateTimeFormat('en-US', {month: 'short', year: 'numeric', timeZone: 'UTC'}).format(date);",
+  "}"
+)
 
-htmlwidgets::saveWidget(datatable, "assets/widgets/datatable.html")
+category_renderer <- DT::JS(
+  "function(data, type) {",
+  "  if (type !== 'display') return data;",
+  "  var badge = document.createElement('span');",
+  "  badge.className = 'category-badge category-' + data.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');",
+  "  badge.textContent = data;",
+  "  return badge.outerHTML;",
+  "}"
+)
 
+datatable_widget <- DT::datatable(
+  engagement_table,
+  class = "display stripe hover compact",
+  extensions = c("Responsive", "FixedHeader"),
+  caption = htmltools::tags$caption(class = "dt-caption", "Speaking engagements and media appearances"),
+  options = list(
+    responsive = TRUE,
+    fixedHeader = TRUE,
+    pageLength = 5,
+    lengthMenu = list(c(5, 10, 25, 50), c("5", "10", "25", "50")),
+    order = list(list(0, "desc")),
+    autoWidth = FALSE,
+    language = list(
+      search = "",
+      searchPlaceholder = "Search all engagements…",
+      lengthMenu = "Show _MENU_",
+      info = "Showing _START_–_END_ of _TOTAL_ engagements",
+      infoEmpty = "No engagements found",
+      zeroRecords = "No matching engagements"
+    ),
+    columnDefs = list(
+      list(render = date_renderer, targets = 0, width = "13%", responsivePriority = 2),
+      list(targets = 1, width = "51%", responsivePriority = 1),
+      list(targets = 2, width = "15%", responsivePriority = 4),
+      list(render = category_renderer, targets = 3, width = "21%", responsivePriority = 3),
+      list(className = "dt-nowrap", targets = c(0, 2, 3))
+    )
+  ),
+  rownames = FALSE
+)
 
-datatable
+table_css <- paste0(
+  "html,body{margin:0;background:#fff;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;color:#1f2937;}",
+  ".dataTables_wrapper{padding:4px 6px 18px;font-size:14px;}",
+  ".dataTables_filter{float:none!important;text-align:left!important;margin:0 0 16px!important;}",
+  ".dataTables_filter label{display:block;font-weight:600;color:#334155;}",
+  ".dataTables_filter input{box-sizing:border-box;width:min(100%,420px)!important;margin:6px 0 0!important;padding:10px 12px!important;border:1px solid #94a3b8!important;border-radius:8px;background:#fff;}",
+  ".dataTables_filter input:focus,.dataTables_length select:focus,.paginate_button:focus,table.dataTable thead th:focus{outline:3px solid rgba(0,95,142,.25)!important;outline-offset:2px;}",
+  "table.dataTable{border:1px solid #dbe3ea!important;border-radius:8px;overflow:hidden;}",
+  "table.dataTable thead th{background:#edf3f7!important;color:#183b56!important;border-bottom:2px solid #b8c8d4!important;font-weight:700;}",
+  "table.dataTable tbody td{padding:11px 10px!important;vertical-align:top;border-top:1px solid #e5e7eb!important;line-height:1.45;}",
+  "table.dataTable tbody tr:nth-child(even){background:#f8fafc!important;}",
+  "table.dataTable tbody tr:hover{background:#edf6fa!important;}",
+  ".category-badge{display:inline-flex;align-items:center;max-width:100%;padding:3px 8px;border-radius:999px;background:#e2e8f0;color:#334155;font-size:12px;font-weight:700;line-height:1.35;white-space:normal;}",
+  ".category-conference{background:#dbeafe;color:#1e3a8a;}",
+  ".category-conference-keynote{background:#f3e8ff;color:#6b21a8;}",
+  ".category-meeting{background:#dcfce7;color:#166534;}",
+  ".category-webinar{background:#ccfbf1;color:#115e59;}",
+  ".category-outreach{background:#fef3c7;color:#92400e;}",
+  ".category-lecture{background:#fee2e2;color:#991b1b;}",
+  ".dataTables_info,.dataTables_length,.dataTables_paginate{margin-top:14px!important;color:#475569!important;}",
+  ".dataTables_paginate .paginate_button.current{border-color:#005f8e!important;background:#005f8e!important;color:#fff!important;}",
+  ".dt-nowrap{white-space:nowrap;}",
+  ".dt-caption{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important;}",
+  "@media(max-width:600px){.dataTables_wrapper{padding:2px 2px 16px;font-size:13px}.dataTables_filter input{width:100%!important}.dataTables_length,.dataTables_info,.dataTables_paginate{float:none!important;text-align:left!important}.dataTables_paginate{padding-top:8px!important}.dt-nowrap{white-space:normal;}}"
+)
+
+datatable_widget <- htmlwidgets::prependContent(
+  datatable_widget,
+  htmltools::tags$style(htmltools::HTML(table_css))
+)
+
+table_dependencies <- tempfile(".datatable-files-", tmpdir = widgets_dir)
+htmlwidgets::saveWidget(
+  datatable_widget,
+  file.path(widgets_dir, "datatable.html"),
+  selfcontained = TRUE,
+  libdir = table_dependencies
+)
+unlink(table_dependencies, recursive = TRUE)
+
+datatable_widget
 ```
 
  
-```{r}
-date %>%
-  group_by(Category) %>% 
-  summarize(n())
+```{r category-summary}
+engagement_data |>
+  dplyr::count(Category, name = "engagements")
 ```
- 
  

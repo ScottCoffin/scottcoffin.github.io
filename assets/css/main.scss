@@ -592,6 +592,170 @@ details.demo-details {
   }
 }
 
+/* === Speaking engagement dashboard === */
+.engagements-section {
+  margin: 3rem 0 2rem;
+  padding: clamp(1.1rem, 3vw, 2rem);
+  border: 1px solid #dbe3ea;
+  border-radius: 1rem;
+  background: linear-gradient(180deg, #f7fafc 0, #fff 18rem);
+  box-shadow: 0 12px 32px rgba(15, 23, 42, 0.08);
+}
+
+.engagements-heading {
+  max-width: 760px;
+  margin-bottom: 1.4rem;
+
+  h2 {
+    margin: 0.2rem 0 0.55rem;
+    color: #153b56;
+    font-size: clamp(1.55rem, 3vw, 2.15rem);
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+    color: #475569;
+    font-size: 0.98rem;
+  }
+}
+
+.engagements-eyebrow {
+  margin: 0;
+  color: #006b8f;
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.engagements-summary {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1.35rem 0 0.85rem;
+}
+
+.engagements-stat {
+  min-height: 92px;
+  padding: 0.95rem 1rem;
+  border: 1px solid #dbe6ed;
+  border-radius: 0.75rem;
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.05);
+}
+
+.engagements-stat-value,
+.engagements-stat-label {
+  display: block;
+}
+
+.engagements-stat-value {
+  color: #005f8e;
+  font-size: 1.55rem;
+  font-weight: 800;
+  line-height: 1.15;
+}
+
+.engagements-stat-text {
+  font-size: 1.15rem;
+}
+
+.engagements-stat-label {
+  margin-top: 0.35rem;
+  color: #52606d;
+  font-size: 0.76rem;
+  font-weight: 650;
+  line-height: 1.35;
+}
+
+.engagements-summary-note {
+  margin: 0 0 1.1rem;
+  color: #52606d;
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.engagements-frame {
+  overflow: hidden;
+  border: 1px solid #ccd8e0;
+  border-radius: 0.8rem;
+  background: #fff;
+  box-shadow: 0 3px 12px rgba(15, 23, 42, 0.06);
+
+  iframe {
+    display: block;
+    width: 100%;
+    border: 0;
+    background: #fff;
+  }
+}
+
+.engagements-chart {
+  height: 530px;
+}
+
+.engagements-archive-heading {
+  margin: 2rem 0 0.8rem;
+
+  h3 {
+    margin: 0 0 0.35rem;
+    color: #153b56;
+    font-size: 1.25rem;
+  }
+
+  p {
+    margin: 0;
+    color: #52606d;
+    font-size: 0.9rem;
+  }
+}
+
+.engagements-table {
+  height: 660px;
+}
+
+@media (max-width: 850px) {
+  .engagements-summary {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 520px) {
+  .engagements-section {
+    margin-right: -0.65rem;
+    margin-left: -0.65rem;
+    padding: 1rem 0.65rem;
+    border-right: 0;
+    border-left: 0;
+    border-radius: 0;
+  }
+
+  .engagements-summary {
+    gap: 0.55rem;
+  }
+
+  .engagements-stat {
+    min-height: 84px;
+    padding: 0.75rem;
+  }
+
+  .engagements-stat-value {
+    font-size: 1.3rem;
+  }
+
+  .engagements-stat-text {
+    font-size: 1rem;
+  }
+
+  .engagements-chart {
+    height: 650px;
+  }
+
+  .engagements-table {
+    height: 880px;
+  }
+}
+
 /* === Career timeline === */
 .timeline {
   border-left: 3px solid #e6e6e6;

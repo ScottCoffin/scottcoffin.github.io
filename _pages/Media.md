@@ -520,17 +520,28 @@ I speak with journalists, students, community groups, researchers, and policymak
 
 ---
 
-## Speaking engagement history
+<section class="engagements-section" aria-labelledby="engagements-heading">
+  <div class="engagements-heading">
+    <p class="engagements-eyebrow">Speaking &amp; public engagement</p>
+    <h2 id="engagements-heading">Engagement history</h2>
+    <p>Explore quarterly speaking activity by format, then search the complete archive. Select a category in the chart legend to hide it; double-select a category to focus on it.</p>
+  </div>
 
-<iframe src="/assets/widgets/engagements.html" height="500px" width="100%" style="border:none;" loading="lazy" title="Stacked bar chart of speaking engagements by year since 2014"></iframe>
+  {% include engagements-summary.html %}
 
----
+  <div class="engagements-frame engagements-chart-frame">
+    <iframe class="engagements-chart" src="/assets/widgets/engagements.html" loading="lazy" title="Interactive quarterly speaking engagement chart with category filters" aria-describedby="engagements-summary-note"></iframe>
+  </div>
 
-## Full archive
+  <div class="engagements-archive-heading">
+    <h3 id="engagements-archive-heading">Full archive</h3>
+    <p id="engagements-archive-description">Search titles, formats, or categories. Entries are shown newest first; use the column headings to change the sort order.</p>
+  </div>
 
-Searchable and sortable table of all media appearances and speaking engagements.
-
-<iframe src="/assets/widgets/datatable.html" height="600px" width="100%" style="border:none;" loading="lazy" title="Full searchable table of media appearances and speaking engagements"></iframe>
+  <div class="engagements-frame engagements-table-frame">
+    <iframe class="engagements-table" src="/assets/widgets/datatable.html" loading="lazy" title="Searchable archive of speaking engagements and media appearances" aria-describedby="engagements-archive-description"></iframe>
+  </div>
+</section>
 
 <script>
 (function () {

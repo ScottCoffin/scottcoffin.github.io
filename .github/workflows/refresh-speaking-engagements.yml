@@ -1,0 +1,73 @@
+name: Refresh speaking engagement assets
+
+on:
+  push:
+    paths:
+      - "assets/data/presentation tracking spreadsheet.xlsx"
+      - "assets/data/data_cv.Rmd"
+      - "scripts/render_cv_assets.R"
+      - ".github/workflows/refresh-speaking-engagements.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: refresh-speaking-engagements-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref_name == github.event.repository.default_branch
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+      - name: Set up Pandoc
+        uses: r-lib/actions/setup-pandoc@v2
+      - name: Install R dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::dplyr
+            any::DT
+            any::ggplot2
+            any::htmlwidgets
+            any::htmltools
+            any::lubridate
+            any::plotly
+            any::readxl
+            any::rmarkdown
+            any::scales
+      - name: Render speaking engagement assets
+        run: Rscript scripts/render_cv_assets.R
+      - name: Commit refreshed assets
+        id: commit
+        shell: bash
+        run: |
+          git add -- \
+            _includes/engagements-summary.html \
+            assets/engagements.jpeg \
+            assets/widgets/engagements.html \
+            assets/widgets/datatable.html
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Speaking engagement assets are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh speaking engagement assets"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      - name: Request GitHub Pages rebuild
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"

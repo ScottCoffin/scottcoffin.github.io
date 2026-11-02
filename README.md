@@ -95,6 +95,18 @@ npm run check:guidance
 
 Do not edit `_site/`; Jekyll regenerates it.
 
+## Update speaking engagement data
+
+The speaking-engagement chart and searchable table are generated from `assets/data/presentation tracking spreadsheet.xlsx`. After editing the `data` sheet, regenerate the public assets locally from the repository root:
+
+```bash
+Rscript scripts/render_cv_assets.R
+```
+
+The command updates `_includes/engagements-summary.html`, `assets/engagements.jpeg`, `assets/widgets/engagements.html`, and `assets/widgets/datatable.html`. Commit the spreadsheet, source Rmd, and regenerated assets together after reviewing them.
+
+On the default branch, `.github/workflows/refresh-speaking-engagements.yml` runs the same command whenever the spreadsheet or generator changes. If the derived assets changed, the workflow commits only those four files and requests a GitHub Pages rebuild. The workflow can also be started manually from the Actions tab.
+
 ## Validate before publishing
 
 Run the narrow checks first, followed by a production build:
