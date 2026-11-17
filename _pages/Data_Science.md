@@ -51,6 +51,24 @@ I build and support open tools, databases, and reproducible workflows for enviro
     </div>
   </div>
 
+  <div class="tool-card" data-types="platform app">
+    <div class="tool-color-bar" style="--tool-color:#2a9d8f;"></div>
+    <div class="tool-image">
+      <img src="/assets/images/plastiverse_live.svg" alt="Plastiverse Live logo">
+    </div>
+    <div class="tool-body">
+      <div class="tool-title">Plastiverse Live</div>
+      <div class="tool-badges">
+        <span class="tbadge" style="background:#195e55;">Platform</span>
+        <span class="tbadge" style="background:#1a7a3c;">Active</span>
+      </div>
+      <div class="tool-desc">The live Plastiverse web application, an interactive entry point to the community hub for micro- and macro-plastics research tools, databases, and protocols.</div>
+      <div class="tool-links">
+        <a href="https://plastiverse.live/">Live app</a>
+      </div>
+    </div>
+  </div>
+
   <div class="tool-card" data-types="app r-package">
     <div class="tool-color-bar" style="--tool-color:#0077b6;"></div>
     <div class="tool-image">

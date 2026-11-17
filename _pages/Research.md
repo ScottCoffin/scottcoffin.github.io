@@ -279,6 +279,8 @@ Bioanalytical screening tools, analytical chemistry, laboratory methods developm
 
 Perspectives, regulatory science work, and science communication connecting emerging contaminant research to regulatory frameworks and management decisions under uncertainty.
 
+- Pasparakis, C., Spooner, Z. T., Landis, W. G., Brander, S. M., Elser, S. R., **Coffin, S.**, Nicklisch, S. C. T., Tangri, N., O'Donnell, M. J., Shapiro, K., Gjeltema, J., Lang, J., Miller, E. L., Rochman, C., Nance, A., & Segarra, A. (2026). "From Sources to Solutions: The San Francisco Bay–Delta System as a Microcosm for Microplastic Science." *ACS ES&T Water*. [Full text](https://doi.org/10.1021/acsestwater.6c01560)
+
 - Montagner, C. C., Waldman, W. R., Turra, A., Ando, R. A., Labuto, G., Semensatto, D., Costa, M. F., Grassi, M. T., Fernandes, A. N., Árias, A. H., **Coffin, S.**, Wagner, M., Lusher, A. L., Lozano, Y. M., Henry, T. B., & Thompson, R. (2026). "The road ahead in plastic pollution: research and policy connections." *Química Nova*, 49, e-20260119, 1–2. [Full text](https://quimicanova.sbq.org.br/pdf/00-editorial_Outubro-2026)
 
 - Koelmans, A., Bouwmeester, H., Christopher, E., **Coffin, S.**, Haase, A., Lane, T., Legler, J., Vermeulen, R., Visser, M., Vogel, A., Wardani, I., Zou, R., 2026. "Towards Regulatory Readiness: Evaluating Frameworks for Microplastic Health Risk Assessment." *Microplastics & Nanoplastics*. [Preprint](https://doi.org/10.2139/ssrn.5957574)
